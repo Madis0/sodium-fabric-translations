@@ -1,6 +1,4 @@
-# Sodium Translation Project
-
-![Project icon](https://raw.githubusercontent.com/CaffeineMC/sodium-fabric/HEAD/src/main/resources/assets/sodium/icon.png)
+# Unofficial Sodium Translations
 
 ## Overview
 
