@@ -18,14 +18,18 @@ For more information on using Crowdin, please see their "[Intro For Volunteer Tr
 
 ## FAQ
 
-### Current translation is wrong or I don't know how to translate it!
+### Current translation is wrong or I don't know how to translate it
 
 Please [open an issue on the phrase](https://support.crowdin.com/online-editor/#reporting-issues).
 
-### My language is not listed!
+### My language is not listed or I want to become a proofreader
 
 Please [request it on Crowdin Discussions](https://crowdin.com/project/sodium-fabric/discussions).
 
-### Will you translate Sodium into minority or fictional languages?
+#### Will you translate Sodium into minority or fictional languages?
 
 Currently this project will not include fictional (e.g. Esperanto), "joke" (e.g. LOLCAT) or minority languages (speakers less than 1 million or insufficient translations in [official Minecraft project](https://crowdin.com/project/minecraft)). The reason is simple - these languages are easy to abuse and hard to proofread.
+
+### Where can I find the original language file?
+
+At the moment, [1.19.4/stable branch en_us.json](https://github.com/CaffeineMC/sodium-fabric/blob/1.19.4/stable/src/main/resources/assets/sodium/lang/en_us.json) is used. Some strings may be appended from the equivalent dev branch file.
