@@ -55,6 +55,7 @@
   "sodium.options.always_defer_chunk_updates.name": "Chunk-Updates immer verzögern",
   "sodium.options.always_defer_chunk_updates.tooltip": "Wenn diese Option aktiviert ist, wartet das Rendern nie auf den Abschluss von Chunk-Updates, selbst wenn diese wichtig sind. Dies kann die Bildraten in einigen Szenarien erheblich verbessern, kann jedoch zu einer erheblichen visuellen Verzögerung in der Welt führen.",
   "sodium.options.use_no_error_context.name": "Keinen Fehlerkontext verwenden",
+  "sodium.options.use_no_error_context.tooltip": "Wenn diese Option aktiviert ist, wird der OpenGL-Kontext mit deaktivierter Fehlerprüfung erstellt. Dies kann die Leistung leicht verbessern, aber es erhöht auch das Risiko, dass das Spiel abstürzt, anstatt OpenGL-Fehler korrekt zu behandeln. Diese Option sollte deaktiviert werden, wenn es zu plötzlichen, unerklärlichen Abstürzen kommt.",
   "sodium.options.buttons.undo": "Rückgängig machen",
   "sodium.options.buttons.apply": "Anwenden",
   "sodium.options.buttons.donate": "Kauf uns einen Kaffee!"
