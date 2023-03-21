@@ -20,13 +20,13 @@ For more information on using Crowdin, please see their "[Intro For Volunteer Tr
 
 ## FAQ
 
-### A translation(s) uses an offensive phrase. What can I do?
+### Current translation is wrong or I don't know how to translate it!
 
-We sincerely apologize. Translations are community submitted, and despite our best efforts, vandalism will occasionally slip through. Please [open an issue](/issues) explaining, and it will be removed as soon as possible.
+Please [open an issue on the phrase](https://support.crowdin.com/online-editor/#reporting-issues).
 
-### How can I suggest a new language to add for translation?
+### My language is not listed!
 
-Thank you for your interest! Please [open an issue](#issues) with the [in-game Locale Code](https://minecraft.fandom.com/wiki/Language#Languages) from the linked table.
+Please [request it on Crowdin Discussions](https://crowdin.com/project/sodium-fabric/discussions).
 
 ### Will you translate Sodium into minority or fictional languages?
 
