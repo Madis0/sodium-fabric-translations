@@ -17,7 +17,7 @@
   "sodium.options.view_bobbing.tooltip": "Pokud je povoleno, obrazovka hráče se bude hýbat a naklánět při pohybu. Zakázání této možnosti může pomoci hráčům s nevolností z pohybu při hraní.",
   "sodium.options.attack_indicator.tooltip": "Ovládá, kde je na obrazovce zobrazen indikátor útoku.",
   "sodium.options.autosave_indicator.tooltip": "Pokud je povoleno, bude při ukládání hry na disk zobrazena ikona.",
-  "sodium.options.graphics_quality.tooltip": "Výchozí kvalita grafiky ovládá některá zastaralá nastavení a je vyžadována pro kompatibilitu s módy. Pokud jsou možnosti níže ponechány na \"Výchozí\", budou používat toto nastavení.",
+  "sodium.options.graphics_quality.tooltip": "Výchozí kvalita grafiky ovládá některá původní nastavení a je vyžadována pro kompatibilitu s módy. Pokud jsou možnosti níže ponechány na „Výchozí“, budou používat toto nastavení.",
   "sodium.options.clouds_quality.tooltip": "Ovládá přítomnost mraků vykreslovaných na obloze.",
   "sodium.options.weather_quality.tooltip": "Ovládá kvalitu efektů deště a sněhu.",
   "sodium.options.leaves_quality.name": "Listy",
