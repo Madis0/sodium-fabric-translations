@@ -13,6 +13,7 @@
   "sodium.options.gui_scale.tooltip": "Kullanıcı arayüzü için kullanılacak maksimum ölçek faktörünü ayarlar. 'auto' kullanılırsa, her zaman en büyük ölçek faktörü kullanılacaktır.",
   "sodium.options.fullscreen.tooltip": "Etkinleştirilirse oyun tam ekran olarak görüntülenir (destekleniyorsa).",
   "sodium.options.v_sync.tooltip": "Etkinleştirilirse, oyunun kare hızı monitörün yenileme hızıyla senkronize edilerek genel olarak daha sorunsuz bir deneyim sağlanır. Sisteminiz çok yavaşsa bu ayar performansı düşürebilir.",
+  "sodium.options.fps_limit.tooltip": "Saniyedeki maksimum kare sayısını sınırlar. Bu, çoklu görev sırasında pil kullanımını ve genel sistem yükünü azaltmaya yardımcı olabilir. VSync etkinse, ekranınızın yenileme hızından daha düşük olmadığı sürece bu seçenek yok sayılır.",
   "sodium.options.view_bobbing.tooltip": "Etkinleştirilirse, oyuncunun görüşü hareket ederken sallanır ve sallanır. Oynarken hareket tutması yaşayan oyuncular bunu devre dışı bırakmaktan yararlanabilir.",
   "sodium.options.attack_indicator.tooltip": "Saldırı Göstergesinin ekranda nerede görüntüleneceğini kontrol eder.",
   "sodium.options.autosave_indicator.tooltip": "Etkinleştirilirse, dünyayı kaydederken bir gösterge gösterilecektir.",
