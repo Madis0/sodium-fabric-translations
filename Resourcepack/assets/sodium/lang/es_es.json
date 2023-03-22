@@ -13,6 +13,7 @@
   "sodium.options.gui_scale.tooltip": "Ajusta la escala de la interfaz de usuario. Cuando la opción \"automática\" es seleccionada, la interfaz se ajustara a la escala máxima disponible.",
   "sodium.options.fullscreen.tooltip": "Si se activa, el juego se mostrará en pantalla completa (si es compatible).",
   "sodium.options.v_sync.tooltip": "Si se activa, la tasa de fotogramas del juego se sincronizará con la frecuencia de actualización del monitor, lo que generalmente resultará en una experiencia más suave a expensas de un incremento en la latencia de entrada. Este ajuste podría reducir el rendimiento si tu sistema es muy lento.",
+  "sodium.options.fps_limit.tooltip": "Limita el número de fotogramas máximos por segundo. Esto puede ayudar a reducir el uso de batería y la carga general del sistema cuando se realizan otras tareas. Si la Sincronización Vertical está activada, esta opción será ignorada a no ser que sea menor que la frecuencia de actualización de tu monitor.",
   "sodium.options.view_bobbing.tooltip": "Si se activa, la vista del jugador se balanceará y sacudirá cuando este se mueva. Los jugadores que sufran de cinetosis se beneficiarán al desactivar esto.",
   "sodium.options.attack_indicator.tooltip": "Controla donde se mostrará el Indicador de Ataque en la pantalla.",
   "sodium.options.autosave_indicator.tooltip": "Si se activa, se mostrará un indicador cuando el juego esté guardando el mundo en el disco.",
