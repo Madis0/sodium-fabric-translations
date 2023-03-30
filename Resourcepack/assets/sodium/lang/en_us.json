@@ -64,5 +64,7 @@
   "sodium.options.use_no_error_context.tooltip": "If enabled, the OpenGL context will be created with error checking disabled. This may slightly improve performance, but it also increases the risk that the game will crash instead of gracefully handling OpenGL errors. You should disable this option if you are experiencing sudden unexplained crashes.",
   "sodium.options.buttons.undo": "Undo",
   "sodium.options.buttons.apply": "Apply",
-  "sodium.options.buttons.donate": "Buy us a coffee!"
+  "sodium.options.buttons.donate": "Buy us a coffee!",
+  "modmenu.summaryTranslation.sodium": "Modern rendering engine and client-side optimization mod for Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes."
 }
