@@ -18,7 +18,9 @@
   "sodium.options.attack_indicator.tooltip": "Saldırı Göstergesinin ekranda nerede görüntüleneceğini kontrol eder.",
   "sodium.options.autosave_indicator.tooltip": "Etkinleştirilirse, dünyayı kaydederken bir gösterge gösterilecektir.",
   "sodium.options.graphics_quality.tooltip": "Varsayılan grafik kalitesi, bazı eski seçenekleri kontrol eder ve mod uyumluluğu için gereklidir. Aşağıdaki seçenekler \"Varsayılan\" olarak bırakılırsa bu ayarı kullanırlar.",
+  "sodium.options.clouds_quality.tooltip": "Gökyüzündeki bulutların varlığını kontrol eder.",
   "sodium.options.weather_quality.tooltip": "Yağmur ve kar efektlerinin kalitesini kontrol eder.",
+  "sodium.options.leaves_quality.name": "Yapraklar",
   "sodium.options.leaves_quality.tooltip": "Yaprakların kalitesini kontrol eder.",
   "sodium.options.particle_quality.name": "Parçacık Kalitesi",
   "sodium.options.particle_quality.tooltip": "Aynı anda ekranda bulunabilecek maksimum parçacık sayısını kontrol eder.",
@@ -58,7 +60,11 @@
   "sodium.options.chunk_update_threads.tooltip": "Yığın oluşturma için kullanılacak iş parçacığı sayısını belirtir. Daha fazla iş parçacığı kullanmak, yığın yükleme ve güncelleme hızını hızlandırabilir, ancak kare hızını olumsuz etkileyebilir.",
   "sodium.options.always_defer_chunk_updates.name": "Her Zaman Yığın Güncellemelerini Erteleyin",
   "sodium.options.always_defer_chunk_updates.tooltip": "Etkinleştirilirse, işleme, önemli olsalar bile yığın güncellemelerinin bitmesini asla beklemez. Bu, bazı senaryolarda kare hızlarını büyük ölçüde iyileştirebilir, ancak dünyada önemli bir görsel gecikme yaratabilir.",
+  "sodium.options.use_no_error_context.name": "Hata Context'i kullanmayın",
+  "sodium.options.use_no_error_context.tooltip": "Etkinleştirilirse, OpenGL context hata denetimi devre dışı bırakılarak oluşturulur. Bu, performansı biraz artırabilir, ancak oyun OpenGL hatalarını bir şekilde çözmeye çalışmak yerine çökmesine de sebep olabilir. Açıklanamayan ani çökmeler yaşıyorsanız bu seçeneği devre dışı bırakmalısınız.",
   "sodium.options.buttons.undo": "Geri al",
   "sodium.options.buttons.apply": "Uygula",
-  "sodium.options.buttons.donate": "Bize bir kahve al!"
+  "sodium.options.buttons.donate": "Bize bir kahve al!",
+  "modmenu.summaryTranslation.sodium": "Minecraft için modern işleme motoru ve istemci tarafı optimizasyon modu",
+  "modmenu.descriptionTranslation.sodium": "Sodium, Minecraft için kare hızlarını iyileştiren ve gecikmeyi azaltan ücretsiz ve açık kaynaklı bir optimizasyon modudur."
 }
