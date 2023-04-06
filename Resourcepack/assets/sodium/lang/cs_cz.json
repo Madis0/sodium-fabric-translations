@@ -64,5 +64,7 @@
   "sodium.options.use_no_error_context.tooltip": "Při povolení této možnosti bude vytvořen kontext OpenGL s vypnutou kontrolou chyb. To může mírně zlepšit výkon, ale také to zvyšuje riziko, že hra spadne, místo aby elegantně řešila chyby OpenGL. Tuto možnost byste měli zakázat, pokud dochází k náhlým nevysvětlitelným pádům.",
   "sodium.options.buttons.undo": "Zpět",
   "sodium.options.buttons.apply": "Použít",
-  "sodium.options.buttons.donate": "Kupte nám kávu!"
+  "sodium.options.buttons.donate": "Kupte nám kávu!",
+  "modmenu.summaryTranslation.sodium": "Moderní vykreslovací modul a optimalizační mód na straně klienta pro Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium je bezplatný optimalizační mód s otevřeným zdrojem pro Minecraft, který zlepšuje snímkovou frekvenci a omezuje záseky."
 }
