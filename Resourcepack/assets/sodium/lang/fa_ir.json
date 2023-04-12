@@ -64,5 +64,6 @@
   "sodium.options.use_no_error_context.tooltip": "اگر فعال باشد، محتوای OpenGL با چک کننده خطای غیرفعال ساخته خواهد شد. این ممکن است مقدار کمی باعث بهبود پردازش شود، اما همچنین میتواند باعث بالارفتن خطر کرش رفتن بازی به جای هدایت مناسب خطاهای OpenGL بشود. شما باید این گزینه را درصورت تجربه کردن کرش های ناگهانی و غیرمنتظره و قابل توضیح، غیرفعال کنید.",
   "sodium.options.buttons.undo": "انصراف",
   "sodium.options.buttons.apply": "اعمال",
-  "sodium.options.buttons.donate": "برای ما یک قهوه بخرید!"
+  "sodium.options.buttons.donate": "برای ما یک قهوه بخرید!",
+  "modmenu.descriptionTranslation.sodium": "سودیوم رایگان و متن باز است مادی برای بهتر کردن فریم ریت و کمتر کردن لگ."
 }
