@@ -64,5 +64,7 @@
   "sodium.options.use_no_error_context.tooltip": "啟用後，OpenGL 上下文將被建立為無錯誤檢查模式。這可能會稍微提高效能，但也會增加遊戲崩潰的風險，而不是優雅地處理 OpenGL 錯誤。如果您遇到突然無法解釋的崩潰，應停用此選項。",
   "sodium.options.buttons.undo": "復原",
   "sodium.options.buttons.apply": "套用",
-  "sodium.options.buttons.donate": "幫我買杯咖啡！"
+  "sodium.options.buttons.donate": "幫我買杯咖啡！",
+  "modmenu.summaryTranslation.sodium": "現代的繪製引擎和用於 Minecraft 的用戶端效能模組。",
+  "modmenu.descriptionTranslation.sodium": "Sodium 是個免費且開放原始碼的 Minecraft 效能模組，可以提高 FPS 並減少卡頓。"
 }
