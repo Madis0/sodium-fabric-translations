@@ -1,0 +1,61 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - Sodium Translations/**
+
+permissions:
+  contents: write
+
+jobs:
+  version:
+    name: Bump Version
+    runs-on: ubuntu-latest
+
+    outputs:
+      tag: ${{ steps.bump.outputs.tag }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Bump Version
+        id: bump
+        uses: anothrNick/github-tag-action@d77194f92b4ca48b05df5c20709984535a9cd6e0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
+
+
+  release:
+    name: Build Resource Pack
+    runs-on: ubuntu-latest
+
+    needs:
+      - version
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create Resource Pack File
+        run: (cd Sodium\ Translations && zip -r "../Sodium Translations.zip" *)
+
+      - name: Generate Checksum
+        run: sha1sum "Sodium Translations.zip" | cut -d " " -f 1 > "Sodium Translations.zip.sha1sum"
+      
+      - name: Store Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Resource Pack
+          path: Sodium\ Translations.zip*
+      
+      - name: Release on GitHub
+        uses: softprops/action-gh-release@c9b46fe7aad9f02afd89b12450b780f52dacfb2d
+        with:
+          tag_name: ${{ needs.version.outputs.tag }}
+          generate_release_notes: true
+          files: Sodium\ Translations.zip*
