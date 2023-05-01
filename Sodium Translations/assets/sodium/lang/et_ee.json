@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Rakenda",
   "sodium.options.buttons.donate": "Osta meile kohvi!",
   "modmenu.summaryTranslation.sodium": "Modernne renderdusmootor ja kliendipoolse optimeerimise mod Minecraftile",
-  "modmenu.descriptionTranslation.sodium": "Sodium on tasuta ja avatud lähtekoodiga mod Minecraftile, mis parandab kaadrisagedust ja vähendab latentsusokkaid."
+  "modmenu.descriptionTranslation.sodium": "Sodium on tasuta ja avatud lähtekoodiga mod Minecraftile, mis parandab kaadrisagedust ja vähendab latentsusokkaid.",
+  "sodium.resource_pack.unofficial": "§7Mitteametlikud tõlked Sodiumile§r"
 }
