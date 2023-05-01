@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Εφαρμογή",
   "sodium.options.buttons.donate": "Κεράστε μας ένα καφεδάκι!",
   "modmenu.summaryTranslation.sodium": "Mod σύγχρονης μηχανής απεικόνισης και βελτιστοποίησης client-side το Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Το Sodium είναι ένα δωρεάν και ανοιχτού κώδικα mod βελτιστοποίησης για το Minecraft, το οποίο βελτιώνει τους ρυθμούς καρέ και μειώνει τις αιχμές υστέρησης."
+  "modmenu.descriptionTranslation.sodium": "Το Sodium είναι ένα δωρεάν και ανοιχτού κώδικα mod βελτιστοποίησης για το Minecraft, το οποίο βελτιώνει τους ρυθμούς καρέ και μειώνει τις αιχμές υστέρησης.",
+  "sodium.resource_pack.unofficial": "§7Ανεπίσημες μεταφράσεις για το Sodium§r"
 }
