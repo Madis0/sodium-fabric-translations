@@ -20,6 +20,10 @@ For more information on using Crowdin, please see their "[Intro For Volunteer Tr
 
 ## FAQ
 
+### Can I include this in my CurseForge/Modrinth/packwiz/whatever modpack?
+
+Yes! Everyone can do it, don't need any special permission.
+
 ### Current translation is wrong or I don't know how to translate it
 
 Please [open an issue on the phrase](https://support.crowdin.com/online-editor/#reporting-issues).
