@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Anwenden",
   "sodium.options.buttons.donate": "Kauf uns einen Kaffee!",
   "modmenu.summaryTranslation.sodium": "Mod mit moderner Rendering-Engine und clientseitigen Optimierungen für Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium ist eine kostenlose und quelloffene Mod für Minecraft, welche die Bildraten erhöht und Lag-Spikes reduziert."
+  "modmenu.descriptionTranslation.sodium": "Sodium ist eine kostenlose und quelloffene Mod für Minecraft, welche die Bildraten erhöht und Lag-Spikes reduziert.",
+  "sodium.resource_pack.unofficial": "§7Inoffizielle Übersetzungen für Sodium§r"
 }
