@@ -10,6 +10,7 @@ This repository hosts unofficial translations for [**Sodium**](https://github.co
 
 [Download the resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Madis0/sodium-fabric-translations/tree/l10n_main/Resourcepack), import it and activate it in-game. If you don't see your translations on it yet, download again later.
 
+
 ## Translating
 
 **By submitting translations, you are agreeing to have them licensed under the [Creative Commons Zero (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/) license.**
