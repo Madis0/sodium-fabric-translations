@@ -8,7 +8,7 @@ This repository hosts unofficial translations for [**Sodium**](https://github.co
 
 ### Resource pack
 
-[Download the resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Madis0/sodium-fabric-translations/tree/l10n_main/Resourcepack), import it and activate it in-game. If you don't see your translations on it yet, download again later.
+[Download the resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Madis0/sodium-fabric-translations/tree/l10n_main/Sodium%20Translations), import it and activate it in-game. If you don't see your translations on it yet, download again later.
 
 
 ## Translating
@@ -20,6 +20,10 @@ You can contribute to the translation effort on our Crowdin [project page](https
 For more information on using Crowdin, please see their "[Intro For Volunteer Translators](https://support.crowdin.com/for-volunteer-translators/)" support page.
 
 ## FAQ
+
+### Can I include this in my CurseForge/Modrinth/packwiz/whatever modpack?
+
+Yes! Everyone can do it, don't need any special permission.
 
 ### Current translation is wrong or I don't know how to translate it
 
