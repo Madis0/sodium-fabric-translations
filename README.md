@@ -1,5 +1,7 @@
 # Unofficial Sodium Translations
 
+<img align="right" src="Sodium Translations/pack.png" alt="Unofficial Sodium Translations" title="Unofficial Sodium Translations" height="72" />
+
 This repository hosts unofficial translations for [**Sodium**](https://github.com/CaffeineMC/sodium-fabric), a Minecraft mod designed to improve frame rates and reduce micro-stutter. Please see [the FAQ](#FAQ) for **F**requently **A**sked **Q**uestions and supplimentary information about the project.
 
 ## Installation
