@@ -64,5 +64,8 @@
   "sodium.options.use_no_error_context.tooltip": "如果启用，OpenGL上下文在创建时将会禁用错误检查。这可能会轻微提升性能，但也会增加游戏直接崩溃（而不是妥善处理OpenGL错误）的风险。如果存在突然发生的没有原因的崩溃，应当禁用此选项。",
   "sodium.options.buttons.undo": "撤销",
   "sodium.options.buttons.apply": "应用",
-  "sodium.options.buttons.donate": "赞助我们！"
+  "sodium.options.buttons.donate": "赞助我们！",
+  "modmenu.summaryTranslation.sodium": "为 Minecraft 打造的现代化渲染引擎和客户端优化模组",
+  "modmenu.descriptionTranslation.sodium": "Sodium 是免费、开源的 Minecraft 优化模组，可以提高帧率，减少卡顿。",
+  "sodium.resource_pack.unofficial": "§7Sodium 非官方翻译§r"
 }

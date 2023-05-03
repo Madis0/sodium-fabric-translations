@@ -15,5 +15,6 @@
   "sodium.options.chunk_update_threads.name": "Klodser opdatering tråde",
   "sodium.options.buttons.undo": "Fortryd",
   "sodium.options.buttons.apply": "Anvend",
-  "sodium.options.buttons.donate": "Køb en kaffe til os!"
+  "sodium.options.buttons.donate": "Køb en kaffe til os!",
+  "sodium.resource_pack.unofficial": "§7Uofficielle oversættelser for Sodium§r"
 }

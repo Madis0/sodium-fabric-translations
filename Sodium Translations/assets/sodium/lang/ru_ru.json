@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Применить",
   "sodium.options.buttons.donate": "Угостите нас кофе!",
   "modmenu.summaryTranslation.sodium": "Современный графический движок для оптимизации Minecraft.",
-  "modmenu.descriptionTranslation.sodium": "Свободный мод для оптимизации Minecraft с открытым исходным кодом, призванный уменьшить зависания и улучшить частоту кадров."
+  "modmenu.descriptionTranslation.sodium": "Свободный мод для оптимизации Minecraft с открытым исходным кодом, призванный уменьшить зависания и улучшить частоту кадров.",
+  "sodium.resource_pack.unofficial": "§7Неофициальный перевод для Sodium§r"
 }

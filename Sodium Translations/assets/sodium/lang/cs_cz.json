@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Použít",
   "sodium.options.buttons.donate": "Kupte nám kávu!",
   "modmenu.summaryTranslation.sodium": "Moderní vykreslovací modul a optimalizační mód na straně klienta pro Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium je bezplatný optimalizační mód s otevřeným zdrojem pro Minecraft, který zlepšuje snímkovou frekvenci a omezuje záseky."
+  "modmenu.descriptionTranslation.sodium": "Sodium je bezplatný optimalizační mód s otevřeným zdrojem pro Minecraft, který zlepšuje snímkovou frekvenci a omezuje záseky.",
+  "sodium.resource_pack.unofficial": "§7Neoficiální překlady modu Sodium§r"
 }
