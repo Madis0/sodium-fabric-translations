@@ -1,15 +1,14 @@
 # Unofficial Sodium Translations
 
-## Overview
+<img align="right" src="Sodium Translations/pack.png" alt="Unofficial Sodium Translations" title="Unofficial Sodium Translations" height="72" />
 
 This repository hosts unofficial translations for [**Sodium**](https://github.com/CaffeineMC/sodium-fabric), a Minecraft mod designed to improve frame rates and reduce micro-stutter. Please see [the FAQ](#FAQ) for **F**requently **A**sked **Q**uestions and supplimentary information about the project.
 
 ## Installation
 
-### Resource pack
+All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder. You can find the latest release here: [Download latest release](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/Sodium.Translations.zip).
 
-[Download the resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Madis0/sodium-fabric-translations/tree/l10n_main/Sodium%20Translations), import it and activate it in-game. If you don't see your translations on it yet, download again later.
-
+Please note that it might take a while for changes to be synced to this repository. If you don't see the most recent translations, please check back later for a new release.
 
 ## Translating
 

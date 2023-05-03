@@ -1,6 +1,9 @@
 {
     "pack": {
-        "description": "Unofficial Sodium translations",
-        "pack_format": 13
+        "pack_format": 13,
+        "description": {
+            "translate": "sodium.resource_pack.unofficial",
+            "fallback": "Unofficial translations for Sodium"
+        }
     }
 }
