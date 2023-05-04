@@ -18,6 +18,7 @@
   "sodium.options.attack_indicator.tooltip": "Controla onde o Indicador de Ataque é exibido na tela.",
   "sodium.options.autosave_indicator.tooltip": "Se ativado, um indicador será mostrado quando o jogo estiver salvando a partida no disco.",
   "sodium.options.graphics_quality.tooltip": "A qualidade gráfica padrão controla algumas opções herdadas e é necessária para compatibilidade com mods. Se as opções abaixo forem deixadas em \"Padrão\", elas usarão essa configuração.",
+  "sodium.options.clouds_quality.tooltip": "Controla a presença das nuvens sendo renderizadas no céu.",
   "sodium.options.weather_quality.tooltip": "Controla a qualidade dos efeitos de chuva e neve.",
   "sodium.options.leaves_quality.name": "Folhas",
   "sodium.options.leaves_quality.tooltip": "Controla a qualidade da folhagem.",
@@ -59,6 +60,7 @@
   "sodium.options.chunk_update_threads.tooltip": "Especifica o número de threads a serem usados para construção de chunks. O uso de mais threads pode acelerar o carregamento de chunks e a velocidade de atualização, mas pode afetar negativamente os FPS.",
   "sodium.options.always_defer_chunk_updates.name": "Sempre Adiar Atualizações de Chunk",
   "sodium.options.always_defer_chunk_updates.tooltip": "Se habilitada, a renderização nunca esperará que as atualizações de chunks terminem, mesmo que sejam importantes. Isso pode melhorar muito a taxa de quadros em alguns cenários, mas pode criar um atraso visual significativo no mundo.",
+  "sodium.options.use_no_error_context.name": "Use No Error Context",
   "sodium.options.buttons.undo": "Desfazer",
   "sodium.options.buttons.apply": "Aplicar",
   "sodium.options.buttons.donate": "Compre-nos um café!"
