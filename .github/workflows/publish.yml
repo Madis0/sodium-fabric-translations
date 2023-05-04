@@ -1,0 +1,20 @@
+name: Publish the pack
+on:
+  release:
+    types: [published]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          # You don't need this section if you don't want to publish
+          # your assets to Modrinth
+          modrinth-id: yfDziwn1
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          # You don't need this section if you don't want to publish
+          # your assets to CurseForge
+          # curseforge-id: 
+          # curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
