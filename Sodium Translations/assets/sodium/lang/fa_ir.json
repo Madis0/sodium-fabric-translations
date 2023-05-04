@@ -65,5 +65,7 @@
   "sodium.options.buttons.undo": "انصراف",
   "sodium.options.buttons.apply": "اعمال",
   "sodium.options.buttons.donate": "برای ما یک قهوه بخرید!",
-  "modmenu.descriptionTranslation.sodium": "سودیوم رایگان و متن باز است مادی برای بهتر کردن فریم ریت و کمتر کردن لگ."
+  "modmenu.summaryTranslation.sodium": "موتور ظاهرسازی مدرن و کلاینت بهینه‌ساز برای ماینکرافت",
+  "modmenu.descriptionTranslation.sodium": "سودیوم رایگان و متن باز است مادی برای بهتر کردن فریم ریت و کمتر کردن لگ.",
+  "sodium.resource_pack.unofficial": "§7ترجمه های غیررسمی برای Soduim§r"
 }
