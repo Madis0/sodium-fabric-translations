@@ -1,0 +1,24 @@
+name: Merge Crowdin PR on Monday
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  merge-test1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Find Pull Request
+        uses: juliangruber/find-pull-request-action@v1
+        id: find-pull-request
+        with:
+          branch: l10n_main
+      - name: Merge Pull Request
+        if: steps.find-pull-request.outputs.number != ''
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ steps.find-pull-request.outputs.number }}
+          method: squash
+          repo: ${{ github.repository }}
