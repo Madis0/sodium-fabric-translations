@@ -4,7 +4,8 @@ on:
     - cron: "0 0 * * 1"
 
 jobs:
-  merge-test1:
+  merge:
+    name: Merge the PR
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
