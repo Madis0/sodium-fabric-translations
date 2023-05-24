@@ -6,7 +6,8 @@ on:
       - main
     paths:
       - Sodium Translations/**
-
+  workflow_dispatch:
+  
 permissions:
   contents: write
 
@@ -42,20 +43,28 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Create Resource Pack File
-        run: (cd Sodium\ Translations && zip -r "../Sodium Translations.zip" *)
+        run: (cd Sodium\ Translations && zip -r "../SodiumTranslations.zip" *)
 
       - name: Generate Checksum
-        run: sha1sum "Sodium Translations.zip" | cut -d " " -f 1 > "Sodium Translations.zip.sha1sum"
-      
+        run: sha1sum "SodiumTranslations.zip" | cut -d " " -f 1 > "SodiumTranslations.zip.sha1sum"
+
       - name: Store Artifacts
         uses: actions/upload-artifact@v3
         with:
           name: Resource Pack
-          path: Sodium\ Translations.zip*
-      
+          path: SodiumTranslations.zip*
+
       - name: Release on GitHub
         uses: softprops/action-gh-release@c9b46fe7aad9f02afd89b12450b780f52dacfb2d
         with:
           tag_name: ${{ needs.version.outputs.tag }}
           generate_release_notes: true
-          files: Sodium\ Translations.zip*
+          files: SodiumTranslations.zip*
+
+      - name: Release on Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: yfDziwn1
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          dependencies: |
+            sodium | depends
