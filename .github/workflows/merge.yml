@@ -23,3 +23,4 @@ jobs:
           number: ${{ steps.find-pull-request.outputs.number }}
           method: squash
           repo: ${{ github.repository }}
+          
