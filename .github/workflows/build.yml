@@ -65,5 +65,7 @@ jobs:
         with:
           modrinth-id: yfDziwn1
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files: |
+            *.zip
           dependencies: |
             sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
