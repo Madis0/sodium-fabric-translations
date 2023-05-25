@@ -1,4 +1,4 @@
-name: Build
+name: Build and publish
 
 on:
   push:
@@ -66,4 +66,4 @@ jobs:
           modrinth-id: yfDziwn1
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           dependencies: |
-            sodium | depends
+            sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
