@@ -6,7 +6,7 @@ This repository hosts unofficial translations for [**Sodium**](https://github.co
 
 ## Installation
 
-All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder. You can find the latest release here: [Download latest release](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/Sodium.Translations.zip).
+All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder. You can find the latest release here: [Download latest release](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip).
 
 Please note that new versions will be created once every 24 hours if there are changes. If you don't see the most recent translations, please check back later for a new release.
 
