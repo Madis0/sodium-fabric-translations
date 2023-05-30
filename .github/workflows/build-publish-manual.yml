@@ -48,6 +48,11 @@ jobs:
         with:
           modrinth-id: yfDziwn1
           modrinth-token: '${{ secrets.MODRINTH_TOKEN }}'
+          name: 'Sodium Translations ${{ needs.version.outputs.tag }}'
+          version: '${{ needs.version.outputs.tag }}'
+          changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
+          game-versions: |
+            >=1.16
           files: |
             SodiumTranslations.zip
           dependencies: |

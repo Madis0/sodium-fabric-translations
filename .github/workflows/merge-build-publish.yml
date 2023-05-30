@@ -63,6 +63,7 @@ jobs:
           name: Resource Pack
           path: SodiumTranslations.zip*
       - name: Release on GitHub
+        id: release-step
         uses: softprops/action-gh-release@c9b46fe7aad9f02afd89b12450b780f52dacfb2d
         with:
           tag_name: '${{ needs.version.outputs.tag }}'
@@ -73,6 +74,11 @@ jobs:
         with:
           modrinth-id: yfDziwn1
           modrinth-token: '${{ secrets.MODRINTH_TOKEN }}'
+          name: 'Sodium Translations ${{ needs.version.outputs.tag }}'
+          version: '${{ needs.version.outputs.tag }}'
+          changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
+          game-versions: |
+            >=1.16
           files: |
             SodiumTranslations.zip
           dependencies: |
