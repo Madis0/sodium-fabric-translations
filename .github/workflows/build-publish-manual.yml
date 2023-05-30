@@ -1,11 +1,5 @@
- 
 name: 'Manual Build and Publish'
-  workflow_dispatch:
-    inputs:
-      minecraft-version:
-        description: Minecraft Version
-        default: 1.0.0
-        required: true
+on: [workflow_dispatch]
 permissions:
   contents: write
 jobs:
@@ -60,7 +54,10 @@ jobs:
           changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
           loaders: minecraft
           game-versions: |
-            ${{ github.event.inputs.minecraft-version }}
+            >=1.20
+            >=1.19
+            >=1.18
+            >=1.17
           files: |
             SodiumTranslations.zip
           dependencies: |
