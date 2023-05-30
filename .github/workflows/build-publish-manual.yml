@@ -1,33 +1,12 @@
  
-name: 'Manual Merge, Build and Publish'
+name: 'Manual Build and Publish'
 on: [workflow_dispatch]
 permissions:
   contents: write
 jobs:
-  merge:
-    name: Merge the PR
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-      - name: Find Pull Request
-        uses: juliangruber/find-pull-request-action@v1
-        id: find-pull-request
-        with:
-          branch: l10n_main
-      - name: Merge Pull Request
-        if: steps.find-pull-request.outputs.number != ''
-        uses: juliangruber/merge-pull-request-action@v1
-        with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
-          number: '${{ steps.find-pull-request.outputs.number }}'
-          method: squash
-          repo: '${{ github.repository }}'
   version:
     name: Bump Version
     runs-on: ubuntu-latest
-    needs:
-      - merge
     outputs:
       tag: '${{ steps.bump.outputs.tag }}'
     steps:
