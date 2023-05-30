@@ -18,6 +18,7 @@
   "sodium.options.attack_indicator.tooltip": "画面上の範囲攻撃インジケータを表示する位置を調節します。",
   "sodium.options.autosave_indicator.tooltip": "有効にすると、ゲームがワールドをストレージに保存しているときにインジケータが表示されます。",
   "sodium.options.graphics_quality.tooltip": "グラフィックスは、いくつかのレガシー設定を調節し、Modの互換性維持に必要です。以下の設定が「デフォルト」のままであれば、この設定が使用されます。",
+  "sodium.options.clouds_quality.tooltip": "雲の描画品質を調節します。",
   "sodium.options.weather_quality.tooltip": "雨や雪のエフェクトの品質を調節します。",
   "sodium.options.leaves_quality.name": "木の葉",
   "sodium.options.leaves_quality.tooltip": "葉の品質を制御する。",
