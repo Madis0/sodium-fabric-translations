@@ -24,6 +24,9 @@ jobs:
           number: '${{ steps.find-pull-request.outputs.number }}'
           method: squash
           repo: '${{ github.repository }}'
+      - name: Fail Job If Zero Pull Request
+        if: steps.find-pull-request.outputs.number == ''
+        run: exit 1
   version:
     name: Bump Version
     runs-on: ubuntu-latest
