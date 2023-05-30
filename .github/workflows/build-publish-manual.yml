@@ -42,6 +42,10 @@ jobs:
           tag_name: '${{ needs.version.outputs.tag }}'
           generate_release_notes: true
           files: SodiumTranslations.zip*
+      - name: Fetch Latest Minecraft Release
+        id: fetch-mc-release
+        run: |
+          curl -o minecraft.json https://piston-meta.mojang.com/mc/game/version_manifest_v2.json && echo ::set-output name=minecraftVersion::$(cat minecraft.json)
       - name: Release on Modrinth and CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
@@ -54,10 +58,7 @@ jobs:
           changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
           loaders: minecraft
           game-versions: |
-            >=1.20
-            >=1.19
-            >=1.18
-            >=1.17
+            >=1.17 <=${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           files: |
             SodiumTranslations.zip
           dependencies: |
