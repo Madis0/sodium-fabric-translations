@@ -79,8 +79,12 @@ jobs:
           name: 'Sodium Translations ${{ needs.version.outputs.tag }}'
           version: '${{ needs.version.outputs.tag }}'
           changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
+          loaders: minecraft
           game-versions: |
-            >=1.16
+            >=1.20
+            >=1.19
+            >=1.18
+            >=1.17
           files: |
             SodiumTranslations.zip
           dependencies: |
