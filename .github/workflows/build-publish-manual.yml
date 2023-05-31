@@ -58,7 +58,7 @@ jobs:
           changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
           loaders: minecraft
           game-versions: |
-            >=1.17 <=${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
+            ${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           files: |
             SodiumTranslations.zip
           dependencies: |
