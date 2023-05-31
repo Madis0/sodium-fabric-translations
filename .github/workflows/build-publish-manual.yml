@@ -45,7 +45,7 @@ jobs:
       - name: Fetch Latest Minecraft Release
         id: fetch-mc-release
         run: |
-          curl -o minecraft.json https://piston-meta.mojang.com/mc/game/version_manifest_v2.json && echo ::set-output name=minecraftVersion::$(cat minecraft.json)
+          curl -o minecraft.json https://piston-meta.mojang.com/mc/game/version_manifest_v2.json && echo "minecraftVersion=$(cat minecraft.json)" >> $GITHUB_OUTPUT
       - name: Release on Modrinth and CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
