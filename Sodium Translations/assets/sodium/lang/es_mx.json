@@ -18,7 +18,9 @@
   "sodium.options.attack_indicator.tooltip": "Controla donde se mostrará el indicador de ataque en la pantalla.",
   "sodium.options.autosave_indicator.tooltip": "Si está habilitado, se mostrará un indicador cuando el juego esté guardando el mundo en el disco.",
   "sodium.options.graphics_quality.tooltip": "La calidad de gráficos predeterminada controla algunas opciones heredadas y es necesaria para la compatibilidad con mods. Si las opciones a continuación se dejan en \"Predeterminado\", se usará esta configuración.",
+  "sodium.options.clouds_quality.tooltip": "Controla la presencia de las nubes renderizadas en el cielo.",
   "sodium.options.weather_quality.tooltip": "Controla la calidad de los efectos de nieve y lluvia.",
+  "sodium.options.leaves_quality.name": "Hojas",
   "sodium.options.leaves_quality.tooltip": "Controla la calidad de las hojas.",
   "sodium.options.particle_quality.name": "Calidad de las Partículas",
   "sodium.options.particle_quality.tooltip": "Controla el número máximo de partículas que pueden estar presentes en pantalla a la vez.",
@@ -58,6 +60,8 @@
   "sodium.options.chunk_update_threads.tooltip": "Especifica el numero de hilos para usar en la construcción de chunk. Usando más hilos puede acelerar la cargada de chunk y velocidad de actualización, pero puede impactar el tiempo de fotograma negativamente.",
   "sodium.options.always_defer_chunk_updates.name": "Posponer actualizaciones de chunks siempre",
   "sodium.options.always_defer_chunk_updates.tooltip": "Si está habilitado, el renderizado nunca esperará a que las actualizaciones de chunks terminen, incluso si son importantes. Esto puede mejorar considerablemente la velocidad de fotogramas en algunos escenarios, pero podría causar un retardo visual en el mundo.",
+  "sodium.options.use_no_error_context.name": "Usar contexto sin error",
+  "sodium.options.use_no_error_context.tooltip": "Si está habilitada, el contexto de OpenGL se creará sin verificación de errores. Esto puede mejorar ligeramente el rendimiento, pero también aumenta el riesgo de que el juego se cierre de manera inesperada en lugar de manejar los errores de OpenGL de forma adecuada. Deberías deshabilitar esta opción si estás experimentando cierres repentinos e inexplicables.",
   "sodium.options.buttons.undo": "Deshacer",
   "sodium.options.buttons.apply": "Aplicar",
   "sodium.options.buttons.donate": "¡Invítanos un café!"
