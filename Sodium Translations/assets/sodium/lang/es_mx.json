@@ -64,5 +64,8 @@
   "sodium.options.use_no_error_context.tooltip": "Si está habilitada, el contexto de OpenGL se creará sin verificación de errores. Esto puede mejorar ligeramente el rendimiento, pero también aumenta el riesgo de que el juego se cierre de manera inesperada en lugar de manejar los errores de OpenGL de forma adecuada. Deberías deshabilitar esta opción si estás experimentando cierres repentinos e inexplicables.",
   "sodium.options.buttons.undo": "Deshacer",
   "sodium.options.buttons.apply": "Aplicar",
-  "sodium.options.buttons.donate": "¡Invítanos un café!"
+  "sodium.options.buttons.donate": "¡Invítanos un café!",
+  "modmenu.summaryTranslation.sodium": "Motor de renderizado moderno y mod de optimización del lado del cliente para Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium es un mod de optimización gratuito y de código abierto para Minecraft que mejora las tasas de fotogramas y reduce los picos de lag.",
+  "sodium.resource_pack.unofficial": "§7Traducciones no oficiales para Sodium§r"
 }
