@@ -1,0 +1,65 @@
+name: 'Merge, Build and Publish Test CI'
+on: [workflow_dispatch]
+permissions:
+  contents: write
+jobs:
+  merge:
+    name: Merge the PR
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Find Pull Request
+        uses: juliangruber/find-pull-request-action@v1
+        id: find-pull-request
+        with:
+          branch: test_ci
+      - name: Merge Pull Request
+        if: steps.find-pull-request.outputs.number != ''
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          number: '${{ steps.find-pull-request.outputs.number }}'
+          method: squash
+          repo: '${{ github.repository }}'
+      - name: Fail Job If Zero Pull Request
+        if: steps.find-pull-request.outputs.number == ''
+        run: exit 1
+  version:
+    name: Bump Version
+    runs-on: ubuntu-latest
+    needs:
+      - merge
+    outputs:
+      tag: '${{ steps.bump.outputs.new_tag }}'
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Bump Version
+        id: bump
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: '${{ secrets.GITHUB_TOKEN }}'
+          default_bump: minor
+      - name: Echo changelog
+        run: |
+          echo ${{ steps.bump.outputs.changelog }}
+  publish:
+    name: Build Resource Pack
+    runs-on: ubuntu-latest
+    needs:
+      - version
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Create Resource Pack File
+        run: (cd Sodium\ Translations && zip -r "../SodiumTranslations.zip" *)
+      - name: Generate Checksum
+        run: >-
+          sha1sum "SodiumTranslations.zip" | cut -d " " -f 1 >
+          "SodiumTranslations.zip.sha1sum"
+      - name: Store Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Resource Pack
+          path: SodiumTranslations.zip*
