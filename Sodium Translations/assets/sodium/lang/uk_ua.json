@@ -66,5 +66,6 @@
   "sodium.options.buttons.apply": "Застосувати",
   "sodium.options.buttons.donate": "Почастуйте нас кавою!",
   "modmenu.summaryTranslation.sodium": "Сучасний рушій рендерингу та мод для оптимізації на стороні клієнта для Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium - це безкоштовний мод оптимізації з відкритим вихідним кодом для Minecraft, який покращує частоту кадрів і зменшує стрибки лагів."
+  "modmenu.descriptionTranslation.sodium": "Sodium - це безкоштовний мод оптимізації з відкритим вихідним кодом для Minecraft, який покращує частоту кадрів і зменшує стрибки лагів.",
+  "sodium.resource_pack.unofficial": "§7Неофіційні переклади для Sodium§r"
 }
