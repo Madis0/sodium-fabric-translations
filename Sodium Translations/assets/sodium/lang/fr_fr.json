@@ -18,6 +18,7 @@
   "sodium.options.attack_indicator.tooltip": "Définit la position d'affichage de la jauge d'attaque sur l'écran.",
   "sodium.options.autosave_indicator.tooltip": "Si activée, un message sera affiché lorsque le jeu sauvegarde le monde sur le disque.",
   "sodium.options.graphics_quality.tooltip": "Les paramètres de graphismes par défaut contrôlent des options de compatibilité qui peuvent servir pour certains mods. Si les options ci-dessous sont laissées à \"Par défaut\", elles utiliseront ce paramètre.",
+  "sodium.options.clouds_quality.tooltip": "Contrôle la présence de nuages rendus dans le ciel.",
   "sodium.options.weather_quality.tooltip": "Contrôle la qualité des effets de pluie et de neige.",
   "sodium.options.leaves_quality.name": "Feuilles",
   "sodium.options.leaves_quality.tooltip": "Contrôle la qualité des feuilles.",
@@ -59,7 +60,11 @@
   "sodium.options.chunk_update_threads.tooltip": "Spécifie le nombre de threads à utiliser pour la mise à jour des chunks. Augmenter le nombre de chunks peut améliorer la rapidité de chargement et de mise à jour des chunks, mais peut causer des saccades.",
   "sodium.options.always_defer_chunk_updates.name": "Forcer les mises à jour de chunk différées",
   "sodium.options.always_defer_chunk_updates.tooltip": "Lorsque activé, l'affichage n'attendra jamais que la mise à jour d'un chunk soit terminée, même lorsque celle-ci est importante. Dans certains cas, cela peut grandement améliorer la fréquence d'images, mais peut causer d'importants délais dans la mise à jour visuelle du monde.",
+  "sodium.options.use_no_error_context.name": "Utiliser le profil sans erreur",
+  "sodium.options.use_no_error_context.tooltip": "Si cette option est activée, le profil OpenGL sera créé avec la vérification des erreurs désactivée. Cela peut légèrement améliorer les performances, mais augmente également le risque que le jeu plante au lieu de gérer les erreurs OpenGL de manière élégante. Vous devriez désactiver cette option si vous rencontrez des plantages soudains et inexpliqués.",
   "sodium.options.buttons.undo": "Annuler",
   "sodium.options.buttons.apply": "Appliquer",
-  "sodium.options.buttons.donate": "Offrez-nous un café !"
+  "sodium.options.buttons.donate": "Offrez-nous un café !",
+  "modmenu.summaryTranslation.sodium": "Moteur de rendu moderne et optimisation côté client pour Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium est un mod d'optimisation gratuit et open-source pour Minecraft qui améliore le taux de rafraîchissement et réduit les pics de lag."
 }
