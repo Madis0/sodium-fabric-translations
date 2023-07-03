@@ -22,7 +22,9 @@
   "sodium.options.weather_quality.tooltip": "Mengatur kualitas efek hujan dan salju.",
   "sodium.options.leaves_quality.name": "Daun",
   "sodium.options.leaves_quality.tooltip": "Mengatur kualitas daun.",
+  "sodium.options.particle_quality.name": "Kualitas Partikel",
   "sodium.options.particle_quality.tooltip": "Mengatur jumlah maksimal partikel yang dapat muncul di layar pada waktu yang sama.",
   "sodium.options.smooth_lighting.tooltip": "Mengatur apakah blok akan diterangi secara halus. Ini sedikit menambah waktu yang dibutuhkan untuk membangun kembali sebuah chunk, tetapi tidak mempengaruhi frame rate.",
-  "sodium.options.biome_blend.value": "%s blok"
+  "sodium.options.biome_blend.value": "%s blok",
+  "sodium.options.chunk_memory_allocator.async": "Async"
 }
