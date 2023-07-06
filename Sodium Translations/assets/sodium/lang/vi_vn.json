@@ -31,7 +31,7 @@
   "sodium.options.entity_shadows.tooltip": "Nếu được bật, các bóng cơ bản sẽ được hiển thị bên dưới mob và các thực thể khác.",
   "sodium.options.vignette.name": "Họa tiết",
   "sodium.options.vignette.tooltip": "Nếu được bật, hiệu ứng họa tiết sẽ được hiển thị trên chế độ xem của trình phát. Điều này rất khó có thể tạo ra sự khác biệt đối với tốc độ khung hình trừ khi bạn bị giới hạn tỷ lệ lấp đầy.",
-  "sodium.options.mipmap_levels.tooltip": "Kiểm soát số lượng mipmap sẽ được sử dụng cho kết cấu mô hình khối. Các giá trị cao hơn giúp hiển thị các khối ở khoảng cách xa tốt hơn, nhưng có thể ảnh hưởng xấu đến hiệu suất với nhiều kết cấu động.",
+  "sodium.options.mipmap_levels.tooltip": "Kiểm soát số lượng mipmap sẽ được sử dụng cho hoạ tiết mô hình khối. Các giá trị cao hơn giúp hiển thị các khối ở khoảng cách xa tốt hơn, nhưng có thể ảnh hưởng xấu đến hiệu suất với nhiều hoạ tiết động.",
   "sodium.options.use_block_face_culling.name": "Sử dụng Loại bỏ Mặt khối",
   "sodium.options.use_block_face_culling.tooltip": "Nếu được bật, chỉ các cạnh của khối hướng về phía cam mới được gửi để hiển thị. Điều này có thể loại bỏ một số lượng lớn các mặt khối từ rất sớm trong quá trình hiển thị, tiết kiệm băng thông bộ nhớ và thời gian trên GPU. Một số gói tài nguyên có thể gặp sự cố với tùy chọn này, vì vậy hãy thử tắt tùy chọn này nếu bạn thấy lỗ hổng trong các khối.",
   "sodium.options.use_fog_occlusion.name": "Sử dụng Loại trừ sương mù",
