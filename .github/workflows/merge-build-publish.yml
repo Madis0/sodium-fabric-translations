@@ -33,16 +33,21 @@ jobs:
     needs:
       - merge
     outputs:
-      tag: '${{ steps.bump.outputs.tag }}'
+      tag: '${{ steps.bump.outputs.new_tag }}'
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-      - name: Bump Version
+      - name: Get Latest Commit SHA
+        id: commit_sha
+        run: |
+          git fetch --depth=1 origin +refs/heads/${GITHUB_REF#refs/heads/}:refs/remotes/origin/${GITHUB_REF#refs/heads/}
+          echo "sha=$(git rev-parse origin/${GITHUB_REF#refs/heads/})" >> $GITHUB_OUTPUT
+      - name: Bump version and push tag
         id: bump
-        uses: anothrNick/github-tag-action@d77194f92b4ca48b05df5c20709984535a9cd6e0
-        env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-          WITH_V: true
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            commit_sha: ${{ steps.commit_sha.outputs.sha }}
   publish:
     name: Build Resource Pack
     runs-on: ubuntu-latest
@@ -51,6 +56,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+            ref: '${{ needs.version.outputs.tag }}'
       - name: Create Resource Pack File
         run: (cd Sodium\ Translations && zip -r "../SodiumTranslations.zip" *)
       - name: Generate Checksum
