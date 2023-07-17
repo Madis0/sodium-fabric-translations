@@ -39,12 +39,6 @@ jobs:
         with:
           name: Resource Pack
           path: SodiumTranslations.zip*
-      - name: Release on GitHub
-        uses: softprops/action-gh-release@c9b46fe7aad9f02afd89b12450b780f52dacfb2d
-        with:
-          tag_name: '${{ needs.version.outputs.tag }}'
-          generate_release_notes: true
-          files: SodiumTranslations.zip*
       - name: Fetch Latest Minecraft Release
         id: fetch-mc-release
         run: |
