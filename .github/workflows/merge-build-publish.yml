@@ -48,6 +48,8 @@ jobs:
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             commit_sha: ${{ steps.commit_sha.outputs.sha }}
+            default_bump: minor
+            tag_prefix: v
   publish:
     name: Build Resource Pack
     runs-on: ubuntu-latest
@@ -63,37 +65,36 @@ jobs:
       - name: Generate Checksum
         run: >-
           sha1sum "SodiumTranslations.zip" | cut -d " " -f 1 >
-          "SodiumTranslations.zip.sha1sum"
+          "SodiumTranslations.zip.sha1"
       - name: Store Artifacts
         uses: actions/upload-artifact@v3
         with:
           name: Resource Pack
           path: SodiumTranslations.zip*
-      - name: Release on GitHub
-        id: release-step
-        uses: softprops/action-gh-release@c9b46fe7aad9f02afd89b12450b780f52dacfb2d
-        with:
-          tag_name: '${{ needs.version.outputs.tag }}'
-          generate_release_notes: true
-          files: SodiumTranslations.zip*
       - name: Fetch Latest Minecraft Release
         id: fetch-mc-release
         run: |
           curl -o minecraft.json https://piston-meta.mojang.com/mc/game/version_manifest_v2.json && echo "minecraftVersion=$(cat minecraft.json)" >> $GITHUB_OUTPUT
-      - name: Release on Modrinth and CurseForge
+      - name: Release on GitHub, Modrinth and CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: yfDziwn1
           modrinth-token: '${{ secrets.MODRINTH_TOKEN }}'
           curseforge-id: 867964
           curseforge-token: '${{ secrets.CURSEFORGE_TOKEN }}'
+          github-tag: ${{ needs.version.outputs.tag }}
+          github-generate-changelog: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
           name: 'Sodium Translations ${{ needs.version.outputs.tag }}'
           version: '${{ needs.version.outputs.tag }}'
-          changelog: 'Changelog: ${{ steps.release-step.outputs.url }}'
+          version-type: release
+
           loaders: minecraft
           game-versions: |
             ${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           files: |
             SodiumTranslations.zip
+            SodiumTranslations.zip.sha1
           dependencies: |
             sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
