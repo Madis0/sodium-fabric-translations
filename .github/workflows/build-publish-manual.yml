@@ -63,6 +63,7 @@ jobs:
             ${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           files: |
             SodiumTranslations.zip
+            SodiumTranslations.zip.sha1
           dependencies: |
             sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
 
