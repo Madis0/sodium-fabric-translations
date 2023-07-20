@@ -7,7 +7,7 @@
   "sodium.options.pages.quality": "Chất lượng",
   "sodium.options.pages.performance": "Hiệu năng",
   "sodium.options.pages.advanced": "Nâng cao",
-  "sodium.options.view_distance.tooltip": "Khoảng cách kết xuất kiểm soát khoảng cách địa hình sẽ được kết. Khoảng cách ngắn hơn có nghĩa là sẽ hiển thị ít địa hình hơn, cải thiện tốc độ khung hình.",
+  "sodium.options.view_distance.tooltip": "Khoảng cách kết xuất kiểm soát khoảng cách địa hình sẽ được kết xuất. Khoảng cách ngắn hơn có nghĩa là sẽ hiển thị ít địa hình hơn, cải thiện tốc độ khung hình.",
   "sodium.options.simulation_distance.tooltip": "Khoảng cách mô phỏng kiểm soát khoảng cách địa hình và thực thể sẽ được tải và hoạt động. Khoảng cách ngắn hơn có thể giảm tải cho máy chủ nội bộ và có thể cải thiện tốc độ khung hình.",
   "sodium.options.brightness.tooltip": "Kiểm soát độ sáng (gamma) của trò chơi.",
   "sodium.options.gui_scale.tooltip": "Đặt hệ số quy mô tối đa được sử dụng cho giao diện người dùng. Nếu 'tự động' được sử dụng, thì hệ số quy mô lớn nhất sẽ luôn được sử dụng.",
