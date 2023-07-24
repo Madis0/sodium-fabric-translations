@@ -34,6 +34,7 @@ jobs:
       - merge
     outputs:
       tag: '${{ steps.bump.outputs.new_tag }}'
+      changelog: '${{ steps.bump.outputs.changelog }}'
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
