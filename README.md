@@ -8,9 +8,15 @@ This repository hosts unofficial translations for [**Sodium**](https://github.co
 
 All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder. 
 
-**Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium/files) | [GitHub](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip).**
+**Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium/files) | [GitHub](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip)**
 
 Please note that new versions will be created **every Monday if there are changes**. If you don't see the most recent translations, please check back later for a new release.
+
+### Keeping up to date
+
+- [Prism Launcher](https://prismlauncher.org/) can directly install and update Sodium and this pack
+- [CurseForge Launcher](https://www.curseforge.com/download/app) can directly install and update this pack, but Sodium must be installed manually
+- [Modpacks that include this pack](https://legacy.curseforge.com/minecraft/texture-packs/translations-for-sodium/relations/dependents) can manage the updating for you, as long as you keep the modpack itself up to date
 
 ## Translating
 
