@@ -42,7 +42,11 @@
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
   "sodium.options.chunk_update_threads.name": "Bebenang Kemas Kini Cebisan",
+  "sodium.options.use_no_error_context.tooltip": "Jika didayakan, konteks OpenGL akan dibuat dengan penyemakan ralat dinyahdayakan. Ini mungkin akan meningkatkan prestasi dengan sedikit, tetapi ia juga akan meningkatkan risiko bahawa permainan akan ranap dan bukannya mengendalikan ralat OpenGL dengan anggun. Anda harus menyahdayakan pilihan ini jika anda mengalami ranap sistem yang tidak dapat dijelaskan secara tiba-tiba.",
   "sodium.options.buttons.undo": "Buat asal",
   "sodium.options.buttons.apply": "Terapkan",
-  "sodium.options.buttons.donate": "Belikan kami kopi!"
+  "sodium.options.buttons.donate": "Belikan kami kopi!",
+  "modmenu.summaryTranslation.sodium": "Enjin pemaparan moden dan mod pengoptimuman bahagian pelanggan untuk Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium ialah mod pengoptimuman percuma dan sumber terbuka untuk Minecraft yang meningkatkan kadar bingkai dan mengurangkan lonjakan lag.",
+  "sodium.resource_pack.unofficial": "§7Terjemahan tidak rasmi untuk Sodium§r"
 }
