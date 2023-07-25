@@ -1,1 +1,12 @@
-{}
+{
+  "sodium.options.pages.quality": "Qualidade",
+  "sodium.options.pages.performance": "Desempenho",
+  "sodium.options.pages.advanced": "Avançado",
+  "sodium.options.brightness.tooltip": "Controla a luminosidade (gamma) do jogo.",
+  "sodium.options.fullscreen.tooltip": "Se ligado, o jogo aparece em ecrã cheio (se suportado).",
+  "sodium.options.particle_quality.name": "Qualidade de Partículas",
+  "sodium.options.particle_quality.tooltip": "Controla o número máximo de partículas que podem estar presentes no ecrã a qualquer momento.",
+  "sodium.options.smooth_lighting.tooltip": "Controla se os blocos serão suavemente iluminados e sombreados. Isto aumenta ligeiramente a quantidade de tempo necessário para reconstruir um chunk, mas não afeta o desempenho geral.",
+  "sodium.options.biome_blend.value": "%s bloco(s)",
+  "sodium.options.vignette.name": "Vignette"
+}
