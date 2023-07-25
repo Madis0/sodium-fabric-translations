@@ -16,7 +16,7 @@ Please note that new versions will be created **every Monday if there are change
 
 - [Prism Launcher](https://prismlauncher.org/) can directly install and update Sodium and this pack
 - [CurseForge Launcher](https://www.curseforge.com/download/app) can directly install and update this pack, but Sodium must be installed manually
-- [Modpacks that include this pack](https://legacy.curseforge.com/minecraft/texture-packs/translations-for-sodium/relations/dependents) can manage the updating for you, as long as you keep the modpack itself up to date
+- [Modpacks that include this pack](https://legacy.curseforge.com/minecraft/texture-packs/translations-for-sodium/relations/dependents?filter-related-dependents=6) can manage the updating for you, as long as you keep the modpack itself up to date
 
 ## Translating
 
