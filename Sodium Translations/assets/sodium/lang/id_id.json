@@ -26,5 +26,17 @@
   "sodium.options.particle_quality.tooltip": "Mengatur jumlah maksimal partikel yang dapat muncul di layar pada waktu yang sama.",
   "sodium.options.smooth_lighting.tooltip": "Mengatur apakah blok akan diterangi secara halus. Ini sedikit menambah waktu yang dibutuhkan untuk membangun kembali sebuah chunk, tetapi tidak mempengaruhi frame rate.",
   "sodium.options.biome_blend.value": "%s blok",
-  "sodium.options.chunk_memory_allocator.async": "Async"
+  "sodium.options.entity_distance.tooltip": "Mengatur seberapa jauh entitas dapat di-render dari pemain. Nilai yang lebih tinggi akan menaikkan jarak render namun dapat mengurangi FPS.",
+  "sodium.options.animate_only_visible_textures.name": "Animasikan Tekstur Yang Terlihat Saja",
+  "sodium.options.allow_direct_memory_access.tooltip": "Jika diaktifkan, beberapa kode penting diperbolehkan menggunakan akses memori langsung untuk performa yang lebih tinggi. Ini biasanya mengurangi beban CPU untuk me-render chunk dan entitas, namun dapat mempersulit diagnosis beberapa bug dan crash. Nonaktifkan ini hanya saat kamu diminta atau jika kamu tahu apa yang kamu lakukan.",
+  "sodium.options.performance_impact_string": "Dampak terhadap performa: %s",
+  "sodium.options.chunk_memory_allocator.async": "Async",
+  "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "sodium.options.chunk_update_threads.tooltip": "Menentukan jumlah thread yang digunakan untuk membangun chunk. Lebih banyak thread yang digunakan dapat mempercepat pemuatan chunk dan kecepatan pembaruan, namun dapat membuat lag atau FPS tidak stabil.",
+  "sodium.options.use_no_error_context.tooltip": "Jika diaktifkan, konteks OpenGL akan dibuat dengan pemeriksaan masalah dinonaktifkan. Performa dapat meningkat sedikit, namun dapat meningkatkan resiko game crash daripada menangani error OpenGL dengan baik. Nonaktifkan ini jika mengalami crash yang mendadak tanpa penyebab yang jelas.",
+  "sodium.options.buttons.undo": "Urungkan",
+  "sodium.options.buttons.apply": "Terapkan",
+  "sodium.options.buttons.donate": "Belikan kami kopi!",
+  "modmenu.descriptionTranslation.sodium": "Sodium adalah sebuah mod gratis dan bersumber terbuka untuk Minecraft agar dapat meningkatkan FPS dan mengurangi lag.",
+  "sodium.resource_pack.unofficial": "§7Terjemahan tidak resmi untuk Sodium§r"
 }
