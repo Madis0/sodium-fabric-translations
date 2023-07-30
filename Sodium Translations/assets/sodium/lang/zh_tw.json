@@ -65,7 +65,7 @@
   "sodium.options.buttons.undo": "復原",
   "sodium.options.buttons.apply": "套用",
   "sodium.options.buttons.donate": "幫我們買杯咖啡！",
-  "modmenu.summaryTranslation.sodium": "現代的繪製引擎和用於 Minecraft 的用戶端效能模組。",
+  "modmenu.summaryTranslation.sodium": "為 Minecraft 打造的現代化繪製引擎與用戶端最佳化模組",
   "modmenu.descriptionTranslation.sodium": "Sodium 是個免費且開源的 Minecraft 效能模組，可以提高 FPS 並減少卡頓。",
   "sodium.resource_pack.unofficial": "§7Sodium 的非官方翻譯§r"
 }
