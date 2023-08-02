@@ -8,5 +8,9 @@
   "sodium.options.particle_quality.tooltip": "Controla o número máximo de partículas que podem estar presentes no ecrã a qualquer momento.",
   "sodium.options.smooth_lighting.tooltip": "Controla se os blocos serão suavemente iluminados e sombreados. Isto aumenta ligeiramente a quantidade de tempo necessário para reconstruir um chunk, mas não afeta o desempenho geral.",
   "sodium.options.biome_blend.value": "%s bloco(s)",
-  "sodium.options.vignette.name": "Vignette"
+  "sodium.options.vignette.name": "Vignette",
+  "sodium.options.chunk_memory_allocator.name": "Alocador de Memória para Chunks",
+  "sodium.options.chunk_memory_allocator.tooltip": "Seleciona o alocador de memória que será utilizado para renderização de chunks.\n- ASSÍNCRONO: Opção mais rápida, funciona bem com a maioria dos controladores gráficos modernos.\n- SWAP: Opção Fallback para controladores gráficos mais antigos. Pode aumentar o uso de memória significativamente.",
+  "sodium.options.chunk_memory_allocator.async": "Assíncrono",
+  "sodium.options.chunk_memory_allocator.swap": "Swap"
 }
