@@ -1,1 +1,8 @@
-{}
+{
+  "sodium.option_impact.low": "Laag",
+  "sodium.option_impact.medium": "Gemiddeld",
+  "sodium.option_impact.high": "Hoog",
+  "sodium.option_impact.extreme": "Extreem",
+  "sodium.options.pages.quality": "Kwaliteit",
+  "sodium.options.pages.advanced": "Geavanceerd"
+}
