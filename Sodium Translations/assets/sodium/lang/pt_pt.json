@@ -1,12 +1,27 @@
 {
+  "sodium.option_impact.low": "Baixo",
+  "sodium.option_impact.medium": "Médio",
+  "sodium.option_impact.high": "Alto",
+  "sodium.option_impact.extreme": "Extremo",
+  "sodium.option_impact.varies": "Varia",
   "sodium.options.pages.quality": "Qualidade",
   "sodium.options.pages.performance": "Desempenho",
   "sodium.options.pages.advanced": "Avançado",
+  "sodium.options.view_distance.tooltip": "A distância de renderização controla quão longe o terreno será renderizado. Distâncias mais curtas significam que menos terreno será renderizado, melhorando o FPS.",
   "sodium.options.brightness.tooltip": "Controla a luminosidade (gamma) do jogo.",
   "sodium.options.fullscreen.tooltip": "Se ligado, o jogo aparece em ecrã cheio (se suportado).",
   "sodium.options.particle_quality.name": "Qualidade de Partículas",
   "sodium.options.particle_quality.tooltip": "Controla o número máximo de partículas que podem estar presentes no ecrã a qualquer momento.",
   "sodium.options.smooth_lighting.tooltip": "Controla se os blocos serão suavemente iluminados e sombreados. Isto aumenta ligeiramente a quantidade de tempo necessário para reconstruir um chunk, mas não afeta o desempenho geral.",
   "sodium.options.biome_blend.value": "%s bloco(s)",
-  "sodium.options.vignette.name": "Vignette"
+  "sodium.options.vignette.name": "Vignette",
+  "sodium.options.chunk_memory_allocator.name": "Alocador de Memória para Chunks",
+  "sodium.options.chunk_memory_allocator.tooltip": "Seleciona o alocador de memória que será utilizado para renderização de chunks.\n- ASSÍNCRONO: Opção mais rápida, funciona bem com a maioria dos controladores gráficos modernos.\n- SWAP: Opção Fallback para controladores gráficos mais antigos. Pode aumentar o uso de memória significativamente.",
+  "sodium.options.chunk_memory_allocator.async": "Assíncrono",
+  "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "sodium.options.chunk_update_threads.name": "Threads para Atualizações de Chunks",
+  "sodium.options.chunk_update_threads.tooltip": "Especifica o número de threads a utilizar para construção de chunks. Usar mais threads pode acelerar o carregamento e a velocidade de atualização dos chunks, mas pode negativamente afetar o FPS.",
+  "sodium.options.always_defer_chunk_updates.name": "Sempre Adiar Atualizações dos Chunks",
+  "modmenu.descriptionTranslation.sodium": "O Sodium é um mod de otimização livre e de código aberto para o Minecraft que melhora o FPS e reduz os picos de atraso.",
+  "sodium.resource_pack.unofficial": "§7Traduções não oficiais para o Sodium§r"
 }
