@@ -65,6 +65,9 @@
   "sodium.options.buttons.undo": "撤销",
   "sodium.options.buttons.apply": "应用",
   "sodium.options.buttons.donate": "赞助我们！",
+  "sodium.console.game_restart": "游戏需要重启来应用这些更改！",
+  "sodium.console.broken_nvidia_driver": "您的NVIDIA驱动程序过旧。\n  *如果继续使用Sodium，这将产生严重的性能问题或导致崩溃。\n  *请将您的NVIDIA驱动程序更新到版本536.23或更新版本。",
+  "sodium.console.pojav_launcher": "PojavLauncher不支持Sodium。\n  *如果您继续使用Sodium，您很可能会遇到极严重的性能问题、渲染错误和崩溃。\n  *我们不会帮助您解决任何问题！",
   "modmenu.summaryTranslation.sodium": "为 Minecraft 打造的现代化渲染引擎和客户端优化模组",
   "modmenu.descriptionTranslation.sodium": "Sodium 是免费、开源的 Minecraft 优化模组，可以提高帧率，减少卡顿。",
   "sodium.resource_pack.unofficial": "§7Sodium 非官方翻译§r"
