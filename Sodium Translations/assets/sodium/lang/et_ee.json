@@ -65,6 +65,9 @@
   "sodium.options.buttons.undo": "Võta tagasi",
   "sodium.options.buttons.apply": "Rakenda",
   "sodium.options.buttons.donate": "Osta meile kohvi!",
+  "sodium.console.game_restart": "Ühe või rohkema graafikaseade rakendamiseks tuleb mäng taaskäivitada!",
+  "sodium.console.broken_nvidia_driver": "Sinu NVIDIA graafikadraiverid on aegunud!\n  * See põhjustab tõsiseid jõudlusprobleeme ja krahhe, kui Sodium on paigaldatud.\n  * Palun uuenda oma graafikadraiverid viimasele versioonile (versioon 536.23 või uuem)",
+  "sodium.console.pojav_launcher": "PojavLauncher ei ole Sodiumi kasutades toetatud.\n  * Suure tõenäosusega tekivad äärmuslikud jõudlusprobleemid, graafilised vead ja krahhid.\n  * Jätkamisel oled üksi - me ei aita sind mistahes vigade ja krahhide puhul!",
   "modmenu.summaryTranslation.sodium": "Modernne renderdusmootor ja kliendipoolse optimeerimise mod Minecraftile",
   "modmenu.descriptionTranslation.sodium": "Sodium on tasuta ja avatud lähtekoodiga mod Minecraftile, mis parandab kaadrisagedust ja vähendab latentsusokkaid.",
   "sodium.resource_pack.unofficial": "§7Mitteametlikud tõlked Sodiumile§r"
