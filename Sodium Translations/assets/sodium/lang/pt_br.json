@@ -31,6 +31,7 @@
   "sodium.options.entity_shadows.tooltip": "Ao ativar, as sombras básicas de criaturas e entidades serão renderizadas.",
   "sodium.options.vignette.name": "Vinheta",
   "sodium.options.vignette.tooltip": "Ao ativar, um efeito de vinheta será exibido na visão do jogador. Uma diferença na taxa de quadros é improvável, desde que não haja limitação na taxa de preenchimento.",
+  "sodium.options.mipmap_levels.tooltip": "Controla o número de mipmaps que serão usados para texturas de modelo de bloco. Valores mais altos fornecem melhor renderização de blocos à distância, mas podem afetar negativamente o desempenho com muitas texturas animadas.",
   "sodium.options.use_block_face_culling.name": "Filtragem de face dos blocos",
   "sodium.options.use_block_face_culling.tooltip": "Se ativado, apenas os lados dos blocos que estão voltados para a câmera serão enviados para renderização. Isso pode eliminar um grande número de faces de bloco muito cedo no processo de renderização, economizando largura de banda de memória e tempo na GPU. Alguns pacotes de recursos podem ter problemas com esta opção, então tente desativá-la se você estiver vendo faltando ou buracos nos blocos.",
   "sodium.options.use_fog_occlusion.name": "Oclusão de neblina",
@@ -64,6 +65,9 @@
   "sodium.options.buttons.undo": "Desfazer",
   "sodium.options.buttons.apply": "Aplicar",
   "sodium.options.buttons.donate": "Buy us a coffee!",
+  "sodium.console.game_restart": "O jogo deve ser reiniciado para aplicar uma ou mais configurações de vídeo!",
+  "sodium.console.broken_nvidia_driver": "Seus drivers de gráfico NVIDIA estão desatualizados!\n  * Isso causará problemas severos de desempenho quando Sodium estiver instalado.\n  * Por favor atualize seus drivers de gráfico para a última versão (versão 536.23 ou mais atual.)",
+  "sodium.console.pojav_launcher": "O PojavLauncher não é suportado ao usar o Sodium.\n  * É muito provável que você tenha problemas extremos de desempenho, bugs gráficos e travamentos.\n  * Você estará por conta própria se decidir continuar -- não iremos ajudá-lo com nenhum bug ou travamento!",
   "modmenu.summaryTranslation.sodium": "Renderizador moderno e otimizador do Minecraft",
   "modmenu.descriptionTranslation.sodium": "O Sodium é um mod de otimização gratuito e de código-aberto que melhora as taxas de quadro do Minecraft.",
   "sodium.resource_pack.unofficial": "§7Tradução por Dieguinho§r"
