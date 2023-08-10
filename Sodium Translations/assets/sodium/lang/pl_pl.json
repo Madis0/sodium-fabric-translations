@@ -7,7 +7,7 @@
   "sodium.options.pages.quality": "Jakość",
   "sodium.options.pages.performance": "Wydajność",
   "sodium.options.pages.advanced": "Zaawansowane",
-  "sodium.options.view_distance.tooltip": "Zasięg renderowania kontroluje jak daleko otoczenie, będzie wczytywane. Krótszy dystans oznacza, że mniej otoczenia będzie wczytywane, co oznacza więcej klatek na sekundę.",
+  "sodium.options.view_distance.tooltip": "Zasięg renderowania kontroluje, jak daleko otoczenie będzie wczytywane. Krótszy dystans oznacza, że mniej otoczenia będzie wczytywane, co oznacza więcej klatek na sekundę.",
   "sodium.options.simulation_distance.tooltip": "Zasięg symulacji kontroluje jak daleko otoczenie i byty będą wczytywane i symulowane. Krótsze dystansy mogą zmniejszyć obciążenie wewnętrznego serwera i poprawić klatki na sekundę.",
   "sodium.options.brightness.tooltip": "Kontroluje jasność (Gamma) gry.",
   "sodium.options.gui_scale.tooltip": "Ustawia maksymalny współczynnik skalowania do użycia przez interfejs użytkownika. Jeśli opcja \"Auto\" jest użyta, wtedy największy współczynnik zostanie użyty.",
