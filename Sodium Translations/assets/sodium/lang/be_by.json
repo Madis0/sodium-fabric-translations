@@ -1,0 +1,10 @@
+{
+  "sodium.option_impact.low": "Нізкі",
+  "sodium.option_impact.medium": "Сярэдні",
+  "sodium.option_impact.high": "Высокі",
+  "sodium.option_impact.extreme": "Экстрымны",
+  "sodium.option_impact.varies": "Рознае",
+  "sodium.options.pages.quality": "Якасць",
+  "sodium.options.pages.performance": "Прадукцыйнасць",
+  "sodium.options.pages.advanced": "Дадаткова"
+}
