@@ -47,3 +47,7 @@ Currently this project will not include fictional (e.g. Esperanto), "joke" (e.g.
 ### Where can I find the original language file?
 
 At the moment, [1.19.4/stable branch en_us.json](https://github.com/CaffeineMC/sodium-fabric/blob/1.19.4/stable/src/main/resources/assets/sodium/lang/en_us.json) is used. Some strings may be appended from the equivalent dev branch file.
+
+### Why does this exist?
+
+Sodium used to have a translation platform. It was announced and it stayed around for about 2 years, but the translations on it were not used in the mod. After that, [amnotbananaama](https://github.com/amnotbananaama), a moderator in CaffeineMC Discord, created and maintained this repo and Crowdin. That project became stagnant as well, as it was easy for users to contribute, but not use the translations in-game. Then myself and Reese came around and made it sustainable, with some help from Discord user _piuvas_. Now everyone can contribute easily and download the languages as a resource pack :)
