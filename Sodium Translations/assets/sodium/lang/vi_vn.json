@@ -65,6 +65,9 @@
   "sodium.options.buttons.undo": "Trở lại",
   "sodium.options.buttons.apply": "Áp dụng",
   "sodium.options.buttons.donate": "Mua cho chúng tôi một ly cà phê!",
+  "sodium.console.game_restart": "Trò chơi phải được khởi động lại để áp dụng một hoặc nhiều cài đặt hình ảnh!",
+  "sodium.console.broken_nvidia_driver": "Trình điều khiển đồ họa NVIDIA của bạn đã lỗi thời!\n  * Điều này sẽ gây ra một số vấn đề về hiệu năng và làm sập trò chơi nếu như Sodium được cài đặt.\n  * Hãy cập nhật trình điều khiển đồ họa của bạn lên phiên bản mới nhất (từ phiên bản 536.23 trở đi.)",
+  "sodium.console.pojav_launcher": "PojavLauncher không được hỗ trợ khi sử dụng Sodium.\n  * Khả năng rất cao là bạn sẽ gặp vấn đề về hiệu năng rất nặng, lỗi đồ họa và sập trò chơi.\n  * Bạn phải tự chịu trách nhiệm nếu như bạn quyết định tiếp tục - chúng tôi sẽ không giúp bạn với bất cứ lỗi nào hay trò chơi bị sập!",
   "modmenu.summaryTranslation.sodium": "Mod mang đến công cụ kết xuất hiện đại và sự tối ưu hóa dành cho Minecraft phía bản thân người chơi",
   "modmenu.descriptionTranslation.sodium": "Sodium là một mod miễn phí có mã nguồn mở giúp tối ưu hóa dành cho Minecraft với mục tiêu giúp cải thiện tốc độ khung hình và giảm những đợt lag.",
   "sodium.resource_pack.unofficial": "§7Bản dịch không chính thức cho Sodium§r"
