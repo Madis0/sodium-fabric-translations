@@ -65,6 +65,7 @@
   "sodium.options.buttons.undo": "Geri al",
   "sodium.options.buttons.apply": "Uygula",
   "sodium.options.buttons.donate": "Bize bir kahve al!",
+  "sodium.console.game_restart": "Ayarların uygulanması için oyunun yeniden başlatılması gerekir!",
   "modmenu.summaryTranslation.sodium": "Minecraft için modern işleme motoru ve istemci tarafı optimizasyon modu",
   "modmenu.descriptionTranslation.sodium": "Sodium, Minecraft için kare hızlarını iyileştiren ve gecikmeyi azaltan ücretsiz ve açık kaynaklı bir optimizasyon modudur.",
   "sodium.resource_pack.unofficial": "§7Sodium için resmi olmayan çeviriler§r"
