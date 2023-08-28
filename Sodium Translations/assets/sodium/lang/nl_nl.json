@@ -4,5 +4,7 @@
   "sodium.option_impact.high": "Hoog",
   "sodium.option_impact.extreme": "Extreem",
   "sodium.options.pages.quality": "Kwaliteit",
-  "sodium.options.pages.advanced": "Geavanceerd"
+  "sodium.options.pages.advanced": "Geavanceerd",
+  "sodium.options.buttons.undo": "Ongedaan maken",
+  "sodium.options.buttons.apply": "Toepassen"
 }
