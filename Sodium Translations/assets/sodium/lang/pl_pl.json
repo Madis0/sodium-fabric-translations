@@ -61,7 +61,7 @@
   "sodium.options.always_defer_chunk_updates.name": "Zawsze opóźniaj aktualizowanie chunków",
   "sodium.options.always_defer_chunk_updates.tooltip": "Jeśli włączone, renderowanie nigdy nie będzie czekać aż aktualizacje chunków się zakończą, nawet gdy są one ważne. To może poprawić wydajność klatek na sekundę w niektórych przypadkach, ale może skutkować w lagu renderowania świata.",
   "sodium.options.use_no_error_context.name": "Używaj braku kontekstu błędu",
-  "sodium.options.use_no_error_context.tooltip": "Jeśli będzie to włączone, kontekst OpenGL będzie stworzony z wyłączonym sprawdzaniem błędów. To może trochę ulepszyć wydajność, ale także zwiększa ryzyko, że gra się scashuje, zamiast dobrze sobie radzić z błędami OpenGL. Opcja powinna być wyłączona, jeśli zauważono nagłą ilość crashów bez powodu.",
+  "sodium.options.use_no_error_context.tooltip": "Jeśli będzie to włączone, kontekst OpenGL będzie stworzony z wyłączonym sprawdzaniem błędów. To może trochę ulepszyć wydajność, ale także zwiększa ryzyko, że gra się scrashuje, zamiast dobrze sobie radzić z błędami OpenGL. Opcja powinna być wyłączona, jeśli zauważono nagłą ilość crashów bez powodu.",
   "sodium.options.buttons.undo": "Cofnij",
   "sodium.options.buttons.apply": "Zastosuj",
   "sodium.options.buttons.donate": "Kup nam kawę!",
