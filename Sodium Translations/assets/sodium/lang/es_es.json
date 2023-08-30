@@ -65,6 +65,9 @@
   "sodium.options.buttons.undo": "Deshacer",
   "sodium.options.buttons.apply": "Aplicar",
   "sodium.options.buttons.donate": "¡Invítanos un café!",
+  "sodium.console.game_restart": "¡Debes reiniciar el juego para aplicar una o más configuraciones de video!",
+  "sodium.console.broken_nvidia_driver": "¡Tus controladores de gráficos NVIDIA están desactualizados!\n   * Esto provocará graves problemas de rendimiento y fallos cuando se instale Sodium.\n   * Actualice sus controladores de gráficos a la última versión (versión 536.23 o posterior)",
+  "sodium.console.pojav_launcher": "PojavLauncher no es compatible cuando se usa Sodium.\n   * Es muy probable que te encuentres con problemas extremos de rendimiento, errores gráficos y fallas.\n   * Estarás solo si decides continuar -- ¡no te ayudaremos con ningún error o falla!",
   "modmenu.summaryTranslation.sodium": "Motor de renderizado moderno y mod de optimización del lado del cliente para Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium es un mod de optimización gratuito y de código abierto para Minecraft que mejora las tasas de fotogramas y reduce los picos de lag.",
   "sodium.resource_pack.unofficial": "§7Traducciones no oficiales para Sodium§r"
