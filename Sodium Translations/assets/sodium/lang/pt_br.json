@@ -64,7 +64,7 @@
   "sodium.options.use_no_error_context.tooltip": "Se habilitado, o contexto do OpenGL sera criado com verificação de erro desativada. Isso pode ajudar um pouco a melhora seu desempenho, mas aumenta os ricos do jogo crashar em vez de lidar graciosamente com os erros do OpenGL. Você deveria desabilitar essa opção caso queira experenciar crashs repentinos e inexplicáveis.",
   "sodium.options.buttons.undo": "Desfazer",
   "sodium.options.buttons.apply": "Aplicar",
-  "sodium.options.buttons.donate": "Compre-nos um café!",
+  "sodium.options.buttons.donate": "Quer apoiar?",
   "sodium.console.game_restart": "O jogo deve ser reiniciado para aplicar uma ou mais configurações de vídeo!",
   "sodium.console.broken_nvidia_driver": "Seus drivers de gráfico NVIDIA estão desatualizados!\n  * Isso causará problemas severos de desempenho quando Sodium estiver instalado.\n  * Por favor atualize seus drivers de gráfico para a última versão (versão 536.23 ou mais atual.)",
   "sodium.console.pojav_launcher": "O PojavLauncher não é suportado ao usar o Sodium.\n  * É muito provável que você tenha problemas extremos de desempenho, bugs gráficos e travamentos.\n  * Você estará por conta própria se decidir continuar -- não iremos ajudá-lo com nenhum bug ou travamento!",
