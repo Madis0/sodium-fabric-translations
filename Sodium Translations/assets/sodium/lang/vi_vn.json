@@ -64,7 +64,7 @@
   "sodium.options.use_no_error_context.tooltip": "Nếu được bật, ngữ cảnh OpenGL sẽ được tạo với tính năng kiểm tra lỗi bị tắt. Điều này có thể cải thiện một chút hiệu suất, nhưng nó cũng làm tăng nguy cơ trò chơi bị sập thay vì xử lý các lỗi OpenGL một cách khéo léo. Bạn nên tắt tùy chọn này nếu trò chơi bị sập đột ngột không rõ nguyên nhân.",
   "sodium.options.buttons.undo": "Trở lại",
   "sodium.options.buttons.apply": "Áp dụng",
-  "sodium.options.buttons.donate": "Mua cho chúng tôi một ly cà phê!",
+  "sodium.options.buttons.donate": "Hỗ trợ chúng tôi!",
   "sodium.console.game_restart": "Trò chơi phải được khởi động lại để áp dụng một hoặc nhiều cài đặt hình ảnh!",
   "sodium.console.broken_nvidia_driver": "Trình điều khiển đồ họa NVIDIA của bạn đã lỗi thời!\n  * Điều này sẽ gây ra một số vấn đề về hiệu năng và làm sập trò chơi nếu như Sodium được cài đặt.\n  * Hãy cập nhật trình điều khiển đồ họa của bạn lên phiên bản mới nhất (từ phiên bản 536.23 trở đi.)",
   "sodium.console.pojav_launcher": "PojavLauncher không được hỗ trợ khi sử dụng Sodium.\n  * Khả năng rất cao là bạn sẽ gặp vấn đề về hiệu năng rất nặng, lỗi đồ họa và sập trò chơi.\n  * Bạn phải tự chịu trách nhiệm nếu như bạn quyết định tiếp tục - chúng tôi sẽ không giúp bạn với bất cứ lỗi nào hay trò chơi bị sập!",
