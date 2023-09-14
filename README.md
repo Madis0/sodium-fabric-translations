@@ -10,7 +10,7 @@ All translations in this repository are available as a resource pack, which you 
 
 **Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium/files) | [GitHub](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip)**
 
-Please note that new versions will be created **every Monday if there are changes**. If you don't see the most recent translations, please check back later for a new release.
+Please note that new versions will be created **every Saturday if there are changes**. If you don't see the most recent translations, please check back later for a new release.
 
 ### Keeping up to date
 
