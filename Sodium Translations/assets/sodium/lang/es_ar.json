@@ -65,6 +65,7 @@
   "sodium.options.buttons.undo": "Deshacer",
   "sodium.options.buttons.apply": "Aplicar",
   "sodium.options.buttons.donate": "¡Compranos un café!",
+  "sodium.console.game_restart": "¡Debes reiniciar el juego para aplicar una o más configuraciones de video!",
   "sodium.console.broken_nvidia_driver": "¡Tus controladores gráficos NVIDIA están desactualizados!\n  * Esto va a causar problemas severos de rendimientos y crasheos mientras Sodium está instalado.\n  * Por favor, actualizá tus drivers gráficos a la última versión (versión 536.23 o más nueva.)",
   "sodium.console.pojav_launcher": "PojavLauncher no está soportado al usar Sodium.\n  * Probablemente tengás problemas extremos de rendimiento, errores gráficos y crasheos.\n  * Será desición tuya si decidís continuar. ¡No te ayudaremos con ningún error o crasheo!",
   "modmenu.summaryTranslation.sodium": "Motor de renderizado moderno y mod de optimización del lado del cliente para Minecraft",
