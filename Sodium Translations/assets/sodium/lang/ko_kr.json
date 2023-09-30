@@ -27,7 +27,7 @@
   "sodium.options.smooth_lighting.tooltip": "블록이 부드럽게 빛나고 음영 처리 될지 조절합니다. 값이 클수록 청크를 생성하는 시간이 약간 늘어나지만, 프레임률에는 거의 영향을 주지 않습니다.",
   "sodium.options.biome_blend.value": "%s 블록",
   "sodium.options.biome_blend.tooltip": "블록 컬러링을 위해 샘플링될 생물 군계의 범위를 제어합니다. 값이 높을수록 블록의 색이 부드러워지지만, 품질 개선을 위해 청크를 생성하는 시간이 크게 증가할 수 있습니다.",
-  "sodium.options.entity_distance.tooltip": "플레이어로부터 얼마나 멀리 있는 엔티티를 렌더할지 제어합니다. 값이 클수록 렌더 거리가 증가하여 더 많은 엔티티가 렌더링 되지만, 프레임률이 감소할 수 있습니다.",
+  "sodium.options.entity_distance.tooltip": "플레이어로부터 얼마나 멀리 있는 엔티티를 렌더링할지 제어합니다. 값이 클수록 렌더 거리가 증가하여 더 많은 엔티티가 렌더링 되지만, 프레임률이 감소할 수 있습니다.",
   "sodium.options.entity_shadows.tooltip": "활성화하면, 엔티티 아래 기본 그림자를 렌더링 합니다.",
   "sodium.options.vignette.name": "비네팅",
   "sodium.options.vignette.tooltip": "활성화하면, 플레이어 시야에 비네팅 효과가 렌더링 됩니다. 이 옵션은 프레임률에 영향을 주지 않습니다.",
