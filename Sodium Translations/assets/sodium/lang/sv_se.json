@@ -1,1 +1,13 @@
-{}
+{
+  "sodium.option_impact.low": "Låg",
+  "sodium.option_impact.medium": "Medium",
+  "sodium.option_impact.high": "Hög",
+  "sodium.option_impact.extreme": "Extrem",
+  "sodium.option_impact.varies": "Varierar",
+  "sodium.options.pages.quality": "Kvalitet",
+  "sodium.options.pages.performance": "Prestanda",
+  "sodium.options.pages.advanced": "Avancerad",
+  "sodium.options.view_distance.tooltip": "Synligt avstånd kontrollerar hur långt bort terrängen renderas. Ett kortare synligt avstånd betyder mindre terräng och högre bildfrekvens.",
+  "sodium.options.simulation_distance.tooltip": "Simulerat avstånd kontrollerar hur långt bort terräng och entiteter laddas in. Kortare distanser kan reducera den interna serverns belastning och öka bildfrekvensen.",
+  "sodium.options.brightness.tooltip": "Kontrollerar ljusstyrkan i spelet."
+}
