@@ -6,7 +6,7 @@
   "sodium.option_impact.varies": "Varierar",
   "sodium.options.pages.quality": "Kvalitet",
   "sodium.options.pages.performance": "Prestanda",
-  "sodium.options.pages.advanced": "Avancerad",
+  "sodium.options.pages.advanced": "Avancerat",
   "sodium.options.view_distance.tooltip": "Renderingsavståndet styr hur långt bort terrängen kommer att renderas. Kortare avstånd innebär att mindre terräng renderas, vilket förbättrar bildhastigheten.",
   "sodium.options.simulation_distance.tooltip": "Simuleringsavståndet styr hur långt bort terräng och enheter kommer att laddas och markeras. Kortare avstånd kan minska den interna serverns belastning och kan förbättra bildhastigheten.",
   "sodium.options.brightness.tooltip": "Kontrollerar spelets ljusstyrka (gamma).",
@@ -40,7 +40,7 @@
   "sodium.options.use_entity_culling.tooltip": "Om det är aktiverat kommer enheter som fastställts inte vara i några synliga bitar att hoppas över under renderingen. Detta kan bidra till att förbättra prestandan genom att undvika rendering av enheter som ligger under jord eller bakom väggar.",
   "sodium.options.use_particle_culling.name": "Använd Partikelculling",
   "sodium.options.use_particle_culling.tooltip": "Om inställningen är påslagen kommer endast de partiklarna som kan ses renderas. Detta kan ge en betydande förbättring i bildfrekvenser när det finns många partiklar i närheten.",
-  "sodium.options.animate_only_visible_textures.name": "Animera Endast Synliga Texturer",
+  "sodium.options.animate_only_visible_textures.name": "Animera endast synliga texturer",
   "sodium.options.animate_only_visible_textures.tooltip": "Om det är aktiverat kommer endast animerade texturer som fastställts vara synliga att uppdateras. Detta kan ge en betydande ökning av bildhastigheter på viss hårdvara, särskilt med tyngre resurspaket. Om du upplever problem med att vissa texturer inte är animerade, försök att inaktivera det här alternativet.",
   "sodium.options.cpu_render_ahead_limit.name": "CPU Förrenderingsgräns",
   "sodium.options.cpu_render_ahead_limit.tooltip": "Anger det maximala antalet bildrutor som CPU:n kan vänta på att grafikprocessorn ska slutföra renderingen. Mycket låga eller höga värden kan skapa bildhastighetsinstabilitet.",
@@ -60,7 +60,7 @@
   "sodium.options.chunk_update_threads.tooltip": "Speciferar antalet trådar som ska användas för datablocksbyggande. Att använda mer trådar kan snabba upp inladdning och uppdateringshastighet av datablock, men kan påverka bildfrekvensen.",
   "sodium.options.always_defer_chunk_updates.name": "Skjut alltid upp uppdateringar av bitar",
   "sodium.options.always_defer_chunk_updates.tooltip": "Om det är aktiverat kommer renderingen aldrig att vänta på att uppdateringar av bitar ska slutföras, även om de är viktiga. Detta kan förbättra bildhastigheterna avsevärt i vissa scenarier, men det kan skapa betydande visuell eftersläpning i världen.",
-  "sodium.options.use_no_error_context.name": "Använd Ingen Felkontext",
+  "sodium.options.use_no_error_context.name": "Använd ingen felkontext",
   "sodium.options.use_no_error_context.tooltip": "Om det är aktiverat kommer OpenGL-kontexten att skapas med felkontroll inaktiverad. Detta kan förbättra prestandan något, men det ökar också risken att spelet kraschar istället för att graciöst hantera OpenGL-fel. Du bör inaktivera det här alternativet om du upplever plötsliga oförklarade krascher.",
   "sodium.options.buttons.undo": "Ångra",
   "sodium.options.buttons.apply": "Verkställ",
@@ -70,5 +70,5 @@
   "sodium.console.pojav_launcher": "PojavLauncher stöds inte när du använder Sodium.\n  * Det är mycket troligt att du stöter på extrema prestandaproblem, grafiska buggar och krascher.\n  * Du kommer att vara på egen hand om du bestämmer dig för att fortsätta -- vi hjälper dig inte med några buggar eller krascher!",
   "modmenu.summaryTranslation.sodium": "Modern renderingsmotor och klient-optimerings mod för Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium är en gratis och öppen optimiseringsmod för Minecraft som ökar bildfrekvensen och minskar fördröjningsspikar.",
-  "sodium.resource_pack.unofficial": "§7Inofficiella Översättningar för Sodium§r"
+  "sodium.resource_pack.unofficial": "§7Inofficiella översättningar för Sodium§r"
 }
