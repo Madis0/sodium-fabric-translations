@@ -1,4 +1,14 @@
 {
   "sodium.option_impact.low": "कम",
-  "sodium.option_impact.high": "अधिक"
+  "sodium.option_impact.medium": "मध्यम",
+  "sodium.option_impact.high": "अधिक",
+  "sodium.option_impact.extreme": "तीव्रतम",
+  "sodium.option_impact.varies": "निर्भर करता है",
+  "sodium.options.pages.quality": "सुंदरता",
+  "sodium.options.pages.performance": "तेज़ी",
+  "sodium.options.pages.advanced": "अतिरिक्त",
+  "sodium.options.view_distance.tooltip": "रेंडर डिस्टेंस नियंत्रित करता है कि इलाके कितना दूर देख सकते हैं। कम दूरी का मतलब है कि कम इलाके को प्रस्तुत किया जाएगा, फ्रेम में सुधार होगा।",
+  "sodium.options.simulation_distance.tooltip": "सिमुलेशन-डिस्टेंस नियंत्रित करता है कि इलाके और संस्थाओं को कितनी दूर लोड किया जाएगा। छोटी दूरी लोड को कम कर सकती है और फ्रेम में सुधार कर सकती है।",
+  "sodium.options.brightness.tooltip": "यह चमक (गामा) को नियंत्रित करता है।",
+  "sodium.options.gui_scale.tooltip": "UI के लिए उपयोग किए जाने वाले अधिकतम पैमाने को सेट करता है। यदि 'ऑटो' का उपयोग किया जाता है, तो सबसे बड़े पैमाने का उपयोग हमेशा किया जाएगा।"
 }
