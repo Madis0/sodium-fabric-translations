@@ -10,8 +10,6 @@ All translations in this repository are available as a resource pack, which you 
 
 **Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium/files) | [GitHub](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip)**
 
-Please note that new versions will be created **every Saturday if there are changes**. If you don't see the most recent translations, please check back later for a new release.
-
 ### Keeping up to date
 
 - [Modrinth App](https://modrinth.com/app) and [Prism Launcher](https://prismlauncher.org/) can directly install and update Sodium and this pack
@@ -23,6 +21,8 @@ Please note that new versions will be created **every Saturday if there are chan
 **By submitting translations, you are agreeing to have them licensed under the [Creative Commons Zero (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/) license.**
 
 You can contribute to the translation effort on our Crowdin [project page](https://crowdin.com/project/sodium-fabric)! First you'll need to [register](https://accounts.crowdin.com/register) a Crowdin account if you haven't already. Translators are able to **translate** (submit a translation for an untranslated phrase), **suggest** (propose a better translation compared to an existing one), or **vote** (vote up or down the quality of a translation).
+
+Please note that new versions will be created **every Saturday if there are changes**. If you don't see the most recent translations, please check back later for a new release.
 
 For more information on using Crowdin, please see their "[Intro For Volunteer Translators](https://support.crowdin.com/for-volunteer-translators/)" support page.
 
