@@ -46,7 +46,7 @@ Currently this project will not include fictional (e.g. Esperanto), "joke" (e.g.
 
 ### Where can I find the original language file?
 
-At the moment, [1.19.4/stable branch en_us.json](https://github.com/CaffeineMC/sodium-fabric/blob/1.19.4/stable/src/main/resources/assets/sodium/lang/en_us.json) is used. Some strings may be appended from the equivalent dev branch file.
+At the moment, [dev/stable branch en_us.json](https://github.com/CaffeineMC/sodium-fabric/blob/dev/src/main/resources/assets/sodium/lang/en_us.json) is used. Some strings may be appended from the equivalent dev branch file.
 
 ### Why does this exist?
 
