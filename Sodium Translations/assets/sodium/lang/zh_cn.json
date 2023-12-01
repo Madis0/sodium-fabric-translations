@@ -8,7 +8,7 @@
   "sodium.options.pages.performance": "性能",
   "sodium.options.pages.advanced": "高级",
   "sodium.options.view_distance.tooltip": "渲染距离控制渲染多远的地形。更短的距离意味着会渲染更少的地形，从而提高帧率。",
-  "sodium.options.simulation_distance.tooltip": "模拟距离控制加载和更新多远的地形和实体。更短的距离可以减少内部服务器的负载且可以提高帧率。",
+  "sodium.options.simulation_distance.tooltip": "模拟距离控制加载和更新多远的地形和实体。更短的距离可以减少内置服务端的负载且可以提高帧率。",
   "sodium.options.brightness.tooltip": "控制游戏的亮度（伽玛值）。",
   "sodium.options.gui_scale.tooltip": "设置要用于用户界面的最大缩放比例。如果设置为“自动（0）”，则始终使用最大的缩放比例。",
   "sodium.options.fullscreen.tooltip": "如果启用，游戏将以全屏显示（如果支持）。",
