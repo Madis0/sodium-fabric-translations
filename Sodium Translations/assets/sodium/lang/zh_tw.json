@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "遊戲必須重新啟動以套用一個或以上的顯示設定！",
   "sodium.console.broken_nvidia_driver": "你的 NVIDIA 顯示卡驅動程式未更新！\n  ＊若繼續使用 Sodium，這將產生嚴重的效能問題和導致崩潰。\n  ＊請將您的驅動程式更新到最新版本（版本 536.23 以上）。",
   "sodium.console.pojav_launcher": "Sodium 不支援 PojavLauncher\n  ＊你很有可能會遇到極嚴重的效能問題、顯示錯誤和崩潰。\n  ＊如果你決定繼續，你將自己承擔所有錯誤或崩潰的問題 — 我們將不提供協助！",
+  "sodium.console.core_shaders_error": "下列資源包與 Sodium 不相容：",
+  "sodium.console.core_shaders_warn": "下列資源包可能與 Sodium 不相容：",
+  "sodium.console.core_shaders_info": "檢查遊戲記錄檔已取得詳細資訊",
   "modmenu.summaryTranslation.sodium": "為 Minecraft 打造的現代化繪製引擎與用戶端最佳化模組",
   "modmenu.descriptionTranslation.sodium": "Sodium 是個免費且開源的 Minecraft 效能模組，可以提高 FPS 並減少卡頓。",
   "sodium.resource_pack.unofficial": "§7Sodium 的非官方翻譯§r"
