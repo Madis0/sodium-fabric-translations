@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "Gra musi być zrestartowana, żeby zaaplikować jedno lub więcej opcji wideo!",
   "sodium.console.broken_nvidia_driver": "Twoje sterowniki NVIDIA są przestarzałe!\n *To może powodować straszne obniżenie wydajności i crashe, jeśli Sodium jest zainstalowane.\n *Proszę zaktualizować swoje sterowniki graficzne do ostatniej wersji (wersja 536.23 lub nowsze.)",
   "sodium.console.pojav_launcher": "PojavLauncher nie jest wspierany, gdy używany jest Sodium.\n *Mogą być ekstremalne problemy z wydajnością, bugi graficzne, jak i crashe.\n *Będziesz działał sam, jeśli zdecydujesz się kontynuować -- nie pomożemy ci z jakimikolwiek bugami czy crashami!",
+  "sodium.console.core_shaders_error": "Następujące pakiety zasobów są niekompatybilne z Sodium:",
+  "sodium.console.core_shaders_warn": "Następujące pakiety zasobów mogą być niekompatybilne z Sodium:",
+  "sodium.console.core_shaders_info": "Sprawdź dziennik gry, aby uzyskać szczegółowe informacje.",
   "modmenu.summaryTranslation.sodium": "Nowoczesny silnik renderowania i optymalizacja ze strony klienta dla Minecrafta",
   "modmenu.descriptionTranslation.sodium": "Sodium to darmowy i otwartoźródłowy mod do Minecrafta który zwiększa liczbę klatek na sekundę i redukuje nagłe opóźnienia.",
   "sodium.resource_pack.unofficial": "§7Nieoficjalne tłumaczenia dla Sodium§r"
