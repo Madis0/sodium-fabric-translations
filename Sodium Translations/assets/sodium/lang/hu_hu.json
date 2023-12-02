@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "A játékot újra kell indítani egy vagy több videó beállítás alkalmazásához!",
   "sodium.console.broken_nvidia_driver": "Az NVIDIA grafikus illesztőprogramjai elavultak!\n  * Ez súlyos teljesítménybeli problémákat és összeomlásokat okozhat, ha a Sodium telepítve van.\n  * Kérjük, frissítse a grafikus illesztőprogramjait a legújabb verzióra (536.23 vagy újabb verzió.)",
   "sodium.console.pojav_launcher": "A PojavLauncher nem támogatott a Sodium használata során.\n  * Nagy valószínűséggel extrém teljesítménybeli problémák, grafikai hibák, összeomlások léphetnek fel.\n  * Magára lesz hagyatva, ha úgy dönt, folytatja -- nem fogunk segíteni a hibákkal vagy összeomlásokkal!",
+  "sodium.console.core_shaders_error": "A következő erőforrás csomagok nem kompatibilisek a Sodiummal:",
+  "sodium.console.core_shaders_warn": "A következő erőforrás csomagok lehetséges, hogy nem kompatibilisek a Sodiummal:",
+  "sodium.console.core_shaders_info": "A részletes információkért nézd meg a játéknaplót.",
   "modmenu.summaryTranslation.sodium": "Modern megjelenítő motor és kliens oldali optimalizáló mod a Minecraft-hoz",
   "modmenu.descriptionTranslation.sodium": "A Sodium egy ingyenes és nyílt forráskódú optimalizáló mod a Minecraft-hoz, ami segít a képkocka-sebesség növelésében és csökkenti a lag-tüskéket.",
   "sodium.resource_pack.unofficial": "§7Nem hivatalos fordítások Sodium-hoz§r"

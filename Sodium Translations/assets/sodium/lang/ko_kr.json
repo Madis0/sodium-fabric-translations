@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "새로운 설정을 적용하려면 게임을 다시 시작해야 합니다.",
   "sodium.console.broken_nvidia_driver": "당신의 NVIDIA 그래픽 드라이버는 구버전입니다!\n  * Sodium이 설치될 때 심각한 성능 문제와 충돌이 발생할 수 있습니다.\n  * 그래픽 드라이버를 최신 버전으로 설치해 주세요. (버전 536.23 이상)",
   "sodium.console.pojav_launcher": "Sodium은 PojavLauncher를 지원하지 않습니다.\n  * 심한 성능 문제, 그래픽 버그 및 충돌이 발생할 가능성이 아주 높습니다.\n  * 스스로 계속할지 결정할 수 있습니다. 하지만 버그나 충돌에 대해서는 도움을 드리지 않습니다!",
+  "sodium.console.core_shaders_error": "다음의 리소스 팩은 Sodium과 함께 사용할 수 없습니다:",
+  "sodium.console.core_shaders_warn": "다음의 리소스 팩은 Sodium과 함께 사용할 수 없을 수도 있습니다:",
+  "sodium.console.core_shaders_info": "자세한 정보를 보시려면 게임 내 로그를 확인해 주세요.",
   "modmenu.summaryTranslation.sodium": "Minecraft용 최신 렌더링 엔진 및 클라이언트 측 최적화 모드",
   "modmenu.descriptionTranslation.sodium": "Sodium은 프레임 속도를 개선하고 랙 스파이크를 줄이는 Minecraft 무료 오픈 소스 최적화 모드입니다.",
   "sodium.resource_pack.unofficial": "§7Sodium 비공식 번역§r"
