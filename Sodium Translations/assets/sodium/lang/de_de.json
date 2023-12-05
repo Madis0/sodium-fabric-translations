@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "Eine oder mehrere Einstellungen erfordern einen Spielneustart!",
   "sodium.console.broken_nvidia_driver": "Die NVIDIA-Grafiktreiber sind veraltet!\n * Dies wird die Leistung beeinträchtigen und Abstürze verursachen, wenn Sodium installiert ist.\n * Bitte aktualisiere die Grafiktreiber auf die neuste Version (Version 536.23 oder neuer.)",
   "sodium.console.pojav_launcher": "Der PojavLauncher wird mit Sodium nicht unterstützt.\n * Es ist sehr wahrscheinlich, dass Leistungsprobleme, Grafikfehler und Abstürze auftreten.\n * Passiert dies, bist du auf dich allein gestellt - wir können dir hier keine Unterstützung bieten!",
+  "sodium.console.core_shaders_error": "Die folgenden Resourcepacks sind mit Sodium inkompatibel:",
+  "sodium.console.core_shaders_warn": "Die folgenden Resourcepacks könnten mit Sodium inkompatibel sein:",
+  "sodium.console.core_shaders_info": "Für weitere Informationen, siehe das Spielprotokoll.",
   "modmenu.summaryTranslation.sodium": "Mod mit moderner Rendering-Engine und clientseitigen Optimierungen für Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium ist eine kostenlose und quelloffene Mod für Minecraft, welche die Bildraten erhöht und Lag-Spikes reduziert.",
   "sodium.resource_pack.unofficial": "§7Inoffizielle Übersetzungen für Sodium§r"
