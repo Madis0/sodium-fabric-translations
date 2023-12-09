@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "Pro použití nastavení grafiky je nutné restartovat hru!",
   "sodium.console.broken_nvidia_driver": "Ovladače grafiky NVIDIA jsou zastaralé!\n  * Při nainstalovaném Sodiu můžou nastat problémy s výkonem a pády.\n  * Aktualizujte prosím své ovladače grafiky na nejnovější verzi (verze 536.23 nebo novější.)",
   "sodium.console.pojav_launcher": "PojavLauncher není při používání Sodia podporován.\n  * S největší pravděpodobností nastanou obrovské problémy s výkonem, grafické chyby a pády.\n  * Pokračuj na vlastní pěst -- s žádnými chybami ani pády ti nebudeme pomáhat!",
+  "sodium.console.core_shaders_error": "Následující balíčky zdrojů jsou nekompatibilní se Sodiem:",
+  "sodium.console.core_shaders_warn": "Následující balíčky zdrojů nemusí být kompatibilní se Sodiem:",
+  "sodium.console.core_shaders_info": "Pro více informací se podívej do protokolu hry.",
   "modmenu.summaryTranslation.sodium": "Moderní vykreslovací modul a optimalizační mód na straně klienta pro Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium je bezplatný optimalizační mód s otevřeným zdrojem pro Minecraft, který zlepšuje snímkovou frekvenci a omezuje záseky.",
   "sodium.resource_pack.unofficial": "§7Neoficiální překlady modu Sodium§r"
