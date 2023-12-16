@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "ビデオ設定を適用するにはゲームを再起動する必要があります。",
   "sodium.console.broken_nvidia_driver": "NVIDIA グラフィックスドライバーが古すぎます。\n  * Sodiumのインストール時に重大なパフォーマンスの問題が発生し、クラッシュを引き起こします。\n  * グラフィックスドライバーを最新バージョン (536.23 以降) に更新してください。",
   "sodium.console.pojav_launcher": "PojavLauncher は Sodium の使用をサポートしていません。\n  * 重大なパフォーマンスの問題、グラフィックのバグ、クラッシュが発生する可能性が非常に高くなります。\n  * 続行する場合は自身責任で行ってください。バグやクラッシュについて一切サポートしません。",
+  "sodium.console.core_shaders_error": "以下のリソースパックは、Sodiumと互換性がありません:",
+  "sodium.console.core_shaders_warn": "以下のリソースパックはSodiumと互換性がない可能性があります:",
+  "sodium.console.core_shaders_info": "詳しい情報はゲームログをチェック。",
   "modmenu.summaryTranslation.sodium": "最新のレンダリングエンジンによるクライアント最適化Mod",
   "modmenu.descriptionTranslation.sodium": "Sodiumは、フレームレートを向上させラグを軽減する、オープンソースのMinecraft用最適化Modです。",
   "sodium.resource_pack.unofficial": "§7Sodium 非公式翻訳§r"
