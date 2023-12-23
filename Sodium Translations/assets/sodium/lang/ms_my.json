@@ -67,7 +67,10 @@
   "sodium.options.buttons.donate": "Belikan kami kopi!",
   "sodium.console.game_restart": "Permainan video harus di mulakan semula untuk menerapkan satu atau lebih tetapan pada video!",
   "sodium.console.broken_nvidia_driver": "Pemacu grafik NVIDIA anda sudah lapuk!\n  * Ini akan menyebabkan masalah prestasi dan ranap yang teruk apabila Sodium dipasang.\n  * Sila kemas kini pemacu grafik anda kepada versi terkini (versi 536.23 atau lebih baharu.)",
-  "sodium.console.pojav_launcher": "PojavLauncher tidak disokong apabila menggunakan Sodium.\n  * Anda berkemungkinan besar akan menghadapi masalah prestasi, pepijat pada grafik dan juga pada sistem yang melampau.\n  * Anda akan menanggung masalah dengan sendirinya jika anda memutuskan untuk meneruskan kerana kami tidak akan membantu anda dari segi sebarang pepijat atau masalah pada sistem!",
+  "sodium.console.pojav_launcher": "PojavLauncher tidak disokong apabila menggunakan Sodium.\n  * Anda berkemungkinan besar akan menghadapi masalah prestasi, pepijat pada grafik dan juga pada sistem yang melampau.\n  * Anda akan menanggung masalah dengan sendirinya jika anda memutuskan untuk meneruskan kerana kami tidak akan membantu anda dari dengan sebarang pepijat atau masalah pada sistem!",
+  "sodium.console.core_shaders_error": "Pakej sumber yang berikut tidak sesuai digunakan bersama Sodium:",
+  "sodium.console.core_shaders_warn": "Pakej sumber berikut berkemungkinan tidak sesuai digunakan bersama Sodium:",
+  "sodium.console.core_shaders_info": "Semak log permainan video untuk maklumat yang terperinci.",
   "modmenu.summaryTranslation.sodium": "Enjin pemaparan moden dan mod pengoptimuman bahagian pengguna untuk Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium ialah mod pengoptimuman percuma dan sumber terbuka untuk Minecraft yang meningkatkan kadar bingkai dan mengurangkan lonjakan lag.",
   "sodium.resource_pack.unofficial": "§7Terjemahan tidak rasmi untuk Sodium§r"
