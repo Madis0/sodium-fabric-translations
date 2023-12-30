@@ -13,11 +13,14 @@
   "sodium.options.gui_scale.tooltip": "Postavlja maksimalni faktor skaliranja koji se koristi za interfejs. Ako je postavljeno na 'auto' koristit će se najveći mogući faktor skaliranja.",
   "sodium.options.fullscreen.tooltip": "Ako je uključeno, igra će se prikazivati preko cijelog ekrana (ako je podržano).",
   "sodium.options.v_sync.tooltip": "Ako je uključeno, fps će biti sinkroniziran sa brzinom osvježavanja monitora, što dovodi do generalno glađeg iskustva igranja po cijeni malo kašnjenja unosa. Ova opcija može utjecati na performanse na sporijim uređajima.",
+  "sodium.options.fps_limit.tooltip": "Ograničava fps. Može pomoći u smanjivanju potrošnje baterije i generalnog opterećenja sistema. Ako je VSync uključen ova opcija se ignorira osim ako je niža od brzine osvježavanja vašeg monitora.",
   "sodium.options.view_bobbing.tooltip": "Ako je uključeno, ekran će se ljuljati dok se pomičete. Igrači koji imaju mučninu bi trebali isključiti ovu opciju.",
   "sodium.options.attack_indicator.tooltip": "Kontrolira gdje se na ekranu prikazuje indikator napada.",
   "sodium.options.autosave_indicator.tooltip": "Ako je uključeno, bit će prikazan indikator kad igra sprema svijet na disk.",
   "sodium.options.graphics_quality.tooltip": "Zadane kontrole za kvalitet grafike kontroliraju neke zastarjele opcije i potrebne su za kompatibilnost sa modovima. Ako su opcije ispod postavljene na \"Zadano\", koristit će ovu postavku.",
+  "sodium.options.clouds_quality.tooltip": "Kontrolira prisutnost oblaka na nebu.",
   "sodium.options.weather_quality.tooltip": "Kontrolira kvalitet efekata kiše i snijega.",
+  "sodium.options.leaves_quality.name": "Lišće",
   "sodium.options.leaves_quality.tooltip": "Kontroliše kvalitet lišća.",
   "sodium.options.particle_quality.name": "Kvalitet čestica",
   "sodium.options.particle_quality.tooltip": "Kontrolira maksimalan broj čestica koje mogu biti prikazane na ekranu istovremeno.",
@@ -38,5 +41,9 @@
   "sodium.options.use_particle_culling.name": "Koristi sakrivanje čestica",
   "sodium.options.use_particle_culling.tooltip": "Ako je omogućeno, bit će prikazane samo čestice za koje je utvrđeno da su vidljive. Ovo može pružiti značajno poboljšanje fps-a kada je mnogo čestica u blizini.",
   "sodium.options.animate_only_visible_textures.name": "Animiraj samo vidljive teksture",
-  "sodium.options.animate_only_visible_textures.tooltip": "Ako je uključeno, animirat će se samo teksture za koje je utvrđeno da su vidljive. Ovo može pružiti značajno povećanje fps-a na nekom hardveru, posebno kod težih paketa resursa. Ako neke animirane teksture nisu animirane, pokušajte da isključite ovu opciju."
+  "sodium.options.animate_only_visible_textures.tooltip": "Ako je uključeno, animirat će se samo teksture za koje je utvrđeno da su vidljive. Ovo može pružiti značajno povećanje fps-a na nekom hardveru, posebno kod težih paketa resursa. Ako neke animirane teksture nisu animirane, pokušajte da isključite ovu opciju.",
+  "sodium.options.cpu_render_ahead_limit.name": "Ograničenje CPU prikazivanja unaprijed",
+  "sodium.options.cpu_render_ahead_limit.tooltip": "Određuje maksimalnu količinu kadrova za koje CPU može čekati da GPU završi prikazivati. Premale ili prevelike vrijednosti mogu stvoriti nestabilnost u brzini kadrova.",
+  "sodium.options.cpu_render_ahead_limit.value": "%s kadrova",
+  "sodium.options.allow_direct_memory_access.name": "Dopusti direktan pristup memoriji"
 }
