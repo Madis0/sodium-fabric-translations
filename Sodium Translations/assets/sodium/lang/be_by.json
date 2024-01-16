@@ -12,5 +12,7 @@
   "sodium.options.biome_blend.value": "%s блок(аў)",
   "sodium.options.vignette.name": "Віньетка",
   "sodium.options.buttons.undo": "Адмяніць",
+  "sodium.options.buttons.apply": "Прыняць",
+  "modmenu.descriptionTranslation.sodium": "Sodium - гэта безкаштоўны мод для аптымізацыі для Minecraft з адкрытым зыходным кодам, які паляпшае частату кадраў і памяншае пікі лагаў.",
   "sodium.resource_pack.unofficial": "Неафіцыйныя пераклады для Sodium"
 }
