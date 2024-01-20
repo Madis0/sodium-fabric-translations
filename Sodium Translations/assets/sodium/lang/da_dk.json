@@ -8,6 +8,7 @@
   "sodium.options.pages.performance": "Ydeevne",
   "sodium.options.pages.advanced": "Avancerede",
   "sodium.options.leaves_quality.name": "Blade",
+  "sodium.options.particle_quality.name": "Partikle kvalitet",
   "sodium.options.biome_blend.value": "%s blok(ke)",
   "sodium.options.vignette.name": "Vignet",
   "sodium.options.cpu_render_ahead_limit.value": "%s billed(er)",

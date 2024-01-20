@@ -68,6 +68,9 @@
   "sodium.console.game_restart": "Ayarların uygulanması için oyunun yeniden başlatılması gerekir!",
   "sodium.console.broken_nvidia_driver": "NVIDIA ekran kartı sürücüsü eski!\n  * Sodium varsa performans sorunları ve çökmeler yaşıyabilirsiniz\n  * Lütfen en yeni drivere güncelleyin (sürüm 536.23 ve üstü)",
   "sodium.console.pojav_launcher": "PojavLauncher Sodium tarafından desteklenmemektedir.\n*grafik hataları, performans sorunları ve çökmeler yaşıyabilirsiniz.\n*devam etmek isterseniz çökmeler ve donmalar konusunda size yardım etmeyeceğiz!",
+  "sodium.console.core_shaders_error": "Aşağıdaki kaynak paketleri Sodium ile uyumsuzdur:",
+  "sodium.console.core_shaders_warn": "Aşağıdaki kaynak paketleri Sodium ile uyumsuz olabilir:",
+  "sodium.console.core_shaders_info": "Ayrıntılı bilgi için oyun günlüğünü kontrol edin.",
   "modmenu.summaryTranslation.sodium": "Minecraft için modern işleme motoru ve istemci tarafı optimizasyon modu",
   "modmenu.descriptionTranslation.sodium": "Sodium, Minecraft için kare hızlarını iyileştiren ve gecikmeyi azaltan ücretsiz ve açık kaynaklı bir optimizasyon modudur.",
   "sodium.resource_pack.unofficial": "§7Sodium için resmi olmayan çeviriler§r"
