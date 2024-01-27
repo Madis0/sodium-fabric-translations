@@ -16,6 +16,7 @@
   "sodium.options.buttons.undo": "Fortryd",
   "sodium.options.buttons.apply": "Anvend",
   "sodium.options.buttons.donate": "Køb en kaffe til os!",
+  "sodium.options.particle_quality.name": "Partikler",
   "sodium.options.chunk_memory_allocator.async": "Asynkroniser",
   "sodium.resource_pack.unofficial": "§7Uofficielle oversættelser for Sodium§r"
 }
