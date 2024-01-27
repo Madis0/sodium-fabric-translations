@@ -23,6 +23,7 @@
   "sodium.options.buttons.undo": "Urungkan",
   "sodium.options.buttons.apply": "Terapkan",
   "sodium.options.buttons.donate": "Belikan kami kopi!",
+  "sodium.options.particle_quality.name": "Partikel",
   "sodium.options.allow_direct_memory_access.tooltip": "Jika diaktifkan, beberapa kode penting diperbolehkan menggunakan akses memori langsung untuk performa yang lebih tinggi. Ini biasanya mengurangi beban CPU untuk me-render chunk dan entitas, namun dapat mempersulit diagnosis beberapa bug dan crash. Nonaktifkan ini hanya saat kamu diminta atau jika kamu tahu apa yang kamu lakukan.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
