@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "بسته های منابع زير با سُديم مغايرت دارند:",
   "sodium.console.core_shaders_warn": "بسته های منابع زير ممکن است با سُديم مغايرت داشته باشند:",
   "sodium.console.core_shaders_info": "لاگ بازی را برای جزئيات بيشتر بررسی کنيد.",
+  "sodium.options.particle_quality.name": "ذرات",
   "sodium.options.use_particle_culling.name": "استفاده از جهت مورد نمایش ذرات",
   "sodium.options.use_particle_culling.tooltip": "اگر فعال باشد، فقط ذراتی تعیین می‌شوند برای ظاهرسازی که قابل دیدن باشند. این می‌تواند بهبود بسیار زیادی در نرخ فریم داشته باشد وقتی ذرات زیادی در اطراف هستند.",
   "sodium.options.allow_direct_memory_access.name": "اجازه دسترسی مستقیم به حافظه",
