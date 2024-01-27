@@ -66,7 +66,7 @@ jobs:
 
           loaders: minecraft
           game-versions: |
-           >=1.20 <${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
+           >=1.20 <=${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           game-version-filter: releases
           files: |
             SodiumTranslations.zip
