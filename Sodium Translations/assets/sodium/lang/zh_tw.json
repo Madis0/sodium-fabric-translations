@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "下列資源包與 Sodium 不相容：",
   "sodium.console.core_shaders_warn": "下列資源包可能與 Sodium 不相容：",
   "sodium.console.core_shaders_info": "檢查遊戲記錄檔已取得詳細資訊",
+  "sodium.options.particle_quality.name": "粒子密度",
   "sodium.options.use_particle_culling.name": "啟用粒子剔除",
   "sodium.options.use_particle_culling.tooltip": "若啟用，則只會繪製可見的粒子。當附近有許多粒子時，這可以大大改善 FPS。",
   "sodium.options.allow_direct_memory_access.name": "允許直接存取記憶體",
