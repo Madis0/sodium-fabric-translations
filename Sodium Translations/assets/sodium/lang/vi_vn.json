@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Các gói tài nguyên sau không tương thích với Sodium:",
   "sodium.console.core_shaders_warn": "Các gói tài nguyên sau có thể không tương thích với Sodium:",
   "sodium.console.core_shaders_info": "Kiểm tra nhật ký trò chơi để biết thông tin chi tiết.",
+  "sodium.options.particle_quality.name": "Hạt hiệu ứng",
   "sodium.options.use_particle_culling.name": "Sử dụng Lựa chọn Hạt hiệu ứng để kết xuất",
   "sodium.options.use_particle_culling.tooltip": "Nếu được bật, chỉ các hạt hiệu ứng được xác định là hiển thị mới được kết xuất. Điều này có thể cải thiện đáng kể tốc độ khung hình khi có nhiều hạt hiệu ứng ở gần.",
   "sodium.options.allow_direct_memory_access.name": "Cho phép truy cập bộ nhớ trực tiếp",
