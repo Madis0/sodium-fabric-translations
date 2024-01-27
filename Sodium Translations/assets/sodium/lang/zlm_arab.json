@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Pakej sumber yang berikut tidak sesuai digunakan bersama Sodium:",
   "sodium.console.core_shaders_warn": "Pakej sumber berikut berkemungkinan tidak sesuai digunakan bersama Sodium:",
   "sodium.console.core_shaders_info": "Semak log permainan video untuk maklumat yang terperinci.",
+  "sodium.options.particle_quality.name": "ڤرتيکل",
   "sodium.options.use_particle_culling.name": "Menggunakan Pemusnah Partikel",
   "sodium.options.use_particle_culling.tooltip": "Sekiranya didayakan, hanya partikel yang ditentukan untuk kelihatan akan dipaparkan. Ini boleh memberikan peningkatan yang ketara pada kadar bingkai apabila banyak partikel berada berdekatan.",
   "sodium.options.allow_direct_memory_access.name": "Benarkan Akses Memori Langsung",
