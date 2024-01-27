@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Τα ακόλουθα πακέτα πόρων δεν είναι συμβατά με το Sodium:",
   "sodium.console.core_shaders_warn": "Τα ακόλουθα πακέτα πόρων ενδέχεται να μην είναι συμβατά με το Sodium:",
   "sodium.console.core_shaders_info": "Ελέγξτε το αρχείο καταγραφής του παιχνιδιού για λεπτομερείς πληροφορίες.",
+  "sodium.options.particle_quality.name": "Σωματίδια",
   "sodium.options.use_particle_culling.name": "Χρήση Particle Culling",
   "sodium.options.use_particle_culling.tooltip": "Αν είναι ενεργοποιημένη, θα απεικονίζονται μόνο τα σωματίδια που έχουν καθοριστεί ως ορατά. Αυτό μπορεί να προσφέρει σημαντική βελτίωση στους ρυθμούς καρέ όταν πολλά σωματίδια βρίσκονται κοντά.",
   "sodium.options.allow_direct_memory_access.name": "Επιτρεπτή Άμεση Προσπέλαση Μνήμης",
