@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Наступні пакети ресурсів несумісні з Sodium:",
   "sodium.console.core_shaders_warn": "Наступні пакети ресурсів можуть бути несумісними з Sodium:",
   "sodium.console.core_shaders_info": "Детальнішу інформацію можна дізнатись у звіті про збій.",
+  "sodium.options.particle_quality.name": "Частинки",
   "sodium.options.use_particle_culling.name": "Відбраковування частинок",
   "sodium.options.use_particle_culling.tooltip": "Якщо ввімкнено, будуть промальовуватись лише ті частинки, що позначені як «видимі». Це може забезпечити значне покращення частоти кадрів, якщо поряд з вами знаходиться багато частинок.",
   "sodium.options.allow_direct_memory_access.name": "Дозволити прямий доступ до пам'яті",
