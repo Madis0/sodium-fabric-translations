@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Následující balíčky zdrojů jsou nekompatibilní se Sodiem:",
   "sodium.console.core_shaders_warn": "Následující balíčky zdrojů nemusí být kompatibilní se Sodiem:",
   "sodium.console.core_shaders_info": "Pro více informací se podívej do protokolu hry.",
+  "sodium.options.particle_quality.name": "Částice",
   "sodium.options.use_particle_culling.name": "Použít redukci částic",
   "sodium.options.use_particle_culling.tooltip": "Pokud je povoleno, budou vykresleny pouze částice, které mají být viditelné. Toto může poskytnout výrazné zlepšení ve snímkové frekvenci při velkém počtu částic.",
   "sodium.options.allow_direct_memory_access.name": "Povolit přímý přístup k paměti",
