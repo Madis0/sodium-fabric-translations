@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Följande resurspaket är inkompatibla med Sodium:",
   "sodium.console.core_shaders_warn": "Följande resurspaket kan vara inkompatibla med Sodium:",
   "sodium.console.core_shaders_info": "Se spelloggen för detaljerad information.",
+  "sodium.options.particle_quality.name": "Partiklar",
   "sodium.options.use_particle_culling.name": "Använd Partikelculling",
   "sodium.options.use_particle_culling.tooltip": "Om inställningen är påslagen kommer endast de partiklarna som kan ses renderas. Detta kan ge en betydande förbättring i bildfrekvenser när det finns många partiklar i närheten.",
   "sodium.options.allow_direct_memory_access.name": "Tillåt direkt minnesåtkomst",
