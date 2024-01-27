@@ -31,6 +31,7 @@
   "sodium.options.buttons.undo": "Kumoa",
   "sodium.options.buttons.apply": "Käytä",
   "sodium.options.buttons.donate": "Tarjoa meille kahvit!",
+  "sodium.options.particle_quality.name": "Partikkelit",
   "sodium.options.use_particle_culling.name": "Piilota ei-näkyvät partikkelit",
   "sodium.options.use_particle_culling.tooltip": "Piirtää partikkelit vain jos ne ovat näkyvissä. Saattaa nostaa kuvataajuutta huomattavasti, kun monia partikkeleita on lähettyvillä.",
   "sodium.options.allow_direct_memory_access.name": "Salli suora pääsy muistiin",
