@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "A következő erőforrás csomagok nem kompatibilisek a Sodiummal:",
   "sodium.console.core_shaders_warn": "A következő erőforrás csomagok lehetséges, hogy nem kompatibilisek a Sodiummal:",
   "sodium.console.core_shaders_info": "A részletes információkért nézd meg a játéknaplót.",
+  "sodium.options.particle_quality.name": "Részecskék",
   "sodium.options.use_particle_culling.name": "Részecske selejtezés használata",
   "sodium.options.use_particle_culling.tooltip": "Ha be van kapcsolva, csak azok a részecskék lesznek megjelenítve, amik láthatónak lettek itélve. Ez hatalmas teljesítmény javulást okoz, amikor sok részecske van a közelben.",
   "sodium.options.allow_direct_memory_access.name": "Közvetlen memóriahasználat engedélyezése",
