@@ -6,5 +6,6 @@
   "sodium.options.pages.quality": "Kwaliteit",
   "sodium.options.pages.advanced": "Geavanceerd",
   "sodium.options.buttons.undo": "Ongedaan maken",
-  "sodium.options.buttons.apply": "Toepassen"
+  "sodium.options.buttons.apply": "Toepassen",
+  "sodium.options.particle_quality.name": "Deeltjes"
 }
