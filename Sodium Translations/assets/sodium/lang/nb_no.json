@@ -9,5 +9,6 @@
   "sodium.options.pages.advanced": "Avansert",
   "sodium.options.view_distance.tooltip": "Skildringsviddenkontrollereren bestemmer hvor langt landskapet vil bli gjengitt. Kortere skildringsvidde betyr at mindre av landskapt vil bli gjengitt, som forbedrer bildefrekvensene.",
   "sodium.options.simulation_distance.tooltip": "Simuleringsavstanden kontrollerer hvor langt unna terreng og enheter som skal lastes og tikket. Kortere avstander kan redusere den interne serverens belastning og kan forbedre bildefrekvensene.",
-  "sodium.options.brightness.tooltip": "Kontrollerer lysstyrken (gamma) i spillet."
+  "sodium.options.brightness.tooltip": "Kontrollerer lysstyrken (gamma) i spillet.",
+  "sodium.options.particle_quality.name": "Partikler"
 }
