@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Aşağıdaki kaynak paketleri Sodium ile uyumsuzdur:",
   "sodium.console.core_shaders_warn": "Aşağıdaki kaynak paketleri Sodium ile uyumsuz olabilir:",
   "sodium.console.core_shaders_info": "Ayrıntılı bilgi için oyun günlüğünü kontrol edin.",
+  "sodium.options.particle_quality.name": "Parçacıklar",
   "sodium.options.use_particle_culling.name": "Particle Culling'i Kullan",
   "sodium.options.use_particle_culling.tooltip": "Etkinleştirilirse, ekranda görünür olduğu belirlenen parçacıklar işlenecektir. Bu, birçok parçacık yakında olduğunda kare hızlarında önemli bir gelişme sağlayabilir.",
   "sodium.options.allow_direct_memory_access.name": "Doğrudan Bellek Erişimine İzin Ver",
