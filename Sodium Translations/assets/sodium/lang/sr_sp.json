@@ -34,6 +34,7 @@
   "sodium.options.buttons.undo": "Опозови",
   "sodium.options.buttons.apply": "Примени",
   "sodium.options.buttons.donate": "Купите нам кафу!",
+  "sodium.options.particle_quality.name": "Честице",
   "sodium.options.use_particle_culling.name": "Користи сакривање честица",
   "sodium.options.use_particle_culling.tooltip": "Ако је омогућено, само оне честице за које је одређено да су видљиве ће бити обрађене. Ово може да пружи значајно побољшање у броју фрејмова по секунди када је много честица у близини.",
   "sodium.options.allow_direct_memory_access.name": "Дозволи директан приступ меморији",
