@@ -23,6 +23,7 @@
   "sodium.console.core_shaders_error": "Følgjande tilfangspakkar er inkompatible med Sodium:",
   "sodium.console.core_shaders_warn": "Følgjande tilfangspakke kan vera inkompatibel med Sodium:",
   "sodium.console.core_shaders_info": "Sjekk spelloggen for detaljert informasjon.",
+  "sodium.options.particle_quality.name": "Partiklar",
   "modmenu.summaryTranslation.sodium": "Ein mod med ein moderne motor for skildring og lokal optimalisering for Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium er ein gratis mod for Minecraft med ope kildekode som optimaliserar biletefrekvensen og reduserar \"lag spikes\".",
   "sodium.resource_pack.unofficial": "§7Uoffisielle omsetjingar for Sodium§r"
