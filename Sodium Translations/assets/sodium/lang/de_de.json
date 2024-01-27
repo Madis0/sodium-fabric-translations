@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Die folgenden Ressourcenpakete sind mit Sodium inkompatibel:",
   "sodium.console.core_shaders_warn": "Die folgenden Ressourcenpakete sind mit Sodium inkompatibel:",
   "sodium.console.core_shaders_info": "Prüfe die Protokolle, um weitere Informationen zu erhalten.",
+  "sodium.options.particle_quality.name": "Particules",
   "sodium.options.use_particle_culling.name": "Partikel Culling verwenden",
   "sodium.options.use_particle_culling.tooltip": "Wenn diese Option aktiviert ist, werden nur Partikel gerendert, die als sichtbar bestimmt wurden. Dies kann eine deutliche Verbesserung der Bildraten bewirken, wenn sich viele Partikel in der Nähe befinden.",
   "sodium.options.allow_direct_memory_access.name": "Direkten Speicherzugriff zulassen",
