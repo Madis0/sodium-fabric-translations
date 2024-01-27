@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Les packs de ressources suivants sont incompatibles avec Sodium :",
   "sodium.console.core_shaders_warn": "Les packs de ressources suivants peuvent être incompatibles avec Sodium :",
   "sodium.console.core_shaders_info": "Consultez les logs pour obtenir des informations détaillées.",
+  "sodium.options.particle_quality.name": "Particules",
   "sodium.options.use_particle_culling.name": "Masquage des particules invisibles",
   "sodium.options.use_particle_culling.tooltip": "Si activé, seules les particules déterminées comme étant visibles seront rendues. Ceci peut grandement améliorer le framerate quand beaucoup de particules sont proches du joueur.",
   "sodium.options.allow_direct_memory_access.name": "Permettre l'accès direct à la mémoire",
