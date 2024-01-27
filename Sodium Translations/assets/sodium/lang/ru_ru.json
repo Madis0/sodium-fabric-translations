@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Следующие наборы ресурсов несовместимы с Sodium:",
   "sodium.console.core_shaders_warn": "Следующие наборы ресурсов могут быть несовместимы с Sodium:",
   "sodium.console.core_shaders_info": "Проверьте журнал, чтобы узнать подробности.",
+  "sodium.options.particle_quality.name": "Частицы",
   "sodium.options.use_particle_culling.name": "Отбраковка частиц",
   "sodium.options.use_particle_culling.tooltip": "Если включено, будут отображаться только те частицы, которые определены как видимые. Это может обеспечить значительное улучшение частоты кадров, когда рядом находится много частиц.",
   "sodium.options.allow_direct_memory_access.name": "Прямой доступ к памяти",
