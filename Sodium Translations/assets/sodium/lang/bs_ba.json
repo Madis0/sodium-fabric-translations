@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Slijedeći paketi resursa nisu kompatibilni sa Sodium-om:",
   "sodium.console.core_shaders_warn": "Slijedeći paketi resursa možda nisu kompatibilni sa Sodium-om:",
   "sodium.console.core_shaders_info": "Za detaljne informacije provjeri zapisnik igrice.",
+  "sodium.options.particle_quality.name": "Čestice",
   "sodium.options.use_particle_culling.name": "Koristi sakrivanje čestica",
   "sodium.options.use_particle_culling.tooltip": "Ako je omogućeno, bit će prikazane samo čestice za koje je utvrđeno da su vidljive. Ovo može pružiti značajno poboljšanje fps-a kada je mnogo čestica u blizini.",
   "sodium.options.allow_direct_memory_access.name": "Dopusti direktan pristup memoriji",
