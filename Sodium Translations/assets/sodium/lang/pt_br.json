@@ -41,6 +41,7 @@
   "sodium.console.core_shaders_error": "Os seguintes pacotes de recursos são incompatíveis com o Sodium:",
   "sodium.console.core_shaders_warn": "Os seguintes pacotes de recursos podem ser incompatíveis com o sódio:",
   "sodium.console.core_shaders_info": "Verifique os logs do jogo para obter informações detalhadas.",
+  "sodium.options.particle_quality.name": "Partículas",
   "sodium.options.use_particle_culling.name": "Filtro de partículas",
   "sodium.options.use_particle_culling.tooltip": "Se ativado, apenas as partículas detectadas como visíveis serão renderizadas. Isso pode fornecer uma melhoria significativa nas taxas de quadros quando muitas partículas estão próximas.",
   "sodium.options.allow_direct_memory_access.name": "Acesso imediato de memória",
