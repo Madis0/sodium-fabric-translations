@@ -35,6 +35,7 @@
   "sodium.options.buttons.undo": "เลิกทำ",
   "sodium.options.buttons.apply": "ปรับใช้",
   "sodium.options.buttons.donate": "สนับสนุนค่ากาแฟให้พวกเรา",
+  "sodium.options.particle_quality.name": "อนุภาค",
   "sodium.options.use_particle_culling.name": "ใช้การคัดเลือกอนุภาค",
   "sodium.options.use_particle_culling.tooltip": "เมื่อเปิดการตั้งค่านี้ มีเพียงแค่อนุภาคที่เราเห็นจะถูกเรนเดอร์ ส่งผลให้อัตราเฟรมดีขึ้นเป็นอย่างมากเมื่อมีอนุภาคที่อยู่ใกล้ ๆ เป็นจำนวนมาก",
   "sodium.options.allow_direct_memory_access.name": "อนุญาตให้เข้าถึงหน่วยความจำโดยตรง",
