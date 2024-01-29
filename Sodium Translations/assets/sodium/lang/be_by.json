@@ -8,11 +8,11 @@
   "sodium.options.pages.performance": "Прадукцыйнасць",
   "sodium.options.pages.advanced": "Дадаткова",
   "sodium.options.leaves_quality.name": "Якасць лісця",
-  "sodium.options.particle_quality.name": "Якасць часцінак",
   "sodium.options.biome_blend.value": "%s блок(аў)",
   "sodium.options.vignette.name": "Віньетка",
   "sodium.options.buttons.undo": "Адмяніць",
   "sodium.options.buttons.apply": "Прыняць",
+  "sodium.options.particle_quality.name": "Часцінкі",
   "modmenu.descriptionTranslation.sodium": "Sodium - гэта безкаштоўны мод для аптымізацыі для Minecraft з адкрытым зыходным кодам, які паляпшае частату кадраў і памяншае пікі лагаў.",
   "sodium.resource_pack.unofficial": "Неафіцыйныя пераклады для Sodium"
 }
