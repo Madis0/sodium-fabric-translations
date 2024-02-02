@@ -13,7 +13,7 @@
   "sodium.options.fullscreen.tooltip": "Si activée, le jeu sera affiché en plein écran (si supporté).",
   "sodium.options.v_sync.tooltip": "Si activée, le framerate du jeu sera synchronisé au taux de rafraîchissement de l'écran, ce qui résulte généralement en une expérience plus fluide au coût d'une latence d'entrée plus élevée. Cette option peut dégrader les performances si votre machine est trop lente.",
   "sodium.options.attack_indicator.tooltip": "Définit la position de la jauge d'attaque sur l'écran.",
-  "sodium.options.autosave_indicator.tooltip": "Si activé, un message sera affiché quand le jeu sauvegarde le monde sur le disque.",
+  "sodium.options.autosave_indicator.tooltip": "Si activée, un message sera affiché quand le jeu sauvegarde le monde sur le disque.",
   "sodium.options.graphics_quality.tooltip": "Les paramètres de graphismes par défaut contrôlent des options de compatibilité qui peuvent servir pour certains mods. Si les options ci-dessous sont laissées à \"Par défaut\", elles utiliseront ce paramètre.",
   "sodium.options.leaves_quality.name": "Feuilles",
   "sodium.options.particle_quality.tooltip": "Définit le nombre maximum de particules qui peuvent être présentes à l'écran à chaque instant.",
