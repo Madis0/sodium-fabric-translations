@@ -13,6 +13,8 @@
   "sodium.options.buttons.undo": "Адмяніць",
   "sodium.options.buttons.apply": "Прыняць",
   "sodium.options.particle_quality.name": "Часцінкі",
+  "sodium.options.chunk_memory_allocator.async": "Async",
+  "sodium.options.chunk_memory_allocator.swap": "Swap",
   "modmenu.descriptionTranslation.sodium": "Sodium - гэта безкаштоўны мод для аптымізацыі для Minecraft з адкрытым зыходным кодам, які паляпшае частату кадраў і памяншае пікі лагаў.",
   "sodium.resource_pack.unofficial": "Неафіцыйныя пераклады для Sodium"
 }
