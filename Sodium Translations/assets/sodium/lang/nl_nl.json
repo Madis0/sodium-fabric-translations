@@ -3,8 +3,11 @@
   "sodium.option_impact.medium": "Gemiddeld",
   "sodium.option_impact.high": "Hoog",
   "sodium.option_impact.extreme": "Extreem",
+  "sodium.option_impact.varies": "Verschilt",
   "sodium.options.pages.quality": "Kwaliteit",
+  "sodium.options.pages.performance": "Prestaties",
   "sodium.options.pages.advanced": "Geavanceerd",
+  "sodium.options.view_distance.tooltip": "Het weergavebereik bepaalt hoe ver weg het terrein wordt gerenderd. Een kortere afstand betekent dat er minder terrein wordt gerenderd, waardoor de framerate verbetert.",
   "sodium.options.buttons.undo": "Ongedaan maken",
   "sodium.options.buttons.apply": "Toepassen",
   "sodium.options.particle_quality.name": "Deeltjes"
