@@ -1,3 +1,9 @@
 {
+  "sodium.option_impact.low": "منخفض",
+  "sodium.option_impact.medium": "متوسط",
+  "sodium.option_impact.high": "عالٍ",
+  "sodium.option_impact.extreme": "الأقصى",
+  "sodium.options.pages.quality": "الجودة",
+  "sodium.options.pages.advanced": "خيارات متقدمة",
   "sodium.options.particle_quality.name": "الجسيمات"
 }
