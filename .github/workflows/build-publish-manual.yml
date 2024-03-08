@@ -12,11 +12,17 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+      - name: Get Latest Commit SHA
+        id: commit_sha
+        run: |
+          git fetch --depth=1 origin +refs/heads/${GITHUB_REF#refs/heads/}:refs/remotes/origin/${GITHUB_REF#refs/heads/}
+          echo "sha=$(git rev-parse origin/${GITHUB_REF#refs/heads/})" >> $GITHUB_OUTPUT
       - name: Bump version and push tag
         id: bump
         uses: mathieudutour/github-tag-action@v6.1
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
+            commit_sha: ${{ steps.commit_sha.outputs.sha }}
             default_bump: minor
             tag_prefix: v
   publish:
@@ -66,10 +72,9 @@ jobs:
 
           loaders: minecraft
           game-versions: |
-           >=1.20 <=${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
+            >=1.20 <=${{ fromJson(steps.fetch-mc-release.outputs.minecraftVersion).latest.release }}
           game-version-filter: releases
           files: |
             SodiumTranslations.zip
           dependencies: |
             sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
-
