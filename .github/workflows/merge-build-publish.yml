@@ -103,4 +103,4 @@ jobs:
           files: |
             SodiumTranslations.zip
           dependencies: |
-            sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:curseforge,github)
+            sodium(required){modrinth:AANobbMI}{curseforge:394468}#(ignore:github)
