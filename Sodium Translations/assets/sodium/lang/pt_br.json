@@ -8,7 +8,7 @@
   "sodium.options.pages.performance": "Desempenho",
   "sodium.options.pages.advanced": "Avançado",
   "sodium.options.view_distance.tooltip": "O alcance visual define a renderização de terrenos. Valores mais baixos significam que menos terreno será renderizado, com maior taxa de quadros.",
-  "sodium.options.simulation_distance.tooltip": "A distância de simulação controla a distância que o terreno e as entidades serão carregadas e atualizadas a cada tick. Distâncias mais curtas reduzem a carga do servidor interno e podem melhorar a taxa de quadros.",
+  "sodium.options.simulation_distance.tooltip": "A distância de simulação controla a distância que o terreno e as entidades serão carregadas e atualizadas a cada tick. Distâncias mais curtas reduzem a carga do servidor interno e podem melhorar o FPS.",
   "sodium.options.brightness.tooltip": "Define o brilho do jogo.",
   "sodium.options.gui_scale.tooltip": "Define o fator máximo da escala usada na interface. No automático, a maior escala sempre será usada.",
   "sodium.options.fullscreen.tooltip": "Ao ativar, o jogo será exibido em tela inteira (se possível).",

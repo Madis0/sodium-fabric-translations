@@ -19,7 +19,7 @@
   "sodium.options.autosave_indicator.tooltip": "Wenn diese Option aktiviert ist, wird ein Hinweis eingeblendet, wenn das Spiel speichert.",
   "sodium.options.graphics_quality.tooltip": "Die standardmäßige Einstellung für die Grafikqualität steuert einige veraltete Optionen und ist für die Kompatibilität mit Mods erforderlich. Optionen, die auf \"Standard\" gesetzt sind, verwendend diese Einstellung.",
   "sodium.options.clouds_quality.tooltip": "Die Qualitätsstufe, die für das Rendern der Wolken im Himmel verwendet wird. Wenngleich die Optionen mit \"Schnell\" und \"Schön\" beschriftet sind, sind die Auswirkungen auf die Leistung sehr gering.",
-  "sodium.options.weather_quality.tooltip": "Kontrolliert die Distanz, wie weit Effekte, wie Regen oder Schnee gerendert werden soll.",
+  "sodium.options.weather_quality.tooltip": "Kontrolliert die Distanz, wie weit Effekte, wie Regen oder Schnee gerendert werden sollen.",
   "sodium.options.leaves_quality.name": "Blätter",
   "sodium.options.leaves_quality.tooltip": "Steuert, ob Blätter als transparent (schön) oder undurchsichtig (schnell) gerendert werden soll.",
   "sodium.options.particle_quality.tooltip": "Steuert die maximale Anzahl an Partikeln, die gleichzeitig auf dem Bildschirm vorhanden sein können.",

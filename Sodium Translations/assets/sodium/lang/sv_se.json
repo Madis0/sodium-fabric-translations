@@ -16,6 +16,7 @@
   "sodium.options.attack_indicator.tooltip": "Kontrollerar var attackmätaren visas på skärmen.",
   "sodium.options.autosave_indicator.tooltip": "När inställningen är påslagen kommer en indikator visas när spelet sparar världen till disken.",
   "sodium.options.graphics_quality.tooltip": "Standardgrafiksinställningarna kontrollerar några äldre inställningar och är nödvändig för mod-kompabilitet. Om inställningarna nedan är inställda på \"Standard\" kommer denna inställning användas.",
+  "sodium.options.weather_quality.tooltip": "Kontrollerar avståndet där vädereffekter, som regn och snö, renderas.",
   "sodium.options.leaves_quality.name": "Löv",
   "sodium.options.particle_quality.tooltip": "Kontrollerar maxantalet partiklar som kan visas på skärmen samtidigt.",
   "sodium.options.biome_blend.value": "%s block",
