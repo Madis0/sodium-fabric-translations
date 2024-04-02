@@ -1,3 +1,11 @@
 {
+  "sodium.option_impact.low": "נמוך",
+  "sodium.option_impact.medium": "בינוני",
+  "sodium.option_impact.high": "גבוה",
+  "sodium.option_impact.extreme": "קיצוני",
+  "sodium.option_impact.varies": "משתנה",
+  "sodium.options.pages.quality": "איכות",
+  "sodium.options.pages.performance": "ביצועים",
+  "sodium.options.pages.advanced": "מתקדם",
   "sodium.options.particle_quality.name": "חלקיקים"
 }
