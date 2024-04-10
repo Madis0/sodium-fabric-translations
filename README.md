@@ -51,3 +51,7 @@ At the moment, [dev/stable branch en_us.json](https://github.com/CaffeineMC/sodi
 ### Why does this exist?
 
 Sodium used to have a translation platform. It was announced and it stayed around for about 2 years, but the translations on it were not used in the mod. After that, [amnotbananaama](https://github.com/amnotbananaama), a moderator in CaffeineMC Discord, created and maintained this repo and Crowdin. That project became stagnant as well, as it was easy for users to contribute, but not use the translations in-game. Then myself and [Reese](https://github.com/FlashyReese) came around and made it sustainable, with some help from the Discord user piuvas. Now everyone can contribute easily and download the languages as a resource pack :)
+
+### Will Sodium ever get translations built-in to the mod?
+
+Seems so, [as an issue was made for it](https://github.com/CaffeineMC/sodium-fabric/issues/2304) by jellysquid3. It is currently unclear if it will include these translations and if it will happen on Crowdin, but we are open to giving full access to this project if jellysquid3 so decides.
