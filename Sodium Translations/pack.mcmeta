@@ -5,6 +5,6 @@
             "translate": "sodium.resource_pack.unofficial",
             "fallback": "Unofficial translations for Sodium"
         },
-        "supported_formats": [15, 22]
+        "supported_formats": [15, 32]
     }
 }
