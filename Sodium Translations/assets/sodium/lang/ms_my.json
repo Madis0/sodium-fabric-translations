@@ -39,7 +39,7 @@
   "sodium.options.use_entity_culling.tooltip": "Jika didayakan, entiti yang berada dalam kawasan pandangan kamera, tetapi tidak berada dalam cebisan yang kelihatan, akan dilangkau semasa pemaparan. Pengoptimuman ini menggunakan data keterlihatan yang telah wujud untuk pemaparan cebisan dan tidak menambah overhead.",
   "sodium.options.animate_only_visible_textures.name": "Hanya Animasikan Tekstur yang Terlihat",
   "sodium.options.animate_only_visible_textures.tooltip": "Jika didayakan, hanya tekstur animasi yang ditentukan untuk kelihatan dalam imej semasa akan dikemas kini. Ini boleh memberikan peningkatan prestasi yang ketara pada sesetengah perkakasan, terutamanya dengan pek sumber yang lebih berat. Sekiranya anda mengalami masalah dengan beberapa tekstur yang tidak dianimasikan, cuba nyahdayakan pilihan ini.",
-  "sodium.options.cpu_render_ahead_limit.name": "Had Render-Ahead CPU",
+  "sodium.options.cpu_render_ahead_limit.name": "Had Pemaparan Kehadapan CPU",
   "sodium.options.cpu_render_ahead_limit.tooltip": "Untuk penyahpepijatan sahaja. Menentukan bilangan maksimum bingkai yang boleh berada dalam penghantaran ke GPU. Menukar nilai ini tidak disyorkan, kerana nilai yang sangat rendah atau tinggi boleh mewujudkan ketidakstabilan kadar bingkai.",
   "sodium.options.cpu_render_ahead_limit.value": "%s bingkai",
   "sodium.options.performance_impact_string": "Kesan Prestasi: %s",
@@ -73,7 +73,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Memilih peruntukkan memori yang akan digunakan untuk memapar cebisan.\n- ASYNC: Pilihan terpantas, berfungsi dengan baik pada kebanyakan pemacu grafik moden.\n- SWAP: Pilihan penggantian untuk pemacu grafik yang lebih tua. Boleh meningkatkan penggunaan ingatan dengan ketara.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Enjin pemaparan moden dan mod pengoptimuman bahagian pengguna untuk Minecraft",
+  "modmenu.summaryTranslation.sodium": "Enjin pemaparan moden dan mod pengoptimuman bahagian pelanggan untuk Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium ialah mod pengoptimuman percuma dan sumber terbuka untuk Minecraft yang meningkatkan kadar bingkai dan mengurangkan lonjakan lag.",
   "sodium.resource_pack.unofficial": "§7Terjemahan tidak rasmi untuk Sodium§r"
 }
