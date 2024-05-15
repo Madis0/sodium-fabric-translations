@@ -1,12 +1,14 @@
 {
   "sodium.option_impact.low": "Lav",
-  "sodium.option_impact.medium": "Middelhøj",
+  "sodium.option_impact.medium": "Middel",
   "sodium.option_impact.high": "Høj",
   "sodium.option_impact.extreme": "Ekstrem",
   "sodium.option_impact.varies": "Varierer",
   "sodium.options.pages.quality": "Kvalitet",
   "sodium.options.pages.performance": "Ydeevne",
   "sodium.options.pages.advanced": "Avancerede",
+  "sodium.options.brightness.tooltip": "Styrer lysstyrken (gamma) i spillet.",
+  "sodium.options.fullscreen.tooltip": "Hvis aktiveret, vises spillet i fuld skærm (hvis det understøttes).",
   "sodium.options.leaves_quality.name": "Blade",
   "sodium.options.biome_blend.value": "%s blok(ke)",
   "sodium.options.vignette.name": "Vignet",
@@ -19,5 +21,7 @@
   "sodium.options.particle_quality.name": "Partikler",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "modmenu.summaryTranslation.sodium": "Moderne renderingsmotor og klient-side optimeringsmod til Minecraft",
+  "modmenu.descriptionTranslation.sodium": "Sodium er et frit og open source-optimeringsmod til Minecraft, som forbedrer billedhastigheden og reducerer lag-spikes.",
   "sodium.resource_pack.unofficial": "§7Uofficielle oversættelser for Sodium§r"
 }
