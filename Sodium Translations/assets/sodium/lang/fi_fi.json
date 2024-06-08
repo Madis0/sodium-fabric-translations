@@ -36,5 +36,6 @@
   "sodium.options.use_particle_culling.tooltip": "Piirtää partikkelit vain jos ne ovat näkyvissä. Saattaa nostaa kuvataajuutta huomattavasti, kun monia partikkeleita on lähettyvillä.",
   "sodium.options.allow_direct_memory_access.name": "Salli suora pääsy muistiin",
   "sodium.options.enable_memory_tracing.name": "Salli muistin jäljitys",
-  "sodium.options.chunk_memory_allocator.name": "Lohkomuistinkohdentaja"
+  "sodium.options.chunk_memory_allocator.name": "Lohkomuistinkohdentaja",
+  "sodium.resource_pack.unofficial": "epävirallinen käänös sodiumiin"
 }
