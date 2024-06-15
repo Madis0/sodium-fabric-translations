@@ -1,0 +1,15 @@
+{
+  "sodium.option_impact.low": "低",
+  "sodium.option_impact.medium": "中",
+  "sodium.option_impact.high": "高",
+  "sodium.option_impact.extreme": "極高",
+  "sodium.option_impact.varies": "視情況而定",
+  "sodium.options.pages.quality": "品質",
+  "sodium.options.pages.performance": "效能",
+  "sodium.options.pages.advanced": "進階",
+  "sodium.options.view_distance.tooltip": "渲染距離控制著地形的顯示範圍。較短嘅距離意味著顯示的地形會較少，可以提升幀率。",
+  "sodium.options.simulation_distance.tooltip": "模擬距離控制著地形和實體的載入及更新範圍。較短嘅距離可以減少內部伺服器的負荷，而且可能提升幀率。",
+  "sodium.options.brightness.tooltip": "控制遊戲畫面嘅亮度（伽馬值）。",
+  "sodium.options.gui_scale.tooltip": "設置用戶界面使用嘅最大縮放比例。如果使用“自動”，將會永遠使用最大嘅縮放比例。",
+  "sodium.options.fullscreen.tooltip": "如果啟用，遊戲將會以全螢幕顯示（如果支援嘅話）。"
+}
