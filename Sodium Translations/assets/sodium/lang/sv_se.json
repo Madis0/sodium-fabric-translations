@@ -23,6 +23,7 @@
   "sodium.options.leaves_quality.name": "Löv",
   "sodium.options.leaves_quality.tooltip": "Kontrollerar huruvida löv renderas som antingen transparenta (fancy) eller opaka (fast).",
   "sodium.options.particle_quality.tooltip": "Kontrollerar maxantalet partiklar som kan visas på skärmen samtidigt.",
+  "sodium.options.smooth_lighting.tooltip": "Aktiverar mjuk belysning och skuggning av block i världen. Detta kan öka den tid det tar att ladda eller uppdatera en datablock något, men det påverkar inte bildfrekvensen.",
   "sodium.options.biome_blend.value": "%s block",
   "sodium.options.entity_shadows.tooltip": "Om instållningen är påslagen, kommer simpla skuggor renderas under mobs och andra entiteter.",
   "sodium.options.vignette.name": "Vinjett",
