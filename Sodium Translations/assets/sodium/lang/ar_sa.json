@@ -3,7 +3,10 @@
   "sodium.option_impact.medium": "متوسط",
   "sodium.option_impact.high": "عالٍ",
   "sodium.option_impact.extreme": "الأقصى",
+  "sodium.option_impact.varies": "متفاوت",
   "sodium.options.pages.quality": "الجودة",
+  "sodium.options.pages.performance": "الأداء",
   "sodium.options.pages.advanced": "خيارات متقدمة",
+  "sodium.options.view_distance.tooltip": "مسافة العرض تتحكم في مدى عرض التضاريس، مسافات اقصر تعني ان تضاريسا اقل ستعرض مم يحسن من معدل الإطارات.",
   "sodium.options.particle_quality.name": "الجسيمات"
 }
