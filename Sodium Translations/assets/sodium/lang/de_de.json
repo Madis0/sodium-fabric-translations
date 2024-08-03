@@ -21,7 +21,7 @@
   "sodium.options.clouds_quality.tooltip": "Die Qualitätsstufe, die für das Rendern der Wolken im Himmel verwendet wird. Wenngleich die Optionen mit \"Schnell\" und \"Schön\" beschriftet sind, sind die Auswirkungen auf die Leistung sehr gering.",
   "sodium.options.weather_quality.tooltip": "Kontrolliert die Distanz, wie weit Effekte, wie Regen oder Schnee gerendert werden sollen.",
   "sodium.options.leaves_quality.name": "Blätter",
-  "sodium.options.leaves_quality.tooltip": "Steuert, ob Blätter als transparent (schön) oder undurchsichtig (schnell) gerendert werden soll.",
+  "sodium.options.leaves_quality.tooltip": "Steuert, ob Blätter als transparent (schön) oder undurchsichtig (schnell) gerendert werden sollen.",
   "sodium.options.particle_quality.tooltip": "Steuert die maximale Anzahl an Partikeln, die gleichzeitig auf dem Bildschirm vorhanden sein können.",
   "sodium.options.smooth_lighting.tooltip": "Ermöglicht die gleichmäßige Beleuchtung und Schattierung von Blöcken in der Welt. Dies kann die Zeit, die zum Laden oder Aktualisieren von Blöcken benötigt wird, geringfügig erhöhen, hat aber keinen Einfluss auf die Bildrate.",
   "sodium.options.biome_blend.value": "%s Block/Blöcke",
