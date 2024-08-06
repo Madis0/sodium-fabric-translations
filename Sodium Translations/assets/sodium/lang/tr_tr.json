@@ -1,6 +1,6 @@
 {
   "sodium.option_impact.low": "Düşük",
-  "sodium.option_impact.medium": "Normal",
+  "sodium.option_impact.medium": "Orta",
   "sodium.option_impact.high": "Yüksek",
   "sodium.option_impact.extreme": "Aşırı",
   "sodium.option_impact.varies": "Değişir",
@@ -8,7 +8,7 @@
   "sodium.options.pages.performance": "Performans",
   "sodium.options.pages.advanced": "Gelişmiş",
   "sodium.options.view_distance.tooltip": "Görüş mesafesi, arazinin ne kadar görüneceğini kontrol eder. Daha kısa mesafeler, daha az arazinin gösterileceği ve kare hızlarının iyileştirileceği anlamına gelir.",
-  "sodium.options.simulation_distance.tooltip": "Simülasyon mesafesi, arazinin ve varlıkların ne kadar uzağa yükleneceğini ve tick'ini kontrol eder. Daha düşük değerler sunucunun yükünü azaltabilir ve kare hızlarını iyileştirebilir.",
+  "sodium.options.simulation_distance.tooltip": "Simülasyon mesafesi, arazinin ve varlıkların ne kadar uzağa yükleneceğini ve tick'leneceğini kontrol eder. Daha düşük uzaklıklar dahili sunucunun yükünü azaltabilir ve kare hızlarını iyileştirebilir.",
   "sodium.options.brightness.tooltip": "Oyunun parlaklık (Gama) ayarını ayarlar.",
   "sodium.options.gui_scale.tooltip": "Kullanıcı arayüzü için kullanılacak maksimum ölçek faktörünü ayarlar. \"auto\" kullanılırsa, her zaman en büyük ölçek faktörü kullanılacaktır.",
   "sodium.options.fullscreen.tooltip": "Etkinleştirilirse oyun tam ekran olarak görüntülenir (destekleniyorsa).",
