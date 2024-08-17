@@ -21,6 +21,7 @@
   "sodium.options.biome_blend.value": "%s блок(аў)",
   "sodium.options.entity_shadows.tooltip": "Калі ўключана, простыя цені будуць адлюстроўвацца пад мобамі і іншымі існасцямі.",
   "sodium.options.vignette.name": "Віньетка",
+  "sodium.options.vignette.tooltip": "Калі ўключана, эфект віньетка будзе даданы калі гулец знаходзіцца ў цёмных зонах, якія робяць увесь экран цямней і больш драматычным.",
   "sodium.options.use_block_face_culling.name": "Адсяканне граняў блокаў",
   "sodium.options.use_fog_occlusion.name": "Адсяканне чанкаў туманам",
   "sodium.options.use_entity_culling.name": "Адсяканне існасцяў",
