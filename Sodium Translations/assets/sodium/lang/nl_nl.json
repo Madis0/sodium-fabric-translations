@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Geavanceerd",
   "sodium.options.view_distance.tooltip": "Het weergavebereik bepaalt hoe ver weg het terrein wordt gerenderd. Een kortere afstand betekent dat er minder terrein wordt gerenderd, waardoor de framerate verbetert.",
   "sodium.options.simulation_distance.tooltip": "De simulatieafstand bepaalt hoe ver weg het terrein en entiteiten geladen blijven en worden getickt. Een kortere afstand kan de belasting van de interne server verminderen en de framerate verbeteren.",
-  "sodium.options.brightness.tooltip": "Bepaalt de helderheid (gamma) van het spel.",
   "sodium.options.gui_scale.tooltip": "Bepaalt de maximale schaalfactor van de gebruikersinterface. Als \"automatisch\" is ingesteld wordt de grootste schaalfactor gebruikt.",
   "sodium.options.fullscreen.tooltip": "Indien ingeschakeld wordt het spel weergegeven in volledig scherm (als dat wordt ondersteund).",
   "sodium.options.v_sync.tooltip": "Indien ingeschakeld wordt de framerate van het spel gesynchroniseerd met de vernieuwingsfrequentie van het beeldscherm. Dit zorgt voor een vloeiendere ervaring ten koste van de algehele invoerlatentie. Als je systeem te traag is kan dit juist prestaties verminderen.",

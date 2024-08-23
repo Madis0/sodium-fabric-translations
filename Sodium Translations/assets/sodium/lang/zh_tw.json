@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "進階",
   "sodium.options.view_distance.tooltip": "顯示距離控制地形應被繪製到多遠。更低的距離表示會繪製更少的地形，也就有利於提升 FPS。",
   "sodium.options.simulation_distance.tooltip": "模擬距離控制將載入和運算的地形和實體的距離。較短的距離可以減少內部伺服器的負載，並可能提升 FPS。",
-  "sodium.options.brightness.tooltip": "控制遊戲畫面的亮度（伽馬值）。",
   "sodium.options.gui_scale.tooltip": "設定介面的大小。如果設為「自動」，則使用可用的最大的大小。",
   "sodium.options.fullscreen.tooltip": "若啟用，遊戲將以全螢幕顯示（若支援）。",
   "sodium.options.v_sync.tooltip": "若啟用，遊戲的 FPS 會與顯示器更新率同步，使畫面整體看起來更流暢，但\n會增加整體的輸入延遲。如果系統效能不足，這項設定可能會降低效能。",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "使用持久映射",
   "sodium.options.use_persistent_mapping.tooltip": "僅供除錯使用。若啟用，暫存緩衝區將使用永久記憶體映射，避免不必要的記憶體複製。在追查圖形損毀成因時，停用這項選項可以協助縮小問題範圍。\n\n需要 OpenGL 4.4 或 ARB_buffer_storage 支援。",
   "sodium.options.chunk_update_threads.name": "區塊更新執行緒",
-  "sodium.options.chunk_update_threads.tooltip": "指定用於區塊生成的執行緒數量。使用更多執行緒可以加快區塊載入和更新速度，但可能會對 FPS 產生負面影響。預設值通常足以滿足所有情況。",
   "sodium.options.always_defer_chunk_updates.name": "一律延遲區塊更新",
   "sodium.options.always_defer_chunk_updates.tooltip": "若啟用，即使區塊更新非常重要，繪製過程也不會等待更新完成。這項選項在某些情況下可以大幅提升 FPS，但可能會造成明顯的視覺延遲，例如方塊出現或消失需要花費較長時間。",
   "sodium.options.use_no_error_context.name": "使用停用錯誤檢查的情境",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "選擇用於區塊繪製的記憶體分配器。\n- 非同步：最快的選項，適用於大部分現代顯示卡驅動程式。\n- 交換：針對較舊顯示卡驅動程式的備用選項。可能會顯著增加記憶體使用量。",
   "sodium.options.chunk_memory_allocator.async": "非同步",
   "sodium.options.chunk_memory_allocator.swap": "交換",
-  "modmenu.summaryTranslation.sodium": "為 Minecraft 打造的現代繪製引擎與用戶端最佳化模組",
-  "modmenu.descriptionTranslation.sodium": "Sodium 是自由且開源的 Minecraft 最佳化模組，可以提升 FPS 並減少卡頓。",
   "sodium.resource_pack.unofficial": "§7Sodium 非官方翻譯§r"
 }

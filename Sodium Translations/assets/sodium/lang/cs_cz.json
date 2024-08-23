@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Pokročilé",
   "sodium.options.view_distance.tooltip": "Vykreslovací vzdálenost (dohled) ovládá, jak daleko bude terén vykreslován. Kratší vzdálenosti znamenají, že bude vykresleno méně terénu, což zvýší počet snímků za sekundu.",
   "sodium.options.simulation_distance.tooltip": "Dosah simulace ovládá, jak daleko bude terén a entity načítán a tickován. Kratší vzdálenosti mohou snížit zátěž serveru a zvýšit počet snímků za vteřinu.",
-  "sodium.options.brightness.tooltip": "Ovládá jas (gammu) hry.",
   "sodium.options.gui_scale.tooltip": "Nastavuje maximální faktor měřítka uživatelského rozhraní. Pokud je použito „auto“, bude vždy použit největší faktor měřítka.",
   "sodium.options.fullscreen.tooltip": "Pokud je povoleno, bude hra zobrazena na celé obrazovce (pokud je podporováno).",
   "sodium.options.v_sync.tooltip": "Pokud je povoleno, snímková frekvence hry bude synchronizována s obnovovací frekvencí monitoru, což umožní obecněji plynulejší zážitek za cenu mírného zpoždění vstupu. Toto nastavení může snížit výkon, pokud je váš systém příliš pomalý.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Použít perzistentní mapování",
   "sodium.options.use_persistent_mapping.tooltip": "Pouze pro ladění. Pokud je povoleno, bude pro mezipaměť použito perzistentní mapování paměti, aby se vyhnulo zbytečným kopiím paměti. Vypnutí této možnosti může být užitečné pro nalezení příčiny grafického poškození.",
   "sodium.options.chunk_update_threads.name": "Vlákna aktualizací chunků",
-  "sodium.options.chunk_update_threads.tooltip": "Určuje počet vláken, která se mají použít pro sestavení chunků. Použití více vláken může urychlit načítání a aktualizaci chunků, ale může mít negativní vliv na časy snímků. Výchozí hodnota je obvykle dostatečná pro všechny situace.",
   "sodium.options.always_defer_chunk_updates.name": "Nezávislost na aktualizacích chunků",
   "sodium.options.always_defer_chunk_updates.tooltip": "Pokud je povoleno, nebude vykreslování nikdy čekat na dokončení aktualizací chunků, i když jsou důležité. Toto může v některých situacích výrazně zlepšit snímkovou frekvenci, ale může vytvořit výrazné vizuální artefakty v místech, kde blokům chvíli trvá, než se objeví nebo zmizí.",
   "sodium.options.use_no_error_context.name": "Použít kontext bez chyb",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Vybere alokátor paměti, který bude použit pro vykreslování chunků.\n- ASYNC Nejrychlejší možnost, funguje dobře s většinou moderních ovladačů grafiky.\n- SWAP: Záložní možnost pro starší ovladače grafiky. Může výrazně zvýšit využití paměti.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Moderní vykreslovací engine a optimalizační mód na straně klienta pro Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium je bezplatný open-source optimalizační mod pro Minecraft, který zlepšuje snímkovou frekvenci a snižuje záseky.",
   "sodium.resource_pack.unofficial": "§7Neoficiální překlady modu Sodium§r"
 }

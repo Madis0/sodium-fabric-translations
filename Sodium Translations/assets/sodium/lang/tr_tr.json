@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Gelişmiş",
   "sodium.options.view_distance.tooltip": "Görüş mesafesi, arazinin ne kadar görüneceğini kontrol eder. Daha kısa mesafeler, daha az arazinin gösterileceği ve kare hızlarının iyileştirileceği anlamına gelir.",
   "sodium.options.simulation_distance.tooltip": "Simülasyon mesafesi, arazinin ve varlıkların ne kadar uzağa yükleneceğini ve tick'leneceğini kontrol eder. Daha düşük uzaklıklar dahili sunucunun yükünü azaltabilir ve kare hızlarını iyileştirebilir.",
-  "sodium.options.brightness.tooltip": "Oyunun parlaklık (Gama) ayarını ayarlar.",
   "sodium.options.gui_scale.tooltip": "Kullanıcı arayüzü için kullanılacak maksimum ölçek faktörünü ayarlar. \"auto\" kullanılırsa, her zaman en büyük ölçek faktörü kullanılacaktır.",
   "sodium.options.fullscreen.tooltip": "Etkinleştirilirse oyun tam ekran olarak görüntülenir (destekleniyorsa).",
   "sodium.options.v_sync.tooltip": "Etkinleştirilirse, oyunun kare hızı monitörün yenileme hızıyla senkronize edilerek genel olarak daha sorunsuz bir deneyim sağlanır. Sisteminiz çok yavaşsa bu ayar performansı düşürebilir.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Kalıcı Eşleme Kullan",
   "sodium.options.use_persistent_mapping.tooltip": "Sadece hata ayıklama için. Etkinleştirildiğinde, gereksiz bellek kopyalarını önlemek için aşama belleği için kalıcı bellek eşlemeleri kullanılacaktır. Bu devre dışı bırakıldığında, grafik bozulmanın nedenini belirlemede kullanışlı olabilir.\n\nOpenGL 4.4 veya ARB_buffer_storage gerektirir.",
   "sodium.options.chunk_update_threads.name": "Yığın Güncelleme Konuları",
-  "sodium.options.chunk_update_threads.tooltip": "Yığın oluşturma için kullanılacak iş parçacığı sayısını belirtir. Daha fazla iş parçacığı kullanmak, yığın yükleme ve güncelleme hızını hızlandırabilir, ancak kare hızını olumsuz etkileyebilir. Varsayılan değer, tüm durumlar için genellikle yeterlidir.",
   "sodium.options.always_defer_chunk_updates.name": "Her Zaman Yığın Güncellemelerini Erteleyin",
   "sodium.options.always_defer_chunk_updates.tooltip": "Etkinleştirilirse, işleme, önemli olsalar bile yığın güncellemelerinin bitmesini asla beklemez. Bu, bazı senaryolarda kare hızlarını büyük ölçüde iyileştirebilir, ancak dünyada önemli bir görsel gecikme yaratabilir.",
   "sodium.options.use_no_error_context.name": "Hata Context'i kullanmayın",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Yığın işleme için kullanılacak bellek ayırıcıyı seçer.\n- ASENKRON: En hızlı seçenek, çoğu modern grafik sürücüsüyle iyi çalışır.\n- TAKAS: Eski grafik sürücüleri için geri dönüş seçeneği. Bellek kullanımını önemli ölçüde artırabilir.",
   "sodium.options.chunk_memory_allocator.async": "Asenkron",
   "sodium.options.chunk_memory_allocator.swap": "Takas",
-  "modmenu.summaryTranslation.sodium": "Minecraft için modern işleme motoru ve istemci tarafı optimizasyon modu",
-  "modmenu.descriptionTranslation.sodium": "Sodium, Minecraft için kare hızlarını iyileştiren ve gecikmeyi azaltan ücretsiz ve açık kaynaklı bir optimizasyon modudur.",
   "sodium.resource_pack.unofficial": "§7Sodium için resmi olmayan çeviriler§r"
 }

@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Avançado",
   "sodium.options.view_distance.tooltip": "A distância de renderização controla quão longe o terreno será renderizado. Distâncias mais curtas significam que menos terreno será renderizado, melhorando o FPS.",
   "sodium.options.simulation_distance.tooltip": "A distância de simulação controla a distância que o terreno e as entidades serão carregadas e marcadas (tique). Distâncias mais curtas reduzem a carga do servidor interno e podem melhorar o FPS.",
-  "sodium.options.brightness.tooltip": "Controla a luminosidade (gamma) do jogo.",
   "sodium.options.fullscreen.tooltip": "Se ligado, o jogo aparece em ecrã cheio (se suportado).",
   "sodium.options.v_sync.tooltip": "Quando ativado, o FPS do jogo será sincronizado com a taxa de atualização do monitor, proporcionando uma experiência geralmente mais suave às custas da latência de entrada. Esta definição pode reduzir o desempenho se o teu sistema for muito lento.",
   "sodium.options.attack_indicator.tooltip": "Define a posição do indicador de ataque no ecrã.",
@@ -52,7 +51,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Seleciona o alocador de memória que será utilizado para renderização de chunks.\n- ASSÍNCRONO: Opção mais rápida, funciona bem com a maioria dos controladores gráficos modernos.\n- SWAP: Opção Fallback para controladores gráficos mais antigos. Pode aumentar o uso de memória significativamente.",
   "sodium.options.chunk_memory_allocator.async": "Assíncrono",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Motor de renderização moderno e mod de otimização client-side para Minecraft",
-  "modmenu.descriptionTranslation.sodium": "O Sodium é um mod de otimização livre e de código aberto para o Minecraft que melhora o FPS e reduz os picos de atraso.",
   "sodium.resource_pack.unofficial": "§7Traduções não oficiais para o Sodium§r"
 }

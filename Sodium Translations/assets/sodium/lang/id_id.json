@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Lanjutan",
   "sodium.options.view_distance.tooltip": "Jarak render mengatur sejauh manakah area yang di-render. Jarak yang lebih pendek berarti lebih sedikit area yang di-render dan meningkatkan frame rate.",
   "sodium.options.simulation_distance.tooltip": "Jarak simulasi mengatur sejauh manakah area yang dimuat. Jarak yang lebih pendek dapat mengurangi beban server internal dan mungkin meningkatkan frame rate.",
-  "sodium.options.brightness.tooltip": "Mengatur kecerahan (gamma) di dalam permainan.",
   "sodium.options.gui_scale.tooltip": "Menentukan skala faktor yang akan digunakan untuk antarmuka pengguna. Jika opsi 'otomatis' dipilih, maka skala yang lebih besar akan digunakan.",
   "sodium.options.fullscreen.tooltip": "Jika diaktifkan, permainan akan ditampilkan dalam mode layar penuh (jika didukung).",
   "sodium.options.v_sync.tooltip": "Jika diaktifkan, frame rate akan di-sinkronisasikan dengan refresh rate monitor, membuat pengalaman yang halus dengan mengorbankan input latency. Pengaturan ini mungkin mengurangi performa jika sistem anda terlalu lambat.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Gunakan Pemetaan Tetap",
   "sodium.options.use_persistent_mapping.tooltip": "Hanya untuk debugging. Jika diaktifkan, pemetaan memori persisten akan digunakan untuk staging buffer sehingga salinan memori yang tidak perlu dapat dihindari. Menonaktifkan ini dapat berguna untuk mempersempit penyebab kerusakan grafis.\n\nDibutuhkan OpenGL 4.4 atau ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Chunk Update Threads",
-  "sodium.options.chunk_update_threads.tooltip": "Menentukan jumlah thread yang digunakan untuk pembangunan chunk. Menggunakan lebih banyak thread dapat mempercepat pemuatan chunk dan kecepatan pembaruan, tetapi dapat mempengaruhi waktu frame secara negatif. Nilai default biasanya sudah cukup baik untuk semua situasi.",
   "sodium.options.always_defer_chunk_updates.name": "Selalu Tunda Pembaruan Chunk",
   "sodium.options.always_defer_chunk_updates.tooltip": "Jika diaktifkan, rendering tidak akan pernah menunggu pembaruan chunk selesai, bahkan jika mereka penting. Ini dapat sangat meningkatkan frame rate dalam beberapa skenario, tetapi dapat menciptakan lag visual yang signifikan di mana blok-blok memerlukan waktu untuk muncul atau menghilang.",
   "sodium.options.use_no_error_context.name": "Gunakan Konteks Tidak ada Kesalahan",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Memilih pengalokasi memori yang akan digunakan untuk rendering chunk.\n- ASYNC: Opsi tercepat, berfungsi baik dengan sebagian besar driver kartu grafis modern.\n- SWAP: Opsi cadangan untuk driver kartu grafis lama. Dapat meningkatkan penggunaan memori secara signifikan.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Rendering engine modern dan mod optimisasi sisi klien untuk Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium adalah sebuah mod gratis dan bersumber terbuka untuk Minecraft agar dapat meningkatkan FPS dan mengurangi lag.",
   "sodium.resource_pack.unofficial": "§7Terjemahan tidak resmi untuk Sodium§r"
 }

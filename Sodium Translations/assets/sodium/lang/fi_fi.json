@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Lisäasetukset",
   "sodium.options.view_distance.tooltip": "Näköetäisyys määrittää, kuinka kauas maastoa piirretään. Pienemmät etäisyydet tarkoittavat pienempää näköetäisyyttä, mikä johtaa parempaan kuvataajuuteen.",
   "sodium.options.simulation_distance.tooltip": "Simulointietäisyys määrittää, kuinka kauas peli voi päivittää maastoa ja kohteita. Pienemmät etäisyydet saattavat vähentää sisäisen palvelimen kuormitusta ja siten parantaa kuvataajuutta.",
-  "sodium.options.brightness.tooltip": "Määrittää pelin kirkkauden (gamman).",
   "sodium.options.gui_scale.tooltip": "Asettaa käyttöliittymässä käytettävän kokokertoimen. Suurinta kokokerrointa käytetään aina, jos \"Automaattinen\" on valittu.",
   "sodium.options.fullscreen.tooltip": "Näyttää pelin kokonäytöllä (jos tuettu).",
   "sodium.options.v_sync.tooltip": "Tuottaa juohevamman pelikokemuksen syöttöviiveen kustannuksella tahdistamalla kuvataajuutesi samaksi kuin virkistystaajuutesi. Saattaa huonontaa suorituskykyä, jos järjestelmäsi on liian hidas.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Käytä pysyvää kartoitusta",
   "sodium.options.use_persistent_mapping.tooltip": "Vain virheenkorjaustarkoituksiin. Tämän ollessa päällä datapuskuriin käytetään kiinteitä muistipaikkoja, jotta vältyttäisiin turhilta muistikopioilta. Tämän asetuksen pois ottaminen voi olla hyödyksi graafisen korruption syyn paikantamiseen.\n\nVaatii OpenGL 4.4:ä tai ARB_buffer_storagea.",
   "sodium.options.chunk_update_threads.name": "Lohkojen päivitykseen käytetyt säikeet",
-  "sodium.options.chunk_update_threads.tooltip": "Määrittää lohkojen rakentamiseen käytettävien säikeiden määrän. Useampien säikeiden käyttäminen voi nopeuttaa lohkojen lataus- ja päivitysnopeutta, mutta voi haitata kuvataajuutta. Oletusarvo on yleensä riittävän hyvä kaikkiin tilanteisiin.",
   "sodium.options.always_defer_chunk_updates.name": "Lykkää lohkojen päivitykset aina",
   "sodium.options.always_defer_chunk_updates.tooltip": "Tämän ollessa päällä renderöinti ei ikinä odota lohkojen päivitysten loppuun saattamista, edes vaikka ne olisivat tärkeitä. Tämä voi joissain tapauksissa parantaa suuresti kuvataajuutta, mutta voi aiheuttaa merkittävää visuaalista viivettä, jossa kuutioilla menee kauan ilmestyä tai kadota.",
   "sodium.options.use_no_error_context.name": "Älä käytä virhekontekstia",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Valitsee muistisijoittimen, jota käytetään lohkojen renderöintiin.\n-ASYNC: Nopein vaihtoehto, toimii hyvin useimpien modernien grafiikkaohjainten kanssa.\n-SWAP: Varavaihtoehto vanhemmille grafiikkaohjaimille. Voi kasvattaa merkittävästi muistin kulutusta.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Moderni renderöintimoottori ja käyttäjänpuoleinen optimointimodi Minecraftille",
-  "modmenu.descriptionTranslation.sodium": "Sodium on ilmainen ja avoimen lähdekoodin optimointimodi Minecraftille, joka parantaa kuvataajuutta ja vähentää viivepiikkejä.",
   "sodium.resource_pack.unofficial": "epävirallinen käänös sodiumiin"
 }
