@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Lanjutan",
   "sodium.options.view_distance.tooltip": "Jarak pemaparan mengawal sejauh mana rupa bumi akan dipaparkan. Jarak yang lebih pendek bermakna lebih sedikit rupa bumi akan diberikan, meningkatkan kadar bingkai.",
   "sodium.options.simulation_distance.tooltip": "Jarak simulasi mengawal sejauh mana rupa bumi dan entiti akan dimuatkan dan didetikkan. Jarak yang lebih pendek boleh mengurangkan beban pelayan dalaman dan boleh meningkatkan kadar bingkai.",
-  "sodium.options.brightness.tooltip": "Mengawal kecerahan (gama) permainan.",
   "sodium.options.gui_scale.tooltip": "Menetapkan faktor skala maksimum untuk digunakan untuk antaramuka pengguna. Jika \"auto\" digunakan, maka faktor skala terbesar akan sentiasa digunakan.",
   "sodium.options.fullscreen.tooltip": "Sekiranya didayakan, permainan akan dipaparkan dalam layar penuh (jika disokong).",
   "sodium.options.v_sync.tooltip": "Jika diaktifkan, laju bingkai permainan akan diselaraskan dengan laju penyegaran monitor, menjadikan pengalaman yang lebih lancar pada umumnya dengan mengorbankan latensi input keseluruhan. Tetapan ini mungkin boleh mengurangkan prestasi jika sistem anda terlalu perlahan.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Gunakan Pemetaan Kekal",
   "sodium.options.use_persistent_mapping.tooltip": "Untuk penyahpepijatan sahaja. Jika didayakan, pemetaan memori berterusan akan digunakan untuk penimbal pementasan supaya salinan memori yang tidak perlu dapat dielakkan. Menyahdayakan ini boleh berguna untuk mengecilkan punca kerosakan grafik.\n\nMemerlukan OpenGL 4.4 atau ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Bebenang Kemas Kini Cebisan",
-  "sodium.options.chunk_update_threads.tooltip": "Menentukan bilangan bebenang untuk digunakan untuk membina cebisan. Menggunakan lebih banyak bebenang boleh mempercepatkan pemuatan dan kelajuan kemas kini cebisan, tetapi boleh menjejaskan masa bingkai secara negatif. Nilai lalai biasanya cukup baik untuk semua situasi.",
   "sodium.options.always_defer_chunk_updates.name": "Sentiasa Tangguhkan Kemas Kini Cebisan",
   "sodium.options.always_defer_chunk_updates.tooltip": "Jika didayakan, pemaparan tidak akan menunggu sehingga kemas kini cebisan selesai, walaupun ianya penting. Ini boleh meningkatkan kadar bingkai dengan banyak dalam beberapa keadaan, tetapi ia boleh mewujudkan lag visual yang ketara di mana blok mengambil sedikit masa untuk muncul atau hilang.",
   "sodium.options.use_no_error_context.name": "Gunakan Ralat Tanpa Konteks",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Memilih peruntukkan memori yang akan digunakan untuk memapar cebisan.\n- ASYNC: Pilihan terpantas, berfungsi dengan baik pada kebanyakan pemacu grafik moden.\n- SWAP: Pilihan penggantian untuk pemacu grafik yang lebih tua. Boleh meningkatkan penggunaan ingatan dengan ketara.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Enjin pemaparan moden dan mod pengoptimuman bahagian pelanggan untuk Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium ialah mod pengoptimuman percuma dan sumber terbuka untuk Minecraft yang meningkatkan kadar bingkai dan mengurangkan lonjakan lag.",
   "sodium.resource_pack.unofficial": "§7Terjemahan tidak rasmi untuk Sodium§r"
 }
