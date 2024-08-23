@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Zaawansowane",
   "sodium.options.view_distance.tooltip": "Zasięg renderowania kontroluje, jak daleko otoczenie będzie renderowane. Krótszy dystans oznacza, że mniej otoczenia będzie renderowane, zwiększając klatki na sekundę.",
   "sodium.options.simulation_distance.tooltip": "Zasięg symulacji kontroluje jak daleko otoczenie i byty będą wczytywane i symulowane. Krótsze dystansy mogą zmniejszyć obciążenie wewnętrznego serwera i poprawić klatki na sekundę.",
-  "sodium.options.brightness.tooltip": "Kontroluje jasność (Gamma) gry.",
   "sodium.options.gui_scale.tooltip": "Ustawia maksymalne skalowanie użyte dla interfejsu użytkownika. Jeśli opcja \"auto\" jest użyta, wtedy największa skala interfejsu zawsze będzie użyta.",
   "sodium.options.fullscreen.tooltip": "Jeśli włączone, gra będzie wyświetlana w trybie pełnoekranowym (Jeśli opcja jest wspierana).",
   "sodium.options.v_sync.tooltip": "Jeśli włączone, klatki na sekundę będą synchronizowane z częstotliwością odświeżania monitora, co zapewni płynniejsze wrażenia kosztem gorszego opóźnienia wejścia. To ustawienie może zmniejszyć wydajność, jeśli twój sprzęt jest zbyt słaby.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Używaj trwałego mapowania",
   "sodium.options.use_persistent_mapping.tooltip": "Tylko do debugowania. Jeśli włączone, stałe mapy pamięci zostaną użyte dla buforu scenicznego, co pozwoli uniknąć niepotrzebnych kopii pamięci. Wyłączenie tej opcji może być przydatne w zawężaniu przyczyny błędów graficznych.\n\nWymaga OpenGL 4.4 albo ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Wątki aktualizacji chunków",
-  "sodium.options.chunk_update_threads.tooltip": "Określa liczbę wątków użytych do budowania chunków. Używanie większej liczby wątków może przyspieszyć wczytywanie chunków i ich aktualizowanie, ale może negatywnie wpłynąć na klatki. Przeważnie, domyślne ustawienie jest wystarczające dla wszystkich sytuacji.",
   "sodium.options.always_defer_chunk_updates.name": "Zawsze opóźniaj aktualizacje chunków",
   "sodium.options.always_defer_chunk_updates.tooltip": "Jeśli włączone, renderowanie nigdy nie będzie czekać aż aktualizacje chunków się zakończą, nawet gdy są one ważne. To może znacznie poprawić wydajność klatek w niektórych przypadkach, ale może skutkować widocznym opóźnieniem, gdzie bloki pojawiają się lub znikają dopiero po pewnym czasie.",
   "sodium.options.use_no_error_context.name": "Używaj braku kontekstu błędu",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Wybiera alokator pamięci, który będzie użyty do renderowania chunków.\n- ASYNC: Najszybsza opcja, działa dobrze z większością nowoczesnych sterowników graficznych.\n- SWAP: Opcja awaryjna dla starszych sterowników graficznych. Może znacznie zwiększyć użycie pamięci.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Nowoczesny silnik renderowania i optymalizacja ze strony klienta dla Minecrafta",
-  "modmenu.descriptionTranslation.sodium": "Sodium to darmowy i otwartoźródłowy mod do Minecrafta który zwiększa liczbę klatek na sekundę i redukuje nagłe opóźnienia.",
   "sodium.resource_pack.unofficial": "§7Nieoficjalne tłumaczenia dla Sodium§r"
 }
