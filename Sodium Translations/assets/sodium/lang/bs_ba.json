@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Napredno",
   "sodium.options.view_distance.tooltip": "Udaljenost prikaza terena kontrolira koliko daleko će se prikazivati teren. Kraća udaljenost znači da će manje terena biti prikazano, što poboljšava fps.",
   "sodium.options.simulation_distance.tooltip": "Udaljenost simulacije kontrolira koliko daleko će entiteti, kao npr. životinje biti učitani i aktivni. Kraće udaljenosti mogu smanjiti opterećenje i poboljšati fps.",
-  "sodium.options.brightness.tooltip": "Kontrolira svjetlinu (gamu) igre.",
   "sodium.options.gui_scale.tooltip": "Postavlja maksimalni faktor skaliranja koji se koristi za korisnički interfejs. Ako je postavljeno na 'auto' koristit će se najveći mogući faktor skaliranja.",
   "sodium.options.fullscreen.tooltip": "Ako je uključeno, igra će se prikazivati preko cijelog ekrana (ako je podržano).",
   "sodium.options.v_sync.tooltip": "Ako je uključeno, fps će biti sinkroniziran sa brzinom osvježavanja monitora, što dovodi do generalno glađeg iskustva igranja po cijeni malo kašnjenja unosa. Ova opcija može utjecati na performanse na sporijim uređajima.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Koristi stalno mapiranje",
   "sodium.options.use_persistent_mapping.tooltip": "Samo za otklanjanje grešaka. Ako je omogućeno, trajna memorijska mapiranja će se koristiti za scenski ublaživač tako da se mogu izbjeći nepotrebne memorijske kopije. Onemogućavanje ovoga može biti korisno za sužavanje uzroka grafičkog oštećenja.",
   "sodium.options.chunk_update_threads.name": "Thread-ovi za ažuriranje chunk-ova",
-  "sodium.options.chunk_update_threads.tooltip": "Određuje broj thread-ova koje će se koristiti za izgradnju chunkova. Upotreba više thread-ova može ubrzati učitavanje chunkova i brzinu ažuriranja, ali može negativno utjecati na brzinu frejmova. Zadana vrijednost je obično dovoljno dobra za sve situacije.",
   "sodium.options.always_defer_chunk_updates.name": "Uvijek odgodi ažuriranja chunk-a",
   "sodium.options.always_defer_chunk_updates.tooltip": "Ako je omogućeno, renderiranje nikada neće čekati da se ažuriranja chunkova završe, čak i ako su važna. Ovo može značajno poboljšati brzinu frejmova u nekim scenarijima, ali može stvoriti značajno vizualno kašnjenje gdje je potrebno neko vrijeme da se blokovi pojave ili nestanu.",
   "sodium.options.use_no_error_context.name": "Koristi OpenGL kontekst bez grešaka",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Mjenja alokator memorije koji se koristi za prikazivanje chunk-ova.\n- ASYNC: Najbrža opcija, radi dobro sa većinu modernih grafičkih driver-a.\n- SWAP: Rezervna opcija za starije grafičke drivere. Može značajno povećati korištenje memorije.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Moderni rendering engine i optimizacijski mod za Minecraft klijent",
-  "modmenu.descriptionTranslation.sodium": "Sodium je besplatni optimizacijski mod za Minecraft otvorenog koda koji poboljšava brzinu prikazivanja kadrova i smanjuje zastajkivanje igrice.",
   "sodium.resource_pack.unofficial": "§7Neslužbeni prijevodi za Sodium§r"
 }
