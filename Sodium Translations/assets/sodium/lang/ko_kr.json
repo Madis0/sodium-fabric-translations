@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "고급",
   "sodium.options.view_distance.tooltip": "렌더 거리는 얼마나 멀리 있는 지형을 렌더링할지 제어합니다. 거리가 짧을수록 적은 지형이 렌더링 되어, 프레임 속도가 개선됩니다.",
   "sodium.options.simulation_distance.tooltip": "시뮬레이션 거리는 얼마나 멀리 있는 지형과 엔티티를 업데이트할지 조절합니다. 거리가 짧을수록 시스템의 부하가 줄어들고 프레임 속도가 개선됩니다.",
-  "sodium.options.brightness.tooltip": "게임의 밝기 (감마)를 조절합니다.",
   "sodium.options.gui_scale.tooltip": "사용자 인터페이스의 최대 크기를 설정합니다. \"자동\"으로 설정하면, 가능한 가장 큰 크기가 적용됩니다.",
   "sodium.options.fullscreen.tooltip": "활성화하면, 가능한 경우 게임이 전체 화면으로 표시됩니다.",
   "sodium.options.v_sync.tooltip": "활성화하면, 게임의 프레임 속도가 모니터의 주사율과 동기화 되어, 필요없는 입력 지연을 줄여 전반적으로 부드러운 경험을 제공합니다. 다만, 시스템이 너무 느리거나 수직 동기화를 지원하지 않는 경우 성능이 오히려 감소할 수 있습니다.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "영구 매핑 사용",
   "sodium.options.use_persistent_mapping.tooltip": "테스트 동안 사용할 목적으로 만든 설정이며, 활성화 하면, 테이지 버퍼에 영구 메모리 매핑을 사용합니다. 이렇게 하면, 불필요한 메모리 복사를 방지할 수 있으며, 비활성화 하면 렌더링 오류의 원인을 좁히는 데 유용할 수 있습니다.\n\nOpenGL 4.4 이상이거나 GPU가 \"ARB_buffer_storage\"를 지원해야 합니다.",
   "sodium.options.chunk_update_threads.name": "청크 업데이트 스레드",
-  "sodium.options.chunk_update_threads.tooltip": "고급 사용자용 설정으로, 청크 빌드에 사용될 스레드의 개수를 조절합니다. 값이 높을수록 청크를 로드하고 업데이트 하는 속도를 빠르게 할 수 있지만, 프레임 속도에 크게 악영향을 미칠 수 있습니다. 따라서 변경하는것은 권장되지 않으며, 또한 지원되지 않습니다! 기본값은 대부분의 상황에서 최적의 결과를 낼 수 있도록 조절되어 있습니다.",
   "sodium.options.always_defer_chunk_updates.name": "항상 청크 업데이트 지연",
   "sodium.options.always_defer_chunk_updates.tooltip": "고급 사용자용 설정으로, 활성화 하면, 청크 업데이트가 아무리 중요하더라도, 청크 업데이트가 끝나기 까지 기다리지 않고 바로 렌더링 합니다. 이렇게 하면 아주 특정한 상황에서 프레임 속도가 굉장히 크게 개선될 수 있지만, 블록이 보여졌다 사라지기를 반복하는 굉장히 신경쓰이는 렉을 유발할 수 있습니다. 따라서 변경하는 것은 권장되지 않으며, 또한 지원되지 않습니다!",
   "sodium.options.use_no_error_context.name": "컨텍스트 생성 중 오류 확인 비활성화",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "청크 렌더링을 위해 사용될 메모리 할당자를 선택합니다.\n- 비동기: 가장 빠른 옵션으로, 대부분의 최신 그래픽 드라이버에서 잘 작동합니다.\n- 스왑: 오래된 그래픽 드라이버를 위한 대체 옵션입니다. 메모리 사용량이 많이 증가할 수 있습니다.",
   "sodium.options.chunk_memory_allocator.async": "비동기",
   "sodium.options.chunk_memory_allocator.swap": "스왑",
-  "modmenu.summaryTranslation.sodium": "Minecraft용 최신 렌더링 엔진 및 클라이언트 측 최적화 모드",
-  "modmenu.descriptionTranslation.sodium": "Sodium은 프레임 속도를 개선하고 랙 스파이크를 줄이는 Minecraft용 무료 오픈 소스 최적화 모드입니다.",
   "sodium.resource_pack.unofficial": "§7Sodium 비공식 번역§r"
 }
