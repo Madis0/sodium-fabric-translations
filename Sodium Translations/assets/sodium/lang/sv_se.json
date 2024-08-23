@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Avancerat",
   "sodium.options.view_distance.tooltip": "Synligt avstånd kontrollerar hur långt bort terrängen renderas. Ett kortare synligt avstånd betyder mindre terräng och högre bildfrekvens.",
   "sodium.options.simulation_distance.tooltip": "Simulerat avstånd kontrollerar hur långt bort terräng och entiteter laddas in. Kortare distanser kan reducera den interna serverns belastning och öka bildfrekvensen.",
-  "sodium.options.brightness.tooltip": "Kontrollerar ljusstyrkan i spelet.",
   "sodium.options.gui_scale.tooltip": "Sätter den maximala skalfaktorn som används för gränssnittet. Om \"auto\" används kommer den största skalan alltid användas.",
   "sodium.options.fullscreen.tooltip": "Om aktiverad så kommer spelet köras i helskärm.",
   "sodium.options.v_sync.tooltip": "Om aktiverad så kommer spelets bildfrekvens synkas till skärmens uppdateringsfrekvens vilket resulterar i en smidigare spelupplevelse vid kostnaden av ingångslatens. Denna inställning kan minska prestandan om ditt system är för långsamt.",
@@ -38,7 +37,6 @@
   "sodium.options.performance_impact_string": "Prestandapåverkan: %s",
   "sodium.options.use_persistent_mapping.name": "Använd Beständig Mappning",
   "sodium.options.chunk_update_threads.name": "Chunkuppdateringstrådar",
-  "sodium.options.chunk_update_threads.tooltip": "Anger antalet trådar som kan användas for datablocksbyggande. Användning av fler trådar kan snabba upp datablocksladdning och uppdateringshastighet, men kan påverka bildfrekvensen. Standardvärdet är oftast bra nog för alla situationer.",
   "sodium.options.always_defer_chunk_updates.name": "Skjut alltid upp chunkuppdateringar",
   "sodium.options.use_no_error_context.name": "Använd ingen felkontext",
   "sodium.options.buttons.undo": "Ångra",
@@ -63,7 +61,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Väljer minnesallokeringen som används för renderingen av chunks.\n- ASYNC: Snabbaste valet, fungerar oftast bra med nyare grafikkort.\n- SWAP: Reservalternativ för äldre grafikkort. Kan öka minnesanvändning.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Modern renderingsmotor och klient-optimerings mod för Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium är en gratis och öppen optimiseringsmod för Minecraft som ökar bildfrekvensen och minskar fördröjningsspikar.",
   "sodium.resource_pack.unofficial": "§7Inofficiella översättningar för Sodium§r"
 }
