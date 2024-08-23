@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Haladó",
   "sodium.options.view_distance.tooltip": "A látótávolság irányítja, milyen messzire látható a táj. Rövidebb távolságok esetén kevesebb táj lesz látható, növelve a képkocka-sebességet.",
   "sodium.options.simulation_distance.tooltip": "A szimulációs távolság irányítja, milyen messzire lévő tájelemek és entitások lesznek betöltve és frissítve. Rövidebb távolságok csökkenthetik a szerver terhelését és növelhetik a képkocka-sebességet.",
-  "sodium.options.brightness.tooltip": "Beállítja a játék fényerejét (gamma-ját).",
   "sodium.options.gui_scale.tooltip": "Beállítja a felhasználói felület maximális méretarányát. Ha az \"automatikus\" van beállítva, a legnagyobb méret lesz használva.",
   "sodium.options.fullscreen.tooltip": "Ha be van kapcsolva, a játék teljes képernyős módban lesz (ha támogatott).",
   "sodium.options.v_sync.tooltip": "Ha be van kapcsolva, a játék képkocka-sebessége szinkronizálva lesz a monitor képfrissítési frekvenciájával, egy általánosan egyenletesebb élményért, a bemenet késésének kárára. Ez a beállítás csökkentheti a teljesítményt, ha a rendszered lassú.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Állandó leképezés használata",
   "sodium.options.use_persistent_mapping.tooltip": "Csak hibakereséshez. Ha engedélyezve van, akkor a staging pufferhez állandó memóriakapcsolatokat használnak, így elkerülhető a felesleges memóriamásolatok készítése. Ennek kikapcsolása hasznos lehet a grafikus hiba okának leszűkítéséhez.\n\nOpenGL 4.4 vagy ARB_buffer_storage szükséges hozzá.",
   "sodium.options.chunk_update_threads.name": "Chunk frissítési szálak",
-  "sodium.options.chunk_update_threads.tooltip": "Megadja a chunk-építéshez használandó szálak számát. Több szál használata felgyorsíthatja a chunk betöltését és a frissítési sebességet, de negatívan befolyásolhatja a képkockaidőt. Az alapértelmezett érték általában minden helyzetben elegendő.",
   "sodium.options.always_defer_chunk_updates.name": "Chunk-frissítések elhalasztása",
   "sodium.options.always_defer_chunk_updates.tooltip": "Ha engedélyezve van, a renderelés soha nem várja meg a darabos frissítések befejezését, még akkor sem, ha azok fontosak. Ez bizonyos esetekben jelentősen javíthatja a képkocka sebességet, de jelentős vizuális késleltetést okozhat, amikor a blokkok megjelenése vagy eltűnése eltart egy ideig.",
   "sodium.options.use_no_error_context.name": "Kontextus nélküli hiba használata",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Kiválasztja a chunkok megjelenítéséhez használt memórialeosztót.\n- ASYNC: A leggyorsabb opció, jól működik a legtöbb modern grafikus illesztőprogrammal.\n- SWAP: Tartalék opció régebbi grafikus illesztőprogramokhoz. Jelentősen növelheti a memóriahasználatot.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Modern megjelenítő motor és kliens oldali optimalizáló mod a Minecraft-hoz",
-  "modmenu.descriptionTranslation.sodium": "A Sodium egy ingyenes és nyílt forráskódú optimalizáló mod a Minecraft-hoz, ami segít a képkocka-sebesség növelésében és csökkenti a lag-tüskéket.",
   "sodium.resource_pack.unofficial": "§7Nem hivatalos fordítások Sodium-hoz§r"
 }
