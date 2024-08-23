@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Täpsemad",
   "sodium.options.view_distance.tooltip": "Nähtavuskaugus määrab, kui kaugele maastikku renderdatakse. Väiksemad kaugused tähendavad vähema maastiku renderdamist, parandades kaadrisagedust.",
   "sodium.options.simulation_distance.tooltip": "Simuleerimiskaugus juhib, kui kaugel olevat maastikku ja olemeid laaditakse ning tikse arvestatakse. Lühemad kaugused võivad parandada siseserveri koormust ning kaadrisagedust.",
-  "sodium.options.brightness.tooltip": "Juhib mängu heledust (gammat).",
   "sodium.options.gui_scale.tooltip": "Määrab kasutajaliidese maksimaalse mõõtkavateguri. Automaatse valiku korral kasutatakse alati suurimat mõõtkavategurit.",
   "sodium.options.fullscreen.tooltip": "Lubamisel kuvatakse mäng täisekraanil (kui on toetatud).",
   "sodium.options.v_sync.tooltip": "Lubamisel sünkroonitakse mängu kaadrisagedus kuvari värskendussagedusega, tulemuseks on enamjaolt sujuvam kogemus üldise sisendilatentsuse arvelt. See valik võib jõudlust vähendada, kui su süsteem on liiga aeglane.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Püsiv kaardistus",
   "sodium.options.use_persistent_mapping.tooltip": "Ainult silumise jaoks. Lubamisel kasutatakse etapipuhvri jaoks püsivaid mäluvastendusi, et vältida tarbetuid mälukoopiaid. Selle keelamine võib olla kasulik graafilise korruptsiooni põhjuste vähendamiseks.\n\nNõuab OpenGL 4.4 või ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Kamakauuenduste lõimed",
-  "sodium.options.chunk_update_threads.tooltip": "Määrab lõimede arvu, mida kasutatakse kamakate ehitamiseks. Rohkemate lõimede kasutamine võib kiirendada kamakate laadimist ja uuendamiskiirust, ent samas negatiivselt mõjutada kaadrisagedust. Vaikeväärtus on tavaliselt kõigis olukordades piisavalt hea.",
   "sodium.options.always_defer_chunk_updates.name": "Lükka kamakauuendused alati edasi",
   "sodium.options.always_defer_chunk_updates.tooltip": "Lubamisel ei oota renderdamine kunagi kamakate uuendamise lõppu, isegi kui need kamakad on olulised. See võib teatud juhtudel oluliselt parandada kaadrisagedust, ent põhjustada ka märkimisväärset visuaalset viivitust, kus plokkide ilmumine või kadumine võtab veidi aega.",
   "sodium.options.use_no_error_context.name": "Ära kasuta veakonteksti",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Määrab mälujaoturi, mida kasutatakse kamakate laadimiseks.\n- Asünkroonne: kiireim valik, töötab hästi enamus kaasaegsete draiveritega.\n- Saalitud: varuvariant vanematele graafikadraiveritele. Võib suurendada mälukasutust märgatavalt.",
   "sodium.options.chunk_memory_allocator.async": "asünkroonne",
   "sodium.options.chunk_memory_allocator.swap": "saalitud",
-  "modmenu.summaryTranslation.sodium": "Modernne renderdusmootor ja kliendipoolse optimeerimise mod Minecraftile",
-  "modmenu.descriptionTranslation.sodium": "Sodium on tasuta ja avatud lähtekoodiga mod Minecraftile, mis parandab kaadrisagedust ja vähendab latentsusokkaid.",
   "sodium.resource_pack.unofficial": "§7Mitteametlikud tõlked Sodiumile§r"
 }
