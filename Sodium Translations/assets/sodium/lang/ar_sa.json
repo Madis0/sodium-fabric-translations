@@ -1,7 +1,7 @@
 {
   "sodium.option_impact.low": "منخفض",
   "sodium.option_impact.medium": "متوسط",
-  "sodium.option_impact.high": "عال",
+  "sodium.option_impact.high": "عالٍ",
   "sodium.option_impact.extreme": "الأقصى",
   "sodium.option_impact.varies": "متفاوت",
   "sodium.options.pages.quality": "الجودة",
@@ -29,6 +29,5 @@
   "sodium.options.mipmap_levels.tooltip": "يتحكم في عدد Mipmap الذي يستخدم الألياف مجسمات المكعبات، القيم الأعلى تقدم عرضا افضل المكعبات من مسافة ولاكن قد يؤثر سلبية على الأداء من حزم الموارد التي تستخدم الكثير من الألياف المتحركة.",
   "sodium.options.use_block_face_culling.name": "استخدام انتخاب أوجه المكعب",
   "sodium.options.use_block_face_culling.tooltip": "إذا ما مكن سيتم عرض أوجه المكعبات التي تواجه الكاميرة فقط هذا يمكن التخلص من أوجه المكعبات مبكرا في عملية العرض مم يرفع الأداء عاليا، قد تواجه بعض حزم الموارد مشاكلا من هذا الإعداد فلك تعطيله إذا كنت ترى حفرا في المكعبات.",
-  "sodium.options.particle_quality.name": "الجسيمات",
-  "modmenu.descriptionTranslation.sodium": "صوديوم هو تعديل حر ومفتوح المصدر لتعزيز اداء Minecraft، مم يرفع معدل الإطارات وينقص من موجات التأخير."
+  "sodium.options.particle_quality.name": "الجسيمات"
 }
