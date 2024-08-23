@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Avansert",
   "sodium.options.view_distance.tooltip": "Synsvidda kontrollerer kor langt unna terreng vil bli lasta inn. Lågare synsvidd gjer at mindre terreng vil lasta inn, som gjev høgare biletefrekvens.",
   "sodium.options.simulation_distance.tooltip": "Simuleringsavstanden kontrollerer kor langt unna terreng og einingar vil lasta inn og tikka. Lågare avstand kan redusera belasting på den interne tenaren og gjeva høgare biletefrekvens.",
-  "sodium.options.brightness.tooltip": "Kontrollerar ljosstyrken (gammaen) til spelet.",
   "sodium.options.fullscreen.tooltip": "Om påslege vil spelet vera i fullskjerm (viss støtta).",
   "sodium.options.v_sync.tooltip": "Om påslege vil biletefrekvensen til spelet verta synkronisert med skjermen sin oppdateringsfrekvens, som gjev ein meir smidig oppleving men som går utover forseinkingstida på inndata. Denne innstillinga kan redusera ytinga dersom eininga er for treig.",
   "sodium.options.attack_indicator.tooltip": "Kontrollerar kor åtaksmålaren visast på skjermen.",
@@ -24,7 +23,5 @@
   "sodium.console.core_shaders_warn": "Følgjande tilfangspakke kan vera inkompatibel med Sodium:",
   "sodium.console.core_shaders_info": "Sjekk spelloggen for detaljert informasjon.",
   "sodium.options.particle_quality.name": "Partiklar",
-  "modmenu.summaryTranslation.sodium": "Ein mod med ein moderne motor for skildring og lokal optimalisering for Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium er ein gratis mod for Minecraft med ope kildekode som optimaliserar biletefrekvensen og reduserar \"lag spikes\".",
   "sodium.resource_pack.unofficial": "§7Uoffisielle omsetjingar for Sodium§r"
 }
