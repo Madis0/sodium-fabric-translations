@@ -9,7 +9,6 @@
   "sodium.options.pages.advanced": "Avancé",
   "sodium.options.view_distance.tooltip": "La distance d'affichage définit jusqu'où le terrain pourra être affiché. Une distance de rendu plus courte améliora la fréquence d'images en réduisant la quantité de terrain à afficher.",
   "sodium.options.simulation_distance.tooltip": "La distance de simulation définit jusqu'où le terrain et les entités pourront être chargés et mis à jour. Une distance plus courte peut réduire la charge du serveur interne et améliorer le framerate.",
-  "sodium.options.brightness.tooltip": "Définit la luminosité (gamma) du jeu.",
   "sodium.options.gui_scale.tooltip": "Définit l'échelle de taille de l'interface utilisateur. Si \"auto\" est utilisé, alors la plus grande échelle possible sera utilisée.",
   "sodium.options.fullscreen.tooltip": "Si activée, le jeu sera affiché en plein écran (si supporté).",
   "sodium.options.v_sync.tooltip": "Si activée, le framerate du jeu sera synchronisé au taux de rafraîchissement de l'écran, ce qui résulte généralement en une expérience plus fluide au coût d'une latence d'entrée plus élevée. Cette option peut dégrader les performances si votre machine est trop lente.",
@@ -46,7 +45,6 @@
   "sodium.options.use_persistent_mapping.name": "Utiliser le mappage persistant",
   "sodium.options.use_persistent_mapping.tooltip": "Réservé au débogage uniquement. Si activé, des mappings de mémoire persistante seront utilisés pour le tampon de mise en scène afin d'éviter les copies de mémoire inutiles. Désactiver cette fonction peut être utile pour identifier la cause de la corruption graphique.\n\nNécessite OpenGL 4.4 ou ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Threads de mise à jour de chunks",
-  "sodium.options.chunk_update_threads.tooltip": "Spécifie le nombre de threads à utiliser pour la mise à jour des chunks. Augmenter le nombre de chunks peut améliorer la rapidité de chargement et de mise à jour des chunks, mais peut causer des saccades. La valeur par défaut est en général assez bonne pour toutes les situations.",
   "sodium.options.always_defer_chunk_updates.name": "Forcer les mises à jour de chunk différées",
   "sodium.options.always_defer_chunk_updates.tooltip": "Lorsque activé, l'affichage n'attendra jamais que la mise à jour d'un chunk soit terminée, même lorsque celle-ci est importante. Dans certains cas, cela peut grandement améliorer la fréquence d'images, mais peut causer d'importants délais dans la mise à jour visuelle du monde.",
   "sodium.options.use_no_error_context.name": "Utiliser le profil sans erreur",
@@ -73,7 +71,5 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Sélectionne l'allocateur mémoire utilisé pour le rendu des chunks.\n- Asynchrone : Option la plus performante, qui marche avec la plupart des pilotes graphiques modernes.\n- Par permutation : Option de secours pour les pilotes graphiques plus anciens. Risque de beaucoup augmenter l'utilisation mémoire.",
   "sodium.options.chunk_memory_allocator.async": "Asynchrone",
   "sodium.options.chunk_memory_allocator.swap": "Par permutation",
-  "modmenu.summaryTranslation.sodium": "Moteur de rendu moderne et optimisation côté client pour Minecraft",
-  "modmenu.descriptionTranslation.sodium": "Sodium est un mod d'optimisation gratuit et open-source pour Minecraft qui améliore le taux de rafraîchissement et réduit les pics de lag.",
   "sodium.resource_pack.unofficial": "§7Traductions officieuses pour Sodium§r"
 }
