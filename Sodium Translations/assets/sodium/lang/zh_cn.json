@@ -9,6 +9,7 @@
   "sodium.options.pages.advanced": "高级",
   "sodium.options.view_distance.tooltip": "渲染距离控制渲染多远的地形。更短的距离意味着会渲染更少的地形，从而提高帧率。",
   "sodium.options.simulation_distance.tooltip": "模拟距离控制加载和更新地形和实体的距离。更短的距离可以减少内置服务端的负载，且可能提高帧率。",
+  "sodium.options.brightness.tooltip": "控制世界中的最低亮度。提高此值时，世界中较暗的区域会显得更亮。这不会影响已经照明充足的区域的亮度。",
   "sodium.options.gui_scale.tooltip": "设置界面的最大缩放比例。如果设置为“自动”，则始终使用最大的缩放比例。",
   "sodium.options.fullscreen.tooltip": "若启用，游戏将以全屏显示（若支持）。",
   "sodium.options.v_sync.tooltip": "若启用，游戏帧率将与显示器刷新率同步，此选项将增加整体输入延迟而使游戏体验更加顺畅。如果你的系统性能不足，此设置可能会降低性能。",
@@ -45,8 +46,11 @@
   "sodium.options.use_persistent_mapping.name": "启用持久映射",
   "sodium.options.use_persistent_mapping.tooltip": "仅用于调试。若启用，暂存缓冲区将使用持久内存映射，以避免不必要的内存复制。禁用此选项可以协助缩小图形损坏的原因。\n\n需要OpenGL 4.4或ARB_buffer_storage。",
   "sodium.options.chunk_update_threads.name": "区块更新线程",
+  "sodium.options.chunk_update_threads.tooltip": "指定用于区块构建和排序的线程数。使用更多线程可以加快区块加载和更新速度，但可能会对帧时间产生负面影响。默认值通常足以应对所有情况。",
   "sodium.options.always_defer_chunk_updates.name": "始终推迟区块更新",
   "sodium.options.always_defer_chunk_updates.tooltip": "若启用，即使区块更新十分重要，渲染也不会等待更新完成。这在某些情况下可以极大地提高帧率，但可能会在世界上产生严重的视觉延迟，如方块需要花费时间出现或消失。",
+  "sodium.options.sort_behavior.name": "半透明排序",
+  "sodium.options.sort_behavior.tooltip": "启用半透明排序。启用后可避免水和玻璃等半透明方块发生显示错误，并尝试在相机运动时也能正确呈现它们。这对区块加载和更新速度有轻微的性能影响，但对帧率的影响通常并不明显。",
   "sodium.options.use_no_error_context.name": "使用禁用错误检查的上下文",
   "sodium.options.use_no_error_context.tooltip": "启用后，将在创建OpenGL上下文时禁用错误检查。可略微提升渲染性能，但会使调试突发且不明原因的崩溃变得更困难。",
   "sodium.options.buttons.undo": "撤销",
@@ -71,5 +75,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "选择用于区块渲染的内存分配器。\n- 异步：最快的选项，适用于大多数现代图形驱动程序。\n- 交换：较旧的图形驱动程序的兼容选项。可能会显著增加内存使用量。",
   "sodium.options.chunk_memory_allocator.async": "异步",
   "sodium.options.chunk_memory_allocator.swap": "交换",
+  "modmenu.summaryTranslation.sodium": "为Minecraft打造的速度最快、兼容性最强的渲染优化Mod。",
+  "modmenu.descriptionTranslation.sodium": "Sodium是一个为Minecraft打造的强大渲染引擎，它可以大大改善帧率并减少微卡顿，同时修复许多图形问题。",
   "sodium.resource_pack.unofficial": "§7Sodium非官方翻译§r"
 }
