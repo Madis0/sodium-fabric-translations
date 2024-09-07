@@ -10,7 +10,7 @@
   "sodium.options.view_distance.tooltip": "渲染距离控制渲染多远的地形。更短的距离意味着会渲染更少的地形，从而提高帧率。",
   "sodium.options.simulation_distance.tooltip": "模拟距离控制加载和更新地形和实体的距离。更短的距离可以减少内置服务端的负载，且可能提高帧率。",
   "sodium.options.brightness.tooltip": "控制世界中的最低亮度。提高此值时，世界中较暗的区域会显得更亮。这不会影响已经照明充足的区域的亮度。",
-  "sodium.options.gui_scale.tooltip": "设置界面的最大缩放比例。如果设置为“自动”，则始终使用最大的缩放比例。",
+  "sodium.options.gui_scale.tooltip": "设置界面的最大缩放比例。若设置为“自动”，则始终使用最大的缩放比例。",
   "sodium.options.fullscreen.tooltip": "若启用，游戏将以全屏显示（若支持）。",
   "sodium.options.v_sync.tooltip": "若启用，游戏帧率将与显示器刷新率同步，此选项将增加整体输入延迟而使游戏体验更加顺畅。如果你的系统性能不足，此设置可能会降低性能。",
   "sodium.options.fps_limit.tooltip": "限制最大帧率。这有助减少多任务处理时的电力消耗和系统负载。若启用了垂直同步且帧率上限不低于显示器的刷新率，该选项将被忽略。",
