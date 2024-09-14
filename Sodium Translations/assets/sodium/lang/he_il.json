@@ -9,6 +9,7 @@
   "sodium.options.pages.advanced": "מתקדם",
   "sodium.options.view_distance.tooltip": "מרחק ראיה שולט באיזו מרחק יוצג השטח. מרחקים קצרים יותר פירושם שפחות שטח יוצג, מה שמשפר את ה-FPS.",
   "sodium.options.simulation_distance.tooltip": "מרחק סימולציה שולט באיזה מרחק שטח וישויות ייטענו ויעשו דברים. מרחקים קצרים יותר יכולים להפחית את העומס של השרת הפנימי ועשויים לשפר את ה-FPS.",
+  "sodium.options.brightness.tooltip": "שולט על הבהירות המינימלית בעולם. כאשר מוגבר, חלקים חשוכים יותר בעולם יראו בהירים יותר. הגדרה זו לא משפיעה על איזורים שכבר מוארים הייטב.",
   "sodium.options.gui_scale.tooltip": "מגדיר את הגודל המקסימלי לשימוש עבור ממשק המשתמש. אם נעשה שימוש ב\"אוטומטי\", אז תמיד ישומש הגודל הכי גדול.",
   "sodium.options.fullscreen.tooltip": "אם מופעל, המשחק יוצג במסך מלא (אם נתמך).",
   "sodium.options.v_sync.tooltip": "אם מופעל, כמות ה-FPS תסונכרן לקצב הרענון של המסך, מה שיוצר חוויה חלקה יותר בדרך כלל על חשבון מהירות תפיסת קלט. הגדרה זו עשויה להפחית את הביצועים אם המערכת שלך איטית מדי.",
@@ -44,7 +45,8 @@
   "sodium.options.performance_impact_string": "השפעת ביצועים: %s",
   "sodium.options.use_persistent_mapping.name": "השתמש במיפוי מתמשך",
   "sodium.options.use_persistent_mapping.tooltip": "לתיקון באגים בלבד. אם מופעל, מיפויי זיכרון מתמשכים ישמשו עבור מאגר ה-Staging, כך שניתן יהיה להימנע מהעתקי זיכרון מיותרים. השבתה זו יכולה להיות שימושית לצמצום הגורם לשחיתות גרפית.\n\nדורש OpenGL 4.4 או ARB_buffer_storage.",
-  "sodium.options.chunk_update_threads.name": "תהליכוני עדכון חלקי עולם",
+  "sodium.options.chunk_update_threads.name": "תהליכים לעדכון חלקי עולם",
+  "sodium.options.chunk_update_threads.tooltip": "שולט על מספר התהליכים לשימוש עבור בנייה ומיון של חלקי עולם. שימוש בעוד תהילכים יכול להאיץ טעינת חלקי עולם ומהירות עדכון, אך עלול להשפיע לרעה על זמני הפריימים. ערך ברירת המחדל הוא בדרך כלל טוב מספיק עבור כל המצבים.",
   "sodium.options.always_defer_chunk_updates.name": "תמיד דחה עדכוני חלקי עולם",
   "sodium.options.always_defer_chunk_updates.tooltip": "אם מופעל, הרינדור לעולם לא יחכה לסיום עדכוני חלקי עולם, גם אם הם חשובים. זה יכול לשפר מאוד את ה-FPS בתרחישים מסוימים, אבל זה עשוי ליצור פיגור ויזואלי משמעותי שבו לוקח זמן מה לבלוקים להופיע או להיעלם.",
   "sodium.options.use_no_error_context.name": "השתמש בהקשר ללא שגיאה",
@@ -71,5 +73,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "בוחר את מקצה הזיכרון שישמש לעיבוד נתחים.\n- בו זמני: האפשרות המהירה ביותר, עובדת היטב עם רוב מנהלי ההתקנים הגרפיים המודרניים.\n- החלף: אפשרות החלפה עבור מנהלי התקנים גרפיים ישנים יותר. עשוי להגביר את השימוש בזיכרון באופן משמעותי.",
   "sodium.options.chunk_memory_allocator.async": "בו זמני",
   "sodium.options.chunk_memory_allocator.swap": "החלף",
+  "modmenu.summaryTranslation.sodium": "מוד אופטימיזציות רינדור הכי מהיר ונתמך בשביל Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "מוד Sodium הוא מנוע רינדור בשביל Minecraft שמשפר מאוד את קצבי הפריימים ומיקרו-תקיעות, תוך תיקון בעיות גרפיות רבות.",
   "sodium.resource_pack.unofficial": "§7תרגומים לא רשמיים עבור Sodium§r"
 }
