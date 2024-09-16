@@ -12,6 +12,7 @@
   "sodium.options.brightness.tooltip": "Juhib maailma minimaalset heledust. Suurendamisel kuvatakse maailma tumedamad alad eredamalt. See ei muuda juba hästi valgustatud alade heledust.",
   "sodium.options.gui_scale.tooltip": "Määrab kasutajaliidese maksimaalse mõõtkavateguri. Automaatse valiku korral kasutatakse alati suurimat mõõtkavategurit.",
   "sodium.options.fullscreen.tooltip": "Lubamisel kuvatakse mäng täisekraanil (kui on toetatud).",
+  "sodium.options.fullscreen_resolution.tooltip": "Täisekraanirežiimis kasutatav ekraani resolutsioon ja värskenduskiirus. Selle valiku muutmine võib mõjutada teisi rakendusi ning põhjustada rakenduste vahetamisel viivitust.\n\nToetatud vaid Windowsi operatsioonisüsteemis.",
   "sodium.options.v_sync.tooltip": "Lubamisel sünkroonitakse mängu kaadrisagedus kuvari värskendussagedusega, tulemuseks on enamjaolt sujuvam kogemus üldise sisendilatentsuse arvelt. See valik võib jõudlust vähendada, kui su süsteem on liiga aeglane.",
   "sodium.options.fps_limit.tooltip": "Piirab maksimaalset kaadrisagedust. See võib multitegumtöö korral vähendada akukasutust ja süsteemi koormust. VSynci lubamisel seda valikut ignoreeritakse, v.a. siis, kui see on madalam, kui sinu kuvari värskenduskiirus.",
   "sodium.options.view_bobbing.tooltip": "Lubamisel rapub mängija kõndimisel ka tema vaateväli. Merehaiguse all kannatavad mängijad võivad soovida selle valiku keelata.",
