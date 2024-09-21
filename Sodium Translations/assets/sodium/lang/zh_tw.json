@@ -12,6 +12,7 @@
   "sodium.options.brightness.tooltip": "控制世界中的最低亮度。當提高此值時，世界中較暗的區域會變得更亮。這不會影響已經光線充足的區域的亮度。",
   "sodium.options.gui_scale.tooltip": "設定介面的大小。如果設為「自動」，則使用可用的最大的大小。",
   "sodium.options.fullscreen.tooltip": "若啟用，遊戲將以全螢幕顯示（若支援）。",
+  "sodium.options.fullscreen_resolution.tooltip": "全螢幕模式下的螢幕解析度和更新頻率。變更這項選項可能會干擾其他應用程式，並在應用程式之間切換時造成延遲。\n\n這項功能僅在 Windows 作業系統上支援。",
   "sodium.options.v_sync.tooltip": "若啟用，遊戲的 FPS 會與顯示器更新率同步，使畫面整體看起來更流暢，但\n會增加整體的輸入延遲。如果系統效能不足，這項設定可能會降低效能。",
   "sodium.options.fps_limit.tooltip": "限制最高 FPS。這有助於在多工處理時降低耗電量和系統負載。如果啟用了垂直同步，除非設定值低於顯示器的更新率，否則這項選項將被忽略。",
   "sodium.options.view_bobbing.tooltip": "若啟用，玩家在移動時視角會晃動和上下起伏。容易暈眩的玩家可以嘗試關閉這項選項以緩解症狀。",
