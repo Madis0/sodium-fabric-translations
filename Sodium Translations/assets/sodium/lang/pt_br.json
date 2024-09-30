@@ -8,7 +8,7 @@
   "sodium.options.pages.performance": "Desempenho",
   "sodium.options.pages.advanced": "Avançado",
   "sodium.options.view_distance.tooltip": "O alcance visual define a renderização de terrenos. Valores mais baixos significam que menos terreno será renderizado, com maior taxa de quadros.",
-  "sodium.options.simulation_distance.tooltip": "A distância de simulação controla a distância que o terreno e as entidades serão carregadas e atualizadas a cada tick. Distâncias mais curtas reduzem a carga do servidor interno e podem melhorar o FPS.",
+  "sodium.options.simulation_distance.tooltip": "A distância de simulação controla a distância que o terreno e as entidades serão carregadas e atualizadas a cada tique. Distâncias mais curtas reduzem a carga do servidor interno e podem melhorar as taxas de quadro.",
   "sodium.options.brightness.tooltip": "Controle o brilho mínimo no mundo. Quando aumentado, as áreas mais escuras do mundo apareceram mais claras. Isso não afeta o brilho de áreas já bem iluminadas.",
   "sodium.options.gui_scale.tooltip": "Define o fator máximo da escala usada na interface. No automático, a maior escala sempre será usada.",
   "sodium.options.fullscreen.tooltip": "Ao ativar, o jogo será exibido em tela inteira (se possível).",
@@ -74,5 +74,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Selecione a forma de alocar memória que será usado para renderização de chunks.\n- ASSÍNCRONA: Opção mais rápida, funciona bem com a maioria dos drivers gráficos modernos.\n- SWAP: Alternativa para drivers gráficos mais antigos. Pode aumentar o uso de memória significativamente.",
   "sodium.options.chunk_memory_allocator.async": "Assínc.",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "modmenu.summaryTranslation.sodium": "O mod de optimização de renderização mais rápido e compatível para o Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "A Sodium é um motor poderoso de renderização para o Minecraft em que melhora ainda mais as taxas de quadro e congelamento, enquanto corrige vários problemas gráficos.",
   "sodium.resource_pack.unofficial": "§7Tradução por Dieguinho§r"
 }
