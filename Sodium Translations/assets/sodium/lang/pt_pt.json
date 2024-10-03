@@ -22,6 +22,7 @@
   "sodium.options.clouds_quality.tooltip": "O nível de qualidade usado para renderizar nuvens no céu. Mesmo que as opções tenham os nomes \"Rápidos\" e \"Elegantes\", o impacto no desempenho é muito reduzido.",
   "sodium.options.leaves_quality.name": "Folhas",
   "sodium.options.particle_quality.tooltip": "Controla o número máximo de partículas que podem estar presentes no ecrã a qualquer momento.",
+  "sodium.options.smooth_lighting.tooltip": "Habilita a iluminação e sombreamento suave de blocos no mundo. Isso pode aumentar muito levemente a quantidade de tempo que leva para carregar ou atualizar um pedaço, mas não afeta a taxa de quadros.",
   "sodium.options.biome_blend.value": "%s bloco(s)",
   "sodium.options.entity_shadows.tooltip": "Quando ativado, sombras básicas serão renderizadas debaixo de criaturas e outras entidades.",
   "sodium.options.vignette.name": "Vignette",
