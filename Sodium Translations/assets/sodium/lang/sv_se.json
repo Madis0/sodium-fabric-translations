@@ -36,9 +36,13 @@
   "sodium.options.cpu_render_ahead_limit.value": "%s bildruta(or)",
   "sodium.options.performance_impact_string": "Prestandapåverkan: %s",
   "sodium.options.use_persistent_mapping.name": "Använd Beständig Mappning",
+  "sodium.options.use_persistent_mapping.tooltip": "Endast för felsökning. Om detta läge är aktiverat kommer ständiga minnesmappningar att användas för mellanlagringsbufferten så att man undviker onödiga minneskopior. Om läget stängs av kan det vara lättare att ta reda på orsaken till grafisk korruption.\n\nKräver OpenGL 4.4 eller ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Chunkuppdateringstrådar",
+  "sodium.options.chunk_update_threads.tooltip": "Anger antalet trådar som kan användas for datablocksbyggande och sortering. Användning av fler trådar kan snabba upp datablocksladdning och uppdateringshastighet, men kan påverka bildfrekvensen. Standardvärdet är oftast bra nog för alla situationer.",
   "sodium.options.always_defer_chunk_updates.name": "Skjut alltid upp chunkuppdateringar",
+  "sodium.options.always_defer_chunk_updates.tooltip": "Om detta läge är aktiverat kommer renderingen aldrig att vänta på att uppdateringar av datablock ska slutföras, även om de är viktiga. Detta kan förbättra bildhastigheterna avsevärt i vissa scenarier, men det kan skapa betydande visuell eftersläpning så att block tar långt tid att dyka upp eller försvinna.",
   "sodium.options.use_no_error_context.name": "Använd ingen felkontext",
+  "sodium.options.use_no_error_context.tooltip": "När detta läge är aktiverat kommer OpenGL-kontexten att skapas med felkontroll inaktiverad. Detta förbättrar prestanda något, men det kan också bli svårare att felsöka oförklarade krascher.",
   "sodium.options.buttons.undo": "Ångra",
   "sodium.options.buttons.apply": "Verkställ",
   "sodium.options.buttons.donate": "Köp oss en kaffe!",
@@ -61,5 +65,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Väljer minnesallokeringen som används för renderingen av chunks.\n- ASYNC: Snabbaste valet, fungerar oftast bra med nyare grafikkort.\n- SWAP: Reservalternativ för äldre grafikkort. Kan öka minnesanvändning.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "modmenu.summaryTranslation.sodium": "Den snabbaste och mest kompatibla renderingsoptimeringsmodden för Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "Sodium är en kraftfull renderingsmotor för Minecraft som ökar bildfrekvensen och minskar fördröjningsspikar medan den också fixar många grafiska problem.",
   "sodium.resource_pack.unofficial": "§7Inofficiella översättningar för Sodium§r"
 }
