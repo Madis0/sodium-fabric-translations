@@ -11,6 +11,7 @@
   "sodium.options.simulation_distance.tooltip": "Die Simulationsweite bestimmt, wie weit die Landschaft sowie Objekte und Wesen in dieser geladen werden. Eine kürzere Distanz reduziert die Last für den internen Server und kann die Leistung verbessern.",
   "sodium.options.gui_scale.tooltip": "Legt den maximalen Skalierungsfaktor fest, der für die Benutzeroberfläche verwendet werden soll. Wenn „auto“ verwendet wird, wird immer der größtmögliche Skalierungsfaktor verwendet.",
   "sodium.options.fullscreen.tooltip": "Wenn aktiviert, wird das Spiel im Vollbild-Modus angezeigt (falls unterstützt).",
+  "sodium.options.fullscreen_resolution.tooltip": "",
   "sodium.options.v_sync.tooltip": "Wenn aktiviert, wird die Bildrate des Spiels mit der Bildwiederholrate des Monitors synchronisiert, was zu einem flüssigeren Spielerlebnis auf Kosten der Eingabelatenz führt. Diese Einstellung kann zu einer Leistungsreduktion führen, sollte dein System zu langsam sein.",
   "sodium.options.fps_limit.tooltip": "Limitiert die maximale Zahl an Bildern pro Sekunde. Dies kann helfen sowohl Strom zu sparen, als auch allgemeine Systemauslastung beim Multitasking zu reduzieren. Wenn VSync aktiviert ist, wird diese Option ignoriert, außer die Einstellung ist niedriger als die Bildwiederholrate deines Monitors.",
   "sodium.options.view_bobbing.tooltip": "Wenn diese Option aktiviert ist, schwankt und wackelt die Ansicht des Spielers bei Bewegungen. Spieler, die beim Spielen unter Reisekrankheit leiden, können von einer Deaktivierung profitieren.",
