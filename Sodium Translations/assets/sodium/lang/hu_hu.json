@@ -9,8 +9,10 @@
   "sodium.options.pages.advanced": "Haladó",
   "sodium.options.view_distance.tooltip": "A látótávolság irányítja, milyen messzire látható a táj. Rövidebb távolságok esetén kevesebb táj lesz látható, növelve a képkocka-sebességet.",
   "sodium.options.simulation_distance.tooltip": "A szimulációs távolság irányítja, milyen messzire lévő tájelemek és entitások lesznek betöltve és frissítve. Rövidebb távolságok csökkenthetik a szerver terhelését és növelhetik a képkocka-sebességet.",
+  "sodium.options.brightness.tooltip": "Beállítja a minimum fényerőt a világban. Ha megnövelve, a sötétebb helyek világosabbnak tűnnek. Nem változtat már jól megvilágított területeken.",
   "sodium.options.gui_scale.tooltip": "Beállítja a felhasználói felület maximális méretarányát. Ha az \"automatikus\" van beállítva, a legnagyobb méret lesz használva.",
   "sodium.options.fullscreen.tooltip": "Ha be van kapcsolva, a játék teljes képernyős módban lesz (ha támogatott).",
+  "sodium.options.fullscreen_resolution.tooltip": "A monitor felbontása és frissítési gyakorisága teljesképernyős módban. Megváltoztatása megzavarhat más alkalmazásokat, és nagyobbá teheti az alkalmazások közti váltás idejét.\n\nCsak a Windows operációs rendszeren támogatott.",
   "sodium.options.v_sync.tooltip": "Ha be van kapcsolva, a játék képkocka-sebessége szinkronizálva lesz a monitor képfrissítési frekvenciájával, egy általánosan egyenletesebb élményért, a bemenet késésének kárára. Ez a beállítás csökkentheti a teljesítményt, ha a rendszered lassú.",
   "sodium.options.fps_limit.tooltip": "Korlátozza a másodpercenkénti képkockák maximális számát. Ez segíthet csökkenteni az akkumulátor-használatot és a rendszerterhelést többfeladatos munkavégzés esetén. Ha a VSync engedélyezve van, ez a beállítás figyelmen kívül marad, kivéve, ha alacsonyabb, mint a kijelző frissítési sebessége.",
   "sodium.options.view_bobbing.tooltip": "Ha engedélyezve van, a játékos nézete ingadozni és billegni fog, amikor mozog. Azoknak a játékosoknak, akik játék közben mozgásbetegséget tapasztalnak, előnyös lehet ezt kikapcsolni.",
@@ -45,6 +47,7 @@
   "sodium.options.use_persistent_mapping.name": "Állandó leképezés használata",
   "sodium.options.use_persistent_mapping.tooltip": "Csak hibakereséshez. Ha engedélyezve van, akkor a staging pufferhez állandó memóriakapcsolatokat használnak, így elkerülhető a felesleges memóriamásolatok készítése. Ennek kikapcsolása hasznos lehet a grafikus hiba okának leszűkítéséhez.\n\nOpenGL 4.4 vagy ARB_buffer_storage szükséges hozzá.",
   "sodium.options.chunk_update_threads.name": "Chunk frissítési szálak",
+  "sodium.options.chunk_update_threads.tooltip": "Megadja a chunk-építéshez és -rendszerezéshez használandó szálak számát. Több szál használata felgyorsíthatja a chunk betöltését és a frissítési sebességet, de negatívan befolyásolhatja a képkockaidőt. Az alapértelmezett érték általában minden helyzetben elegendő.",
   "sodium.options.always_defer_chunk_updates.name": "Chunk-frissítések elhalasztása",
   "sodium.options.always_defer_chunk_updates.tooltip": "Ha engedélyezve van, a renderelés soha nem várja meg a darabos frissítések befejezését, még akkor sem, ha azok fontosak. Ez bizonyos esetekben jelentősen javíthatja a képkocka sebességet, de jelentős vizuális késleltetést okozhat, amikor a blokkok megjelenése vagy eltűnése eltart egy ideig.",
   "sodium.options.use_no_error_context.name": "Kontextus nélküli hiba használata",
@@ -71,5 +74,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Kiválasztja a chunkok megjelenítéséhez használt memórialeosztót.\n- ASYNC: A leggyorsabb opció, jól működik a legtöbb modern grafikus illesztőprogrammal.\n- SWAP: Tartalék opció régebbi grafikus illesztőprogramokhoz. Jelentősen növelheti a memóriahasználatot.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "modmenu.summaryTranslation.sodium": "A leggyorsabb és legkompatibilisebb optimalizáló mod Minecraft-hoz.",
+  "modmenu.descriptionTranslation.sodium": "Sodium egy erőteljes renderelő rendszer Minecraft-hoz, ami nagymértékben javítja a képkockasebességet és a fagyásokat, miközben sok grafikus hibát is javít.",
   "sodium.resource_pack.unofficial": "§7Nem hivatalos fordítások Sodium-hoz§r"
 }
