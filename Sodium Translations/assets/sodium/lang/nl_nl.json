@@ -16,7 +16,11 @@
   "sodium.options.view_bobbing.tooltip": "Indien ingeschakeld beweegt de weergave heen en weer wanneer je beweegt. Spelers die last hebben van bewegingsziekte kunnen er baat bij hebben om dit uit te schakelen.",
   "sodium.options.attack_indicator.tooltip": "Bepaalt waar de aanvalsindicator wordt weergegeven.",
   "sodium.options.autosave_indicator.tooltip": "Indien ingeschakeld wordt er een indicator weergegeven wanneer de wereld wordt opgeslagen.",
+  "sodium.options.leaves_quality.name": "Bladeren",
   "sodium.options.buttons.undo": "Ongedaan maken",
   "sodium.options.buttons.apply": "Toepassen",
+  "sodium.console.game_restart": "Het spel moet herstart worden om de video settings toe te passen!",
+  "sodium.console.core_shaders_error": "De volgende resourcepakketten werken niet met Sodium:",
+  "sodium.console.core_shaders_warn": "De volgende resourcepakketten werken niet met Sodium:",
   "sodium.options.particle_quality.name": "Deeltjes"
 }
