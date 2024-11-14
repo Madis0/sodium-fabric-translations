@@ -21,6 +21,9 @@
   "sodium.options.buttons.apply": "Toepassen",
   "sodium.console.game_restart": "Het spel moet herstart worden om de video settings toe te passen!",
   "sodium.console.core_shaders_error": "De volgende resourcepakketten werken niet met Sodium:",
-  "sodium.console.core_shaders_warn": "De volgende resourcepakketten werken niet met Sodium:",
-  "sodium.options.particle_quality.name": "Deeltjes"
+  "sodium.console.core_shaders_warn": "De volgende resourcepakketten zijn mogelijk niet compatibel met Sodium:",
+  "sodium.options.particle_quality.name": "Deeltjes",
+  "modmenu.summaryTranslation.sodium": "De snelste en meest compatibele renderoptimalisatiemod voor Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "Sodium is een krachtige render engine voor Minecraft die de beeldsnelheid en kleine haperingen aanzienlijk verbetert en veel grafische problemen oplost.",
+  "sodium.resource_pack.unofficial": "Onofficiële vertalingen voor Sodium"
 }
