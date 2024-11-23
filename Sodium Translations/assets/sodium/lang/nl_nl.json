@@ -17,6 +17,8 @@
   "sodium.options.attack_indicator.tooltip": "Bepaalt waar de aanvalsindicator wordt weergegeven.",
   "sodium.options.autosave_indicator.tooltip": "Indien ingeschakeld wordt er een indicator weergegeven wanneer de wereld wordt opgeslagen.",
   "sodium.options.leaves_quality.name": "Bladeren",
+  "sodium.options.biome_blend.value": "%s blok(ken)",
+  "sodium.options.vignette.name": "Vignet",
   "sodium.options.buttons.undo": "Ongedaan maken",
   "sodium.options.buttons.apply": "Toepassen",
   "sodium.console.game_restart": "Het spel moet herstart worden om de video settings toe te passen!",
