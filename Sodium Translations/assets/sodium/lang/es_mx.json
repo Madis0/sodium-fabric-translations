@@ -9,7 +9,7 @@
   "sodium.options.pages.advanced": "Avanzado",
   "sodium.options.view_distance.tooltip": "La distancia de renderizado controla qué tan lejos se renderiza el terreno. Las distancias más cortas significan que se renderizará menos terreno, lo que mejorará los cuadros por segundo.",
   "sodium.options.simulation_distance.tooltip": "La distancia de simulación controla qué tan lejos se cargarán y ciclarán el terreno y las entidades. Las distancias más cortas pueden reducir la carga del servidor interno y pueden mejorar los cuadros por segundo.",
-  "sodium.options.brightness.tooltip": "Controla el brillo mínimo del mundo. Cuando se aumenta, las áreas más oscuras aparecerán más brillantes. Esto no afecta el brillo de las áreas que ya están bien iluminadas.",
+  "sodium.options.brightness.tooltip": "Controla el brillo mínimo del mundo. Cuando se aumenta, las áreas más oscuras del mundo aparecerán más brillantes. Esto no afecta el brillo de las áreas que ya están bien iluminadas.",
   "sodium.options.gui_scale.tooltip": "Ajusta la escala de la interfaz de usuario. Cuando la opción \"automática\" es seleccionada, la interfaz se ajustara a la escala máxima disponible.",
   "sodium.options.fullscreen.tooltip": "Si está habilitado, el juego se mostrará en pantalla completa (si es compatible).",
   "sodium.options.fullscreen_resolution.tooltip": "La resolución de la pantalla y la frecuencia de refresco que se utilizarán en el modo de pantalla completa. Cambiar esta opción puede interferir otras aplicaciones y causar un retraso al cambiar de una aplicación a otra.\n\nEsto solamente es compatible con el sistema operativo Windows.",
