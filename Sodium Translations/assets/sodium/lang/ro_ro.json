@@ -9,6 +9,7 @@
   "sodium.options.pages.advanced": "Avansat",
   "sodium.options.view_distance.tooltip": "Distanța vizuală controlează cât de departe va fi încărcat terenul. Distanțe mai mici rezultă în mai puțin teren încărcat, îmbunătățind FPS-ul.",
   "sodium.options.simulation_distance.tooltip": "Distanța de simulare controlează cât de departe va fi în totalitate încărcat terenul și entitățile. Distanțe mai mici pot reducere încărcătura asupra serverului intern și pot îmbunătăți FPS-ul.",
+  "sodium.options.brightness.tooltip": "Controlează luminozitatea minimă a lumii. Când este crescut, zonele mai întunecate ale lumii vor părea mai strălucitoare. Acest lucru nu afectează luminozitatea zonelor deja bine luminate.",
   "sodium.options.clouds_quality.tooltip": "Nivelul de calitate utilizat pentru încărcarea norilor pe cer. Deși opțiunile sunt etichetate ca „rapid” și „detaliat”, efectul asupra performanței este neglijabil.",
   "sodium.options.weather_quality.tooltip": "Controlează distanța în care efectele de vreme, precum ploaia sau ninsoarea, vor fi încărcate.",
   "sodium.options.leaves_quality.name": "Frunze",
