@@ -74,7 +74,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Wybiera alokator pamięci, który będzie użyty do renderowania chunków.\n- ASYNC: Najszybsza opcja, działa dobrze z większością nowoczesnych sterowników graficznych.\n- SWAP: Opcja awaryjna dla starszych sterowników graficznych. Może znacznie zwiększyć użycie pamięci.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "modmenu.summaryTranslation.sodium": "Najszybszy i najbardziej kompatybilny mod optymalizujący render do Minecrafta.",
-  "modmenu.descriptionTranslation.sodium": "Sodium jest potężnym silnikiem renderującym do Minecrafta, który znacząco polepsza generowanie klatek oraz mikro-ścinki tym samym naprawiając wiele błędów graficznych.",
+  "modmenu.summaryTranslation.sodium": "Najszybszy i najbardziej kompatybilny mod optymalizujący renderowanie do Minecrafta.",
+  "modmenu.descriptionTranslation.sodium": "Sodium jest potężnym silnikiem renderującym do Minecrafta, który znacząco polepsza generowanie klatek oraz mikro ścinki tym samym naprawiając wiele błędów graficznych.",
   "sodium.resource_pack.unofficial": "§7Nieoficjalne tłumaczenia dla Sodium§r"
 }
