@@ -9,7 +9,7 @@
   "sodium.options.pages.advanced": "Avancé",
   "sodium.options.view_distance.tooltip": "La distance d'affichage définit jusqu'où le terrain pourra être affiché. Une distance de rendu plus courte améliora la fréquence d'images en réduisant la quantité de terrain à afficher.",
   "sodium.options.simulation_distance.tooltip": "La distance de simulation définit jusqu'où le terrain et les entités pourront être chargés et mis à jour. Une distance plus courte peut réduire la charge du serveur interne et améliorer le framerate.",
-  "sodium.options.brightness.tooltip": "Contrôle la luminosité minimale dans le monde. Lorsqu'elle est augmentée, les zones sombres du monde apparaîtront plus lumineuses. Cela n'affecte pas la luminosité des zones déjà bien éclairées.",
+  "sodium.options.brightness.tooltip": "Contrôle la luminosité minimale dans le monde. Lorsqu'elle est augmentée, les zones plus sombres du monde apparaîtront plus lumineuses. Cela n'affecte pas la luminosité des zones déjà bien éclairées.",
   "sodium.options.gui_scale.tooltip": "Définit l'échelle de taille de l'interface utilisateur. Si \"auto\" est utilisé, alors la plus grande échelle possible sera utilisée.",
   "sodium.options.fullscreen.tooltip": "Si activée, le jeu sera affiché en plein écran (si supporté).",
   "sodium.options.fullscreen_resolution.tooltip": "Résolution et taux de rafraîchissement du moniteur à utiliser en mode plein écran. Modifier cette option peut interférer avec d'autres applications et provoquer un délai lors du changement entre celles-ci.\n\nCette option est uniquement prise en charge sur le système d'exploitation Windows.",
@@ -75,6 +75,6 @@
   "sodium.options.chunk_memory_allocator.async": "Asynchrone",
   "sodium.options.chunk_memory_allocator.swap": "Par permutation",
   "modmenu.summaryTranslation.sodium": "Le mod d'optimisation de rendu le plus rapide et le plus compatible pour Minecraft.",
-  "modmenu.descriptionTranslation.sodium": "Sodium est un moteur de rendu puissant pour Minecraft qui améliore grandement les taux de FPS et réduit les micro-saccades, tout en corrigeant de nombreux problèmes graphiques.",
+  "modmenu.descriptionTranslation.sodium": "Sodium est un moteur de rendu puissant pour Minecraft qui améliore grandement les taux d'images et réduit les micro-saccades, tout en corrigeant de nombreux problèmes graphiques.",
   "sodium.resource_pack.unofficial": "§7Traductions officieuses pour Sodium§r"
 }
