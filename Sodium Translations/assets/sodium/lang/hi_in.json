@@ -23,5 +23,7 @@
   "sodium.options.weather_quality.tooltip": "यह उस दूरी को नियंत्रित करता है जिस पर मौसम के प्रभाव, जैसे वर्षा और हिमपात, प्रदर्शित किए जाएंगे।",
   "sodium.options.leaves_quality.name": "पत्तियों",
   "sodium.options.leaves_quality.tooltip": "यह नियंत्रित करता है कि क्या पत्तियों को पारदर्शी (फैंसी) या अपारदर्शी (तेज़) के रूप में प्रस्तुत किया जाएगा।",
+  "sodium.options.use_persistent_mapping.tooltip": "केवल डीबगिंग के लिए। यदि सक्षम किया गया है, तो स्टेजिंग बफर के लिए लगातार मेमोरी मैपिंग का उपयोग किया जाएगा ताकि अनावश्यक मेमोरी कॉपी से बचा जा सके। इसे अक्षम करना ग्राफ़िकल भ्रष्टाचार के कारण को कम करने के लिए उपयोगी हो सकता है।\n\n\nOpenGL 4.4 या ARB_buffer_storage की आवश्यकता है.",
+  "sodium.options.chunk_update_threads.name": "",
   "sodium.options.particle_quality.name": "कणों"
 }
