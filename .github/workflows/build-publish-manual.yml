@@ -42,7 +42,7 @@ jobs:
           sha1sum "SodiumTranslations.zip" | cut -d " " -f 1 >
           "SodiumTranslations.zip.sha1"
       - name: Store Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Resource Pack
           path: SodiumTranslations.zip*
