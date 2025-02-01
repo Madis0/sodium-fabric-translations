@@ -72,5 +72,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "เลือกตัวจัดสรรหน่วยความจำที่จะใช้ในการเรนเดอร์ชังก์\n- Async: เร็วที่สุด, ใช้ได้กับไดร์เวอร์การ์ดจอรุ่นใหม่ได้เกือบทั้งหมด\n- สับเปลี่ยน: การตั้งค่าสำรองสำหรับไดรเวอร์การ์ดจอรุ่นเก่า อาจต้องใช้หน่วยความจำมากขึ้น",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "สับเปลี่ยน",
+  "modmenu.summaryTranslation.sodium": "มอดที่ปรับประสิทธิภาพและความลื่นไหลได้มากที่สุดของ Minecraft",
+  "modmenu.descriptionTranslation.sodium": "",
   "sodium.resource_pack.unofficial": "§7แปลม็อด Sodium แบบไม่เป็นทางการ§r"
 }
