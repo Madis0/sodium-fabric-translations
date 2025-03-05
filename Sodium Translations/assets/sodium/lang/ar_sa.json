@@ -30,5 +30,15 @@
   "sodium.options.mipmap_levels.tooltip": "يتحكم في عدد Mipmap الذي يستخدم الألياف مجسمات المكعبات، القيم الأعلى تقدم عرضا افضل المكعبات من مسافة ولاكن قد يؤثر سلبية على الأداء من حزم الموارد التي تستخدم الكثير من الألياف المتحركة.",
   "sodium.options.use_block_face_culling.name": "استخدام انتخاب أوجه المكعب",
   "sodium.options.use_block_face_culling.tooltip": "إذا ما مكن سيتم عرض أوجه المكعبات التي تواجه الكاميرة فقط هذا يمكن التخلص من أوجه المكعبات مبكرا في عملية العرض مم يرفع الأداء عاليا، قد تواجه بعض حزم الموارد مشاكلا من هذا الإعداد فلك تعطيله إذا كنت ترى حفرا في المكعبات.",
-  "sodium.options.particle_quality.name": "الجسيمات"
+  "sodium.options.animate_only_visible_textures.name": "تحريك التشكشرز الظاهره فقظ",
+  "sodium.options.cpu_render_ahead_limit.value": "%sصوره (ث)",
+  "sodium.options.buttons.undo": "تراجع",
+  "sodium.options.buttons.apply": "تأكيد",
+  "sodium.options.particle_quality.name": "الجسيمات",
+  "sodium.options.use_particle_culling.name": "استخدم تقنية التخلص من البارتيكلز غير المعروضه",
+  "sodium.options.allow_direct_memory_access.name": "سماح وصول ذاكره المباشر",
+  "sodium.options.enable_memory_tracing.name": "تشغل تتبع ذاكره",
+  "sodium.options.chunk_memory_allocator.async": "غير متزامنة",
+  "sodium.options.chunk_memory_allocator.swap": "تبديل",
+  "sodium.resource_pack.unofficial": "ترجمه غير رسميه لي سودسوم"
 }
