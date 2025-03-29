@@ -30,6 +30,7 @@
   "sodium.options.entity_distance.tooltip": "Distanța de randare utilizat pentru randarea entităților. Valorile mici scade distanța maximă la care vor fi redate entitățile, iar la valori mari îl crește.",
   "sodium.options.entity_shadows.tooltip": "Dacă este activată, umbrele de bază vor fi redate sub entități.",
   "sodium.options.vignette.name": "Vignette",
+  "sodium.options.mipmap_levels.tooltip": "Controlează numărul de mipmaps care vor fi folosite pentru texturile block-urilor. Valori mai mari oferă mai bună readerare pentru block-uri de la distanță, dar poate afecta performanța cu texturi personalizate care folosesc multe texturi animate.",
   "sodium.options.use_block_face_culling.name": "Utilizați eliminarea fețelor blocurilor",
   "sodium.options.use_block_face_culling.tooltip": "Dacă este activat, doar fețele blocurilor care sunt cu fața la cameră vor fi depuse pentru încărcare. Asta poate elimina un număr mare de fețe de blocuri devreme în procesul de încărcare, îmbunătățind semnificativ performanța încărcării. Unele pachete de resurse pot întâmpina probleme cu această opțiune, așadar dezactivați-o dacă întâlniți găuri în blocuri.",
   "sodium.options.use_fog_occlusion.name": "Utilizează ocluziunea ceții",
@@ -61,5 +62,5 @@
   "sodium.options.chunk_memory_allocator.swap": "Swap",
   "modmenu.summaryTranslation.sodium": "Cel mai rapid și compatibil mod de optimizare a încărcării jocului pentru Minecraft.",
   "modmenu.descriptionTranslation.sodium": "Sodium este un puternic motor de încărcare pentru Minecraft, care îmbunătățește foarte mult FPS-ul și micro sacadările jocului, în timp ce rezolvă multe probleme grafice.",
-  "sodium.resource_pack.unofficial": "§7Traducere neoficială a Sodium§r"
+  "sodium.resource_pack.unofficial": "§7Traducere neoficială pentru Sodium§r"
 }
