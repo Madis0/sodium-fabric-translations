@@ -12,7 +12,7 @@
   "sodium.options.brightness.tooltip": "Điều khiển độ sáng tối thiểu trong trò chơi. Khi tăng giá trị, các vùng tối sẽ được tăng cường độ sáng. Tính năng này không ảnh hưởng đến các khu vực đã có ánh sáng đầy đủ.",
   "sodium.options.gui_scale.tooltip": "Đặt hệ số quy mô tối đa được sử dụng cho giao diện người dùng. Nếu 'tự động' được sử dụng, thì hệ số quy mô lớn nhất sẽ luôn được sử dụng.",
   "sodium.options.fullscreen.tooltip": "Nếu được bật, trò chơi sẽ hiển thị ở chế độ toàn màn hình (nếu được hỗ trợ).",
-  "sodium.options.fullscreen_resolution.tooltip": "Độ phân giải và tốc độ làm mới áp dụng cho chế độ toàn màn hình. Thay đổi tùy chọn này có thể ảnh hưởng đến các ứng dụng khác và tạo độ trễ khi chuyển tác vụ.",
+  "sodium.options.fullscreen_resolution.tooltip": "Độ phân giải và tốc độ làm mới áp dụng cho chế độ toàn màn hình. Thay đổi tùy chọn này có thể ảnh hưởng đến các ứng dụng khác và tạo độ trể khi chuyển tác vụ.",
   "sodium.options.v_sync.tooltip": "Nếu được bật, tốc độ khung hình của trò chơi sẽ được đồng bộ hóa với tần số quét của màn hình, giúp mang lại trải nghiệm mượt mà hơn nhưng gây trễ đầu vào tổng thể. Cài đặt này có thể làm giảm hiệu suất nếu hệ thống của bạn quá chậm.",
   "sodium.options.fps_limit.tooltip": "Giới hạn số khung hình tối đa mỗi giây. Điều này có thể giúp giảm mức sử dụng pin và tải trọng làm việc chung của hệ thống khi làm việc đa tác vụ. Nếu VSync được bật, tùy chọn này sẽ bị bỏ qua trừ khi nó thấp hơn tần số quét màn hình của bạn.",
   "sodium.options.view_bobbing.tooltip": "Nếu được bật, góc nhìn của người chơi sẽ lắc lư và nhấp nhô khi di chuyển xung quanh. Người chơi bị say tàu xe khi chơi có thể hưởng lợi từ việc tắt tính năng này.",
