@@ -23,6 +23,8 @@
   "sodium.options.weather_quality.tooltip": "Абмяжоўвае адлегласць адлюстравання другіх эфектаў, такіх як дождж або снег.",
   "sodium.options.leaves_quality.name": "Лісце",
   "sodium.options.leaves_quality.tooltip": "Вызначае, ці будуць лісце адлюстроўвацца празрыстымі (дэталёва) або непразрыстымі (хутка).",
+  "sodium.options.particle_quality.tooltip": "Абмяжоўвае колькасць часціц, якія з'яўляюцца ў міры за прамежак часу.",
+  "sodium.options.smooth_lighting.tooltip": "Актывуе мяккае асвятленне і зацяненне блокаў у міры. Не ўплывае на частату кадраў, але можа злёгку павялічыць час загрузкі і абнаўленні чанкаў.",
   "sodium.options.biome_blend.value": "%s блок(аў)",
   "sodium.options.entity_shadows.tooltip": "Калі ўключана, простыя цені будуць адлюстроўвацца пад мобамі і іншымі існасцямі.",
   "sodium.options.vignette.name": "Віньетка",
