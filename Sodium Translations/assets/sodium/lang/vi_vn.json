@@ -77,6 +77,6 @@
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
   "modmenu.summaryTranslation.sodium": "Bản mod tối ưu quy trình kết xuất nhanh và tương thích nhất dành cho Minecraft.",
-  "modmenu.descriptionTranslation.sodium": "Sodium là một trình kết xuất mạnh mẽ cho Minecraft, giúp cải thiện đáng tốc độ khung hình, giảm thiểu hiện tượng giật - khựng và sửa nhiều lỗi đồ họa trong trò chơi.",
+  "modmenu.descriptionTranslation.sodium": "Sodium là một trình kết xuất mạnh mẽ cho Minecraft, giúp cải thiện đáng kể tốc độ khung hình, giảm thiểu hiện tượng giật - khựng và sửa nhiều lỗi đồ họa trong trò chơi.",
   "sodium.resource_pack.unofficial": "§7Bản dịch không chính thức cho Sodium§r"
 }
