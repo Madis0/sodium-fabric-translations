@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "若启用，游戏在保存存档时将显示一个指示器。",
   "sodium.options.graphics_quality.tooltip": "默认图形质量控制一些传统选项，并且是兼容其他模组所必需的。若下面的选项保留为“默认”，就会使用此选项的设置。",
   "sodium.options.clouds_quality.tooltip": "渲染空中的云时所遵循的质量等级。虽然该选项被标为“快速”与“高品质”，其对性能的影响通常微不足道。",
+  "sodium.options.clouds_distance.tooltip": "云层渲染的距离。该值对性能影响极小，主要用于优化视觉效果。",
   "sodium.options.weather_quality.tooltip": "控制天气效果（如雨和雪）渲染的最大距离。",
   "sodium.options.leaves_quality.name": "树叶",
   "sodium.options.leaves_quality.tooltip": "控制树叶是要渲染为透明（对应高品质）还是不透明（对应快速）。",
