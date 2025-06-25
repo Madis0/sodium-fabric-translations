@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Lubamisel kuvatakse indikaatorit, kui mäng salvestab maailma kettale.",
   "sodium.options.graphics_quality.tooltip": "Vaikimisi graafikakvaliteedi säte juhib teatud pärandvalikuid ning on vajalik modidega ühildumiseks. Kui allolevad valikud on jäetud sättele \"vaikimisi\", kasutavad need selle valiku sätet.",
   "sodium.options.clouds_quality.tooltip": "Taevas pilvede renderdamiseks kasutatav kvaliteeditase. Kuigi valikud on \"kiire\" ja \"uhke\", on nende mõju jõudlusele tühine.",
+  "sodium.options.clouds_distance.tooltip": "Kaugus, kuhu pilved renderdatakse. Omab minimaalset mõju jõudlusele, on mõeldud vaid visuaalseteks eesmärkideks.",
   "sodium.options.weather_quality.tooltip": "Juhib ilmaefektide, nagu vihma ja lume, renderduskaugust.",
   "sodium.options.leaves_quality.name": "Lehed",
   "sodium.options.leaves_quality.tooltip": "Juhib, kas lehed renderdatakse läbipaistvalt (uhked) või läbipaistmatult (kiired).",
