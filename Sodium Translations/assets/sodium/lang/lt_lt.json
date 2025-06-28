@@ -1,3 +1,5 @@
 {
+  "sodium.options.biome_blend.value": "%sblokas (-ai)",
+  "sodium.options.biome_blend.tooltip": ".",
   "sodium.options.particle_quality.name": "Dalelyčių"
 }
