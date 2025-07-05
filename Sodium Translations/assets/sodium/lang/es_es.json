@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Si se activa, se mostrará un indicador cuando el juego esté guardando el mundo en el disco.",
   "sodium.options.graphics_quality.tooltip": "La calidad de gráficos predeterminada controla algunas opciones heredadas y es necesaria para la compatibilidad con mods. Si las opciones a continuación se dejan en \"Predeterminado\", se usará esta configuración.",
   "sodium.options.clouds_quality.tooltip": "El nivel de calidad utilizado para representar las nubes en el cielo. Aunque las opciones están etiquetadas como \"Rápido\" y \"Detallado\", el efecto sobre el rendimiento es insignificante.",
+  "sodium.options.clouds_distance.tooltip": "La distancia hasta donde se renderizarán las nubes. Esta opción tiene impacto mínimo en el rendimiento y está pensado para fines visuales.",
   "sodium.options.weather_quality.tooltip": "Controla la distancia a la que se representarán los efectos climáticos, como la lluvia y la nieve.",
   "sodium.options.leaves_quality.name": "Hojas",
   "sodium.options.leaves_quality.tooltip": "Controla si las hojas se representarán transparentes (detalladas) u opacas (rápido).",
