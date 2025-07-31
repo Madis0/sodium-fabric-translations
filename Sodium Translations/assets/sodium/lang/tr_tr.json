@@ -39,7 +39,7 @@
   "sodium.options.use_fog_occlusion.tooltip": "Etkinleştirilirse, sis arkasında olduğu belirlenenler işlenmeyecek ve performansın iyileştirilmesine yardımcı olacaktır. Sis etkileri daha ağır olduğunda (örneğin su altındayken) iyileştirme daha çarpıcı olabilir, ancak bazı senaryolarda gökyüzü ve sis arasında istenmeyen görsel bozulmalara neden olabilir.",
   "sodium.options.use_entity_culling.name": "Entity Culling Kullan",
   "sodium.options.use_entity_culling.tooltip": "Etkinleştirildiğinde, kamera görüntü alanı içinde ancak görünür bir parçanın içinde olmayan varlıklar, render sırasında atlanacaktır. Bu optimizasyon, zaten yığın renderı için mevcut olan görünürlük verilerini kullanır ve ek bir yük eklenmez.",
-  "sodium.options.animate_only_visible_textures.name": "Yalnızca Görünür Dokuları Oynat",
+  "sodium.options.animate_only_visible_textures.name": "Yalnızca Görünen Dokuları Oynat",
   "sodium.options.animate_only_visible_textures.tooltip": "Etkinleştirildiğinde, yalnızca mevcut görüntüde görünür olduğu belirlenen hareketli dokular güncellenecektir. Bu, özellikle daha ağır kaynak paketleriyle birlikte bazı donanımlarda önemli bir performans artışı sağlayabilir. Bazı dokuların animasyonlu olmamasıyla ilgili sorunlar yaşarsanız, bu seçeneği devre dışı bırakmayı deneyin.",
   "sodium.options.cpu_render_ahead_limit.name": "CPU İleri İşleme Sınırı",
   "sodium.options.cpu_render_ahead_limit.tooltip": "Sadece hata ayıklama için. GPU'ya gönderilebilecek maksimum kare sayısını belirtir. Bu değeri değiştirmek önerilmez, çünkü çok düşük veya yüksek değerler kare hızı kararsızlığına neden olabilir.",
