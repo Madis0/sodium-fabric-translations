@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Pokud je povoleno, bude při ukládání hry na disk zobrazena ikona.",
   "sodium.options.graphics_quality.tooltip": "Výchozí kvalita grafiky ovládá některá původní nastavení a je vyžadována pro kompatibilitu s módy. Pokud jsou možnosti níže ponechány na „Výchozí“, budou používat toto nastavení.",
   "sodium.options.clouds_quality.tooltip": "Úroveň kvality při vykreslování mraků na obloze. I když mají možnosti označení „Rychlá“ a „Pěkná“, jejich vliv na výkon je zanedbatelný.",
+  "sodium.options.clouds_distance.tooltip": "Vzdálenost vykreslování mraků. Má minimální vliv na výkon, jde čistě o vzhled.",
   "sodium.options.weather_quality.tooltip": "Ovládá vzdálenost, ve které bude vykreslováno počasí, například déšť a sníh.",
   "sodium.options.leaves_quality.name": "Listy",
   "sodium.options.leaves_quality.tooltip": "Ovládá, zda bude listí vykresleno jako průhledné (pěkné) nebo neprůhledné (rychlé).",
