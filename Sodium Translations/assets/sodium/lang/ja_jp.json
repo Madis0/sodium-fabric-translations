@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "有効にすると、ゲームがワールドをストレージに保存しているときにインジケータが表示されます。",
   "sodium.options.graphics_quality.tooltip": "グラフィックスは、いくつかのレガシー設定を調節し、Modの互換性維持に必要です。以下の設定が「デフォルト」のままであれば、この設定が使用されます。",
   "sodium.options.clouds_quality.tooltip": "空の雲のレンダリングに使用される品質レベル。オプションに \"Fast \"と \"Fancy \"と表示されていても、パフォーマンスへの影響はごくわずかです。",
+  "sodium.options.clouds_distance.tooltip": "雲がレンダリングされる距離です。これはパフォーマンスへの影響は最小限で、見た目のためのものです。",
   "sodium.options.weather_quality.tooltip": "雨や雪などの天候エフェクトがレンダリングされる距離をコントロールします。",
   "sodium.options.leaves_quality.name": "木の葉",
   "sodium.options.leaves_quality.tooltip": "葉っぱを透明(fancy)にレンダリングするか、不透明(fast)にレンダリングするかを制御します。",
