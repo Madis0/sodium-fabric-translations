@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "När inställningen är påslagen kommer en indikator visas när spelet sparar världen till disken.",
   "sodium.options.graphics_quality.tooltip": "Standardgrafiksinställningarna kontrollerar några äldre inställningar och är nödvändig för mod-kompabilitet. Om inställningarna nedan är inställda på \"Standard\" kommer denna inställning användas.",
   "sodium.options.clouds_quality.tooltip": "Kvalitetsnivån använd för att rendera fram moln i himlen. Även om alternativen är markerade som \"Fast\" och \"Fancy\" så är påverkan på spelprestandan försumbar.",
+  "sodium.options.clouds_distance.tooltip": "Avståndet som moln kommer att renderas till. Detta har minimal påverkan på prestandan och är avsett för visuella syften.",
   "sodium.options.weather_quality.tooltip": "Kontrollerar avståndet där vädereffekter, som regn och snö, renderas.",
   "sodium.options.leaves_quality.name": "Löv",
   "sodium.options.leaves_quality.tooltip": "Kontrollerar huruvida löv renderas som antingen transparenta (fancy) eller opaka (fast).",
