@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Indien ingeschakeld wordt er een indicator weergegeven wanneer de wereld wordt opgeslagen.",
   "sodium.options.graphics_quality.tooltip": "De standaard grafische kwaliteit bepaalt enkele nalatenschap opties en is nodig voor mod compatibiliteit. Als de onderstaande opties op Standaard staan, wordt deze instelling gebruikt.",
   "sodium.options.clouds_quality.tooltip": "Het kwaliteitsniveau dat wordt gebruikt voor het weergeven van wolken in de lucht. Hoewel de opties het label Snel en Fancy hebben, is het effect op de prestaties te verwaarlozen.",
+  "sodium.options.clouds_distance.tooltip": "De afstand waarop wolken worden gerenderd. Dit heeft minimale invloed op de prestaties en is vooral bedoeld voor visuele weergave.",
   "sodium.options.weather_quality.tooltip": "Hiermee regel je de afstand tussen de weer effecten zoals Regen en sneeuw die worden weergeven.",
   "sodium.options.leaves_quality.name": "Bladeren",
   "sodium.options.leaves_quality.tooltip": "Hiermee bepaalt u of bladeren worden weergegeven als transparant (fancy) of ondoorzichtig (snel).",
