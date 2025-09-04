@@ -20,7 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "활성화하면, 월드를 저장할 때 화면에 작게 안내가 표시됩니다.",
   "sodium.options.graphics_quality.tooltip": "일부 레거시 옵션을 제어하는 기본 그래픽 품질로, 모드 호환성에 유용합니다. 나뉘어진 그래픽 설정이 \"기본\"으로 설정되어 있으면 이 설정이 적용됩니다.",
   "sodium.options.clouds_quality.tooltip": "구름의 품질을 설정합니다. 실제 성능에는 큰 영향을 미치지 않습니다.",
-  "sodium.options.clouds_distance.tooltip": "구름이 렌더링될 거리입니다. 성능에 거의 영향을 미치지 않으며, 시각적 목적으로 사용됩니다.",
+  "sodium.options.clouds_distance.tooltip": "구름이 렌더링 될 거리입니다. 성능에 거의 영향을 미치지 않으며, 시각적 목적으로 사용됩니다.",
   "sodium.options.weather_quality.tooltip": "눈과 비 등 날씨 효과가 렌더링되는 거리를 조절합니다.",
   "sodium.options.leaves_quality.name": "나뭇잎",
   "sodium.options.leaves_quality.tooltip": "나뭇잎을 투명하게 (화려하게) 또는 불투명하게 (빠르게) 렌더링 할지 설정합니다.",
