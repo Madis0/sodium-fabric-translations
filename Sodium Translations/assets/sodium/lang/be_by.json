@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Адлюстраванне індыкатара падчас захавання свету.",
   "sodium.options.graphics_quality.tooltip": "Якасць графікі кіруе некаторымі залежнымі наладамі. Опцыі ніжэй са значэннем \"па змаўчанні\" будуць выкарыстоўваць дадзены параметр.\nГэта таксама неабходна для сумяшчальнасці з модамі.",
   "sodium.options.clouds_quality.tooltip": "Узровень якасці рэндэрынгу аблокаў у небе. Хоць значэнні носяць назвы \"хутка\" і \"дэталёва\", розніца ў прадукцыйнасці нязначная.",
+  "sodium.options.clouds_distance.tooltip": "Адлегласць, на якую будуць адлюстроўвацца аблокі. Гэта мінімальна ўплывае на прадукцыйнасць і прызначана для візуальных мэтаў.",
   "sodium.options.weather_quality.tooltip": "Абмяжоўвае адлегласць адлюстравання другіх эфектаў, такіх як дождж або снег.",
   "sodium.options.leaves_quality.name": "Лісце",
   "sodium.options.leaves_quality.tooltip": "Вызначае, ці будуць лісце адлюстроўвацца празрыстымі (дэталёва) або непразрыстымі (хутка).",
@@ -31,9 +32,11 @@
   "sodium.options.vignette.tooltip": "Калі ўключана, эфект віньетка будзе даданы калі гулец знаходзіцца ў цёмных зонах, якія робяць увесь экран цямней і больш драматычным.",
   "sodium.options.mipmap_levels.tooltip": "Кантралюе ўзровень дэталізацыі якія будуць выкарыстаныя для блокаў мадэляў тэкстуры. Больш высокія ўзроўні забясьпечваюць лепей пра гружаныя блокі ў дыстанцыі, але могуць супрацьлегла паўплываць на выкананьне зь рэсурспакамі якія карыстаюць шмат аніміраваных тэкстур.",
   "sodium.options.use_block_face_culling.name": "Адсяканне граняў блокаў",
+  "sodium.options.use_block_face_culling.tooltip": "",
   "sodium.options.use_fog_occlusion.name": "Адсяканне чанкаў туманам",
   "sodium.options.use_entity_culling.name": "Адсяканне існасцяў",
   "sodium.options.animate_only_visible_textures.name": "Анімаваць толькі бачныя тэкстуры",
+  "sodium.options.animate_only_visible_textures.tooltip": "",
   "sodium.options.cpu_render_ahead_limit.name": "Рэндэрынг працэсара наперадзе лиміт",
   "sodium.options.cpu_render_ahead_limit.value": "%s кадр(ов)",
   "sodium.options.performance_impact_string": "Уплыў на прадукцыйнасць: %s",
@@ -64,5 +67,7 @@
   "sodium.options.chunk_memory_allocator.tooltip": "Выбірае размеркавальнік памяці, які выкарыстоўваецца для рэндэрынгу чанкаў.\n- ASYNC: Найхутчэйшы варыянт, добра працуе з большасцю сучасных графічных драйвераў.\n- SWAP: Запасны варыянт для старэйшых графічных драйвераў. Можа істотна пабольшыць выкарыстанне памяці.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
+  "modmenu.summaryTranslation.sodium": "Найхутчэйшы і найбольш сумяшчальны мод аптымізацыі рэндэрынгу для Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "Sodium — гэта магутны рухавік рэндэрынгу для Minecraft, які значна паляпшае частату кадраў і мікразаіканне, а таксама выпраўляе мноства графічных праблем.",
   "sodium.resource_pack.unofficial": "Неафіцыйныя пераклады для Sodium"
 }
