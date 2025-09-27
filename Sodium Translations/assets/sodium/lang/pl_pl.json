@@ -20,6 +20,7 @@
   "sodium.options.autosave_indicator.tooltip": "Jeśli włączone, ikona zapisywania będzie pokazana, gdy gra zapisuje świat na dysku.",
   "sodium.options.graphics_quality.tooltip": "Domyślna jakość grafiki kontroluje kilka starych opcji i jest potrzebna do kompatybilności modów. Jeśli opcje poniżej są ustawione na \"Domyślna\", wtedy użyją one tej opcji.",
   "sodium.options.clouds_quality.tooltip": "Poziom jakości użyty do renderowania chmur na niebie. Mimo tego, iż opcje się nazywają \"Szybka\" i \"Dokładna\", wpływ na wydajność jest znikomy.",
+  "sodium.options.clouds_distance.tooltip": "Dystans, do którego chmury będą renderowane. Ma to minimalny wpływ na wydajność i służy do urozmaicenia grafiki.",
   "sodium.options.weather_quality.tooltip": "Kontroluje dystans, z którego efekty pogody, takie jak deszcz i śnieg będą renderowane.",
   "sodium.options.leaves_quality.name": "Liście",
   "sodium.options.leaves_quality.tooltip": "Kontroluje czy liście będą renderowane jako przejrzyste (dokładne) lub nieprzejrzyste (szybkie).",
@@ -75,6 +76,6 @@
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap",
   "modmenu.summaryTranslation.sodium": "Najszybszy i najbardziej kompatybilny mod optymalizujący renderowanie do Minecrafta.",
-  "modmenu.descriptionTranslation.sodium": "Sodium jest potężnym silnikiem renderującym do Minecrafta, który znacząco polepsza generowanie klatek oraz mikro ścinki tym samym naprawiając wiele błędów graficznych.",
+  "modmenu.descriptionTranslation.sodium": "Sodium jest potężnym silnikiem renderującym do Minecrafta, który znacząco polepsza klatki na sekundę oraz minimalizuje zacinanie, naprawiając również wiele błędów graficznych.",
   "sodium.resource_pack.unofficial": "§7Nieoficjalne tłumaczenia dla Sodium§r"
 }
