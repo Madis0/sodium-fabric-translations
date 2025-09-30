@@ -1,4 +1,5 @@
 {
+  "sodium.resource_pack.unofficial": "§7Uoffisielle omsetjingar for Sodium§r",
   "sodium.option_impact.low": "Låg",
   "sodium.option_impact.medium": "Middels",
   "sodium.option_impact.high": "Høg",
@@ -22,6 +23,5 @@
   "sodium.console.core_shaders_error": "Følgjande tilfangspakkar er inkompatible med Sodium:",
   "sodium.console.core_shaders_warn": "Følgjande tilfangspakke kan vera inkompatibel med Sodium:",
   "sodium.console.core_shaders_info": "Sjekk spelloggen for detaljert informasjon.",
-  "sodium.options.particle_quality.name": "Partiklar",
-  "sodium.resource_pack.unofficial": "§7Uoffisielle omsetjingar for Sodium§r"
+  "sodium.options.particle_quality.name": "Partiklar"
 }
