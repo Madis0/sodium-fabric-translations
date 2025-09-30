@@ -1,4 +1,5 @@
 {
+  "sodium.resource_pack.unofficial": "§7Neslužbeni prijevodi za Sodium§r",
   "sodium.option_impact.low": "Nizak",
   "sodium.option_impact.medium": "Srednje",
   "sodium.option_impact.high": "Visoko",
@@ -23,8 +24,6 @@
   "sodium.options.leaves_quality.tooltip": "Kontrolira da li će listovi biti prikazani kao transparentni (fancy) ili neprozirni (brzo).",
   "sodium.options.particle_quality.tooltip": "Kontrolira maksimalan broj čestica koje mogu biti prikazane na ekranu istovremeno.",
   "sodium.options.smooth_lighting.tooltip": "Omogućava glatko osvjetljenje i sjenčanje blokova u svijetu. Ovo može vrlo malo povećati količinu vremena potrebnog za učitavanje ili ažuriranje dijela, ali ne utiče na brzinu frejmova.",
-  "sodium.options.biome_blend.value": "%s blok(a)/blokova",
-  "sodium.options.biome_blend.tooltip": "Udaljenost (u blokovima) na kojoj se boje bioma glatko miješaju. Korištenje viših vrijednosti će uvelike povećati količinu vremena potrebnog za učitavanje ili ažuriranje dijelova, kako bi se smanjila poboljšanja u kvaliteti.",
   "sodium.options.entity_distance.tooltip": "Multiplikator udaljenosti renderiranja koji se koristi za renderiranje entiteta. Manje vrijednosti se smanjuju, a veće povećavaju, maksimalna udaljenost na kojoj će biti prikazani entiteti.",
   "sodium.options.entity_shadows.tooltip": "Ako je uključeno, bit će prikazane sjene ispod stvorenja i ostalih entiteta.",
   "sodium.options.vignette.name": "Vinjeta",
@@ -45,8 +44,6 @@
   "sodium.options.use_persistent_mapping.name": "Koristi stalno mapiranje",
   "sodium.options.use_persistent_mapping.tooltip": "Samo za otklanjanje grešaka. Ako je omogućeno, trajna memorijska mapiranja će se koristiti za scenski ublaživač tako da se mogu izbjeći nepotrebne memorijske kopije. Onemogućavanje ovoga može biti korisno za sužavanje uzroka grafičkog oštećenja.",
   "sodium.options.chunk_update_threads.name": "Thread-ovi za ažuriranje chunk-ova",
-  "sodium.options.always_defer_chunk_updates.name": "Uvijek odgodi ažuriranja chunk-a",
-  "sodium.options.always_defer_chunk_updates.tooltip": "Ako je omogućeno, renderiranje nikada neće čekati da se ažuriranja chunkova završe, čak i ako su važna. Ovo može značajno poboljšati brzinu frejmova u nekim scenarijima, ali može stvoriti značajno vizualno kašnjenje gdje je potrebno neko vrijeme da se blokovi pojave ili nestanu.",
   "sodium.options.use_no_error_context.name": "Koristi OpenGL kontekst bez grešaka",
   "sodium.options.use_no_error_context.tooltip": "Kada je omogućeno, OpenGL kontekst će biti kreiran sa onemogućenom provjerom grešaka. Ovo malo poboljšava performanse renderiranja, ali može znatno otežati otklanjanje grešaka iznenadnih neobjašnjivih padova.",
   "sodium.options.buttons.undo": "Poništi",
@@ -54,12 +51,14 @@
   "sodium.options.buttons.donate": "Kupi nam kafu!",
   "sodium.console.game_restart": "Da bi se postavke primjenile, potrebno je ponovo pokrenuti igricu!",
   "sodium.console.broken_nvidia_driver": "Vaši NVIDIA grafički driveri su zastarjeli!\n  * Ovo će uzrokovati ozbiljne probleme sa performansama i padove igrice dok je Sodium instaliran.\n  * Nadogradite vaše grafičke drivere na najnoviju verziju (536.23 ili novije.)",
-  "sodium.console.pojav_launcher": "Sodium ne podržava PojavLauncher.\n  * Velika je šansa za ekstremne probleme sa performansama, grafičke probleme i padove igrice.\n  * Ako odlučite nastaviti, zapamtite da vam nećemo pomoći oko problema ili padova igrice!",
   "sodium.console.core_shaders_error": "Slijedeći paketi resursa nisu kompatibilni sa Sodium-om:",
   "sodium.console.core_shaders_warn": "Slijedeći paketi resursa možda nisu kompatibilni sa Sodium-om:",
   "sodium.console.core_shaders_info": "Za detaljne informacije provjeri zapisnik igrice.",
   "sodium.console.config_not_loaded": "Konfiguracijski fajl za Sodium je oštećen ili trenutno nije čitljiv. Neke opcije su privremeno vraćene na zadane vrijednosti. Molimo otvorite ekran Postavke videa da riješite ovaj problem.",
   "sodium.console.config_file_was_reset": "Konfiguracijski fajl je vraćen na poznate dobro zadane postavke.",
+  "sodium.options.always_defer_chunk_updates.name": "Uvijek odgodi ažuriranja chunk-a",
+  "sodium.options.always_defer_chunk_updates.tooltip": "Ako je omogućeno, renderiranje nikada neće čekati da se ažuriranja chunkova završe, čak i ako su važna. Ovo može značajno poboljšati brzinu frejmova u nekim scenarijima, ali može stvoriti značajno vizualno kašnjenje gdje je potrebno neko vrijeme da se blokovi pojave ili nestanu.",
+  "sodium.console.pojav_launcher": "Sodium ne podržava PojavLauncher.\n  * Velika je šansa za ekstremne probleme sa performansama, grafičke probleme i padove igrice.\n  * Ako odlučite nastaviti, zapamtite da vam nećemo pomoći oko problema ili padova igrice!",
   "sodium.options.particle_quality.name": "Čestice",
   "sodium.options.use_particle_culling.name": "Koristi sakrivanje čestica",
   "sodium.options.use_particle_culling.tooltip": "Ako je omogućeno, bit će prikazane samo čestice za koje je utvrđeno da su vidljive. Ovo može pružiti značajno poboljšanje fps-a kada je mnogo čestica u blizini.",
@@ -70,6 +69,5 @@
   "sodium.options.chunk_memory_allocator.name": "Alokator memorije za chunk-ove",
   "sodium.options.chunk_memory_allocator.tooltip": "Mjenja alokator memorije koji se koristi za prikazivanje chunk-ova.\n- ASYNC: Najbrža opcija, radi dobro sa većinu modernih grafičkih driver-a.\n- SWAP: Rezervna opcija za starije grafičke drivere. Može značajno povećati korištenje memorije.",
   "sodium.options.chunk_memory_allocator.async": "Async",
-  "sodium.options.chunk_memory_allocator.swap": "Swap",
-  "sodium.resource_pack.unofficial": "§7Neslužbeni prijevodi za Sodium§r"
+  "sodium.options.chunk_memory_allocator.swap": "Swap"
 }
