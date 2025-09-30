@@ -1,7 +1,6 @@
 {
   "sodium.options.leaves_quality.tooltip": "Kontroliuoja ar lapai bus rodomi kaip permatomi(Puikios arba pasakiškos kokybės) ar nepermatomi(greitos kokybės).",
   "sodium.options.particle_quality.tooltip": "Kontroliuoja daugiausiai leidžiama numerį rodomų dalelyčių ekrane vienu metu.",
-  "sodium.options.biome_blend.value": "%sblokas (-ai)",
   "sodium.options.vignette.name": "Grafinė vinjetė",
   "sodium.options.use_block_face_culling.name": "Naudokite blokų paviršiaus atranką",
   "sodium.options.use_fog_occlusion.name": "Naudoti rūko uždengimą",
