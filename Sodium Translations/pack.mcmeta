@@ -1,10 +1,12 @@
 {
     "pack": {
-        "pack_format": 15,
         "description": {
             "translate": "sodium.resource_pack.unofficial",
             "fallback": "Unofficial translations for Sodium"
         },
-        "supported_formats": [15, 64]
+        "pack_format": 15,
+        "supported_formats": [15, 64],
+        "min_format": 64,
+        "max_format": 69,
     }
 }
