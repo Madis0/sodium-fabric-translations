@@ -62,7 +62,7 @@
   "sodium.options.defer_chunk_updates.one_frame": "Segera",
   "sodium.options.defer_chunk_updates.zero_frames": "Semerta",
   "sodium.options.quad_splitting.name": "Ketelusan Sempurna",
-  "sodium.options.quad_splitting.tooltip": "Menggunakan pemisahan kuad untuk menjadikan blok (bukan entiti atau item) lut sinar kelihatan betul melalui pengisihan lut sinar walaupun jika ia bersilang atau mempunyai bentuk pelik, seperti anak kaca berwarna yang berair. Dalam mod \"Selamat\" terdapat had pada jumlah geometri yang boleh dijana dalam kes yang melampau untuk mengelakkan ranap atau penurunan prestasi. Had ini dinyahdayakankan dalam mod \"Tidak Terhad\".",
+  "sodium.options.quad_splitting.tooltip": "Menggunakan pemisahan kuad untuk menjadikan blok (bukan entiti atau item) lut sinar kelihatan betul melalui pengisihan lut sinar walaupun jika ia bersilang atau mempunyai bentuk pelik, seperti anak kaca berwarna yang berair. Dalam mod \"Selamat\" terdapat had pada jumlah geometri yang boleh dijana dalam kes yang melampau untuk mengelakkan ranap atau penurunan prestasi. Had ini dinyahdayakan dalam mod \"Tidak Terhad\".",
   "sodium.options.quad_splitting.safe": "Selamat",
   "sodium.options.quad_splitting.unlimited": "Tidak Terhad",
   "sodium.options.use_no_error_context.name": "Guna Tiada Konteks Ralat",
