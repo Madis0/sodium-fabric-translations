@@ -34,7 +34,7 @@
   "sodium.options.particle_quality.tooltip": "控制可以同時在畫面上顯示的最大粒子數量。",
   "sodium.options.smooth_lighting.tooltip": "啟用世界中方塊的平滑照明與陰影效果，這可能會稍微增加載入或更新區塊所需的時間，但不會影響 FPS。",
   "sodium.options.biome_blend.value": "%s×%s 個方塊",
-  "sodium.options.biome_blend.tooltip": "生態域色彩平滑混合的範圍（以方塊為單位）。預設值為 5x5。設定較高數值將明顯增加區塊載入或更新的用時，而對畫質效果的提升會逐漸遞減。",
+  "sodium.options.biome_blend.tooltip": "生態域色彩平滑混合的範圍（以方塊為單位）。預設值為 5×5。設定較高數值將明顯增加區塊載入或更新的用時，而對畫質效果的提升會逐漸遞減。",
   "sodium.options.entity_distance.tooltip": "實體顯示使用的顯示距離倍增器。較低的數值會減少能被顯示的實體離玩家的最大距離，較高的數值會增加這個距離。",
   "sodium.options.entity_shadows.tooltip": "若啟用，將在生物和其他實體下方顯示簡單的陰影。",
   "sodium.options.vignette.name": "暈影",
