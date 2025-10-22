@@ -55,6 +55,7 @@
   "sodium.options.use_persistent_mapping.tooltip": "Ainult silumise jaoks. Lubamisel kasutatakse etapipuhvri jaoks püsivaid mäluvastendusi, et vältida tarbetuid mälukoopiaid. Selle keelamine võib olla kasulik graafilise korruptsiooni põhjuste vähendamiseks.\n\nNõuab OpenGL 4.4 või ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Kamakauuenduste lõimed",
   "sodium.options.chunk_update_threads.tooltip": "Määrab lõimede arvu, mida kasutatakse kamakate ehitamiseks ja sorteerimiseks. Rohkemate lõimede kasutamine võib kiirendada kamakate laadimist ja uuendamiskiirust, ent samas negatiivselt mõjutada kaadrisagedust. Vaikeväärtus on tavaliselt kõigis olukordades piisavalt hea.",
+  "sodium.options.quad_splitting.name": "Täiuslik Läbipaistvus",
   "sodium.options.quad_splitting.safe": "turvaline",
   "sodium.options.quad_splitting.unlimited": "piiramatu",
   "sodium.options.use_no_error_context.name": "Ära kasuta veakonteksti",
