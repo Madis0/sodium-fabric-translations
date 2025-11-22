@@ -62,6 +62,7 @@
   "sodium.options.defer_chunk_updates.one_frame": "Breve",
   "sodium.options.defer_chunk_updates.zero_frames": "Imediato",
   "sodium.options.quad_splitting.name": "Translucência Perfeita",
+  "sodium.options.quad_splitting.tooltip": "Utiliza divisão quádrupla para fazer com que blocos translúcidos (não entidades ou itens) pareçam corretos através da classificação de translucidez, mesmo que estejam se cruzando ou tenham formas estranhas, como vidraças encharcadas. No modo “Seguro” há um limite para a quantidade de geometria que pode ser gerada em casos extremos, a fim de evitar crashes ou redução de desempenho. Esse limite é desativado no modo “Ilimitado”.",
   "sodium.options.quad_splitting.safe": "Seguro",
   "sodium.options.quad_splitting.unlimited": "Ilimitado",
   "sodium.options.use_no_error_context.name": "Contexto sem erro",
