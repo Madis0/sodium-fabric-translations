@@ -15,7 +15,6 @@
   "sodium.options.brightness.tooltip": "Kontrollerar minsta ljusstyrkan i världen. När den är höjd, kommer mörka områden i världen vara ljusare. Det kommer inte påverka ljusstyrkan i områden som redan är upplysta.",
   "sodium.options.gui_scale.tooltip": "Ställer in den maximala skalfaktorn som används för gränssnittet. Om \"auto\" används kommer den största skalan alltid användas.",
   "sodium.options.fullscreen.tooltip": "Om aktiverad så kommer spelet köras i helskärm.",
-  "sodium.options.fullscreen_resolution.tooltip": "Skärmupplösningen och uppdateringsfrekvensen som används i fullskärmsläge. Ändring av denna inställning kanske kan interferera med andra applikationer och lägga till en fördröjning med att hoppa mellan program.",
   "sodium.options.v_sync.tooltip": "Om aktiverad så kommer spelets bildfrekvens synkas till skärmens uppdateringsfrekvens vilket resulterar i en smidigare spelupplevelse vid kostnaden av ingångslatens. Denna inställning kan minska prestandan om ditt system är för långsamt.",
   "sodium.options.fps_limit.tooltip": "Begränsar det högsta antalet bildrutor per sekund. Detta kan hjälpa till att minska batterianvändning och systembelastning vid multi-tasking. Om VSync är aktiverat kommer denna inställning att ignoreras om inte det är lägre än din skärms uppdateringsfrekvens.",
   "sodium.options.view_bobbing.tooltip": "Om inställningen är påslagen kommer spelarens vy att svaja och gunga medans de rör sig. Spelare som upplever åksjuka under spelomgång kan dra nytta av att inaktivera denna inställning.",
