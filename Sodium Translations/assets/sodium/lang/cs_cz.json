@@ -15,7 +15,6 @@
   "sodium.options.brightness.tooltip": "Ovládá minimální jas ve světě. Při zvýšení budou tmavší oblasti světa vypadat světleji. Toto nastavení neovlivňuje jas dobře osvětlených oblastí.",
   "sodium.options.gui_scale.tooltip": "Nastavuje maximální faktor měřítka uživatelského rozhraní. Pokud je použito „auto“, bude vždy použit největší faktor měřítka.",
   "sodium.options.fullscreen.tooltip": "Pokud je povoleno, bude hra zobrazena na celé obrazovce (pokud je podporováno).",
-  "sodium.options.fullscreen_resolution.tooltip": "Rozlišení a obnovovací frekvence monitoru, které se použijí v celoobrazovkovém režimu. Změna této volby může narušit činnost ostatních aplikací a způsobit zpoždění při přepínání mezi aplikacemi.\n\nTato funkce je podporována pouze v operačním systému Windows.",
   "sodium.options.v_sync.tooltip": "Pokud je povoleno, snímková frekvence hry bude synchronizována s obnovovací frekvencí monitoru, což umožní obecněji plynulejší zážitek za cenu mírného zpoždění vstupu. Toto nastavení může snížit výkon, pokud je váš systém příliš pomalý.",
   "sodium.options.fps_limit.tooltip": "Omezuje maximální počet snímků za vteřinu. Toto může pomoci omezit využití baterie a obecnou zátěž systému při multitaskingu. Pokud je povolen VSync, bude tato možnost ignorována, pokud není nižší než obnovovací frekvence vašeho monitoru.",
   "sodium.options.view_bobbing.tooltip": "Pokud je povoleno, obrazovka hráče se bude hýbat a naklánět při pohybu. Zakázání této možnosti může pomoci hráčům s nevolností z pohybu při hraní.",

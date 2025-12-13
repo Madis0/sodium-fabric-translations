@@ -15,7 +15,6 @@
   "sodium.options.brightness.tooltip": "控制世界入面嘅最低光度，調高嘅時候，暗啲嘅地方會變光啲，但已經夠光嘅地方唔會受影響。",
   "sodium.options.gui_scale.tooltip": "設置用戶界面使用嘅最大縮放比例。如果使用「自動」，將會永遠使用最大嘅縮放比例。",
   "sodium.options.fullscreen.tooltip": "如果啟用，遊戲將會以全螢幕顯示（如果支援嘅話）。",
-  "sodium.options.fullscreen_resolution.tooltip": "喺全屏模式下用嘅顯示器解像度同刷新率。改呢個設定有機會影響其他應用程式運行，仲會令應用程式之間切換嘅時候出現延遲。\n\n呢個功能只支援Windows操作系統上使用。",
   "sodium.options.v_sync.tooltip": "如果啟用，遊戲的幀率會同電腦螢幕嘅刷新率同步，使整體體驗更加流暢，但會增加輸入延遲。如果你嘅系統太慢，呢個設定可能會降低效能。",
   "sodium.options.fps_limit.tooltip": "限制每秒最大幀數。呢個可以幫助減少電池嘅使用，同埋多任務處理時候產生嘅系統負荷。如果開咗垂直同步 (VSync)，呢個選項會被忽略，除非設定嘅 FPS 低於電腦螢幕嘅刷新率。",
   "sodium.options.view_bobbing.tooltip": "如果啟用，玩家移動時視角會搖晃同擺動。玩遊戲嘅時候會頭暈嘅玩家，關閉呢個設定可能會舒緩症狀。",
