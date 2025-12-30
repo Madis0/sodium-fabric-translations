@@ -15,6 +15,7 @@
   "sodium.options.brightness.tooltip": "Controla a luminosidade máxima no mundo. Quando aumentado, várias áreas escura do mundo vão aparecer mais clara. Não controla a luminosidade de áreas já bem iluminadas.",
   "sodium.options.gui_scale.tooltip": "Define o fator máximo da escala usada na interface. Se estiver posto como \"automático\", a maior escala sempre será usada.",
   "sodium.options.fullscreen.tooltip": "Se ligado, o jogo aparece em ecrã cheio (se suportado).",
+  "sodium.options.fullscreen_resolution.tooltip": "A resolução e a taxa de atualização do monitor a serem utilizadas no modo de tela cheia. Alterar esta opção pode interferir com outras aplicações e causar atrasos ao alternar entre elas.\n\nIsso é compatível apenas com os sistemas operacionais Windows ou macOS.",
   "sodium.options.v_sync.tooltip": "Quando ativado, o FPS do jogo será sincronizado com a taxa de atualização do monitor, proporcionando uma experiência geralmente mais suave às custas da latência de entrada. Esta definição pode reduzir o desempenho se o teu sistema for muito lento.",
   "sodium.options.fps_limit.tooltip": "Limita o número máximo de FPS. Isto pode ajudar a reduzir o uso da bateria e a carga geral do sistema ao realizar várias tarefas. Se o VSync estiver ativado, esta opção será ignorada, a menos que seja inferior à taxa de atualização do teu monitor.",
   "sodium.options.view_bobbing.tooltip": "Quando ativado, a visão do jogador balançará quando ao se movimentar. Jogadores com enjoo de movimento podem beneficiar da desativação desta opção.",
