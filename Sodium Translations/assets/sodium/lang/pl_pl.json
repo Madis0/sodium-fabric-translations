@@ -12,7 +12,7 @@
   "sodium.options.pages.advanced": "Zaawansowane",
   "sodium.options.view_distance.tooltip": "Zasięg renderowania kontroluje, jak daleko otoczenie będzie renderowane. Krótszy dystans oznacza, że mniej otoczenia będzie renderowane, zwiększając klatki na sekundę.",
   "sodium.options.simulation_distance.tooltip": "Zasięg symulacji kontroluje jak daleko otoczenie i byty będą wczytywane i symulowane. Krótsze dystansy mogą zmniejszyć obciążenie wewnętrznego serwera i poprawić klatki na sekundę.",
-  "sodium.options.brightness.tooltip": "Kontroluje minimalne oświetlenie w świecie. Gdy zwiększone, ciemniejsza obszary mapy zostaną rozjaśnione. Ta opcja nie wypływa na jasność już dobrze oświetlonych obszarów.",
+  "sodium.options.brightness.tooltip": "Kontroluje minimalne oświetlenie w świecie. Gdy zwiększone, ciemniejsze obszary mapy zostaną rozjaśnione. Ta opcja nie wypływa na jasność już dobrze oświetlonych obszarów.",
   "sodium.options.gui_scale.tooltip": "Ustawia maksymalne skalowanie użyte dla interfejsu użytkownika. Jeśli opcja \"auto\" jest użyta, wtedy największa skala interfejsu zawsze będzie użyta.",
   "sodium.options.fullscreen.tooltip": "Jeśli włączone, gra będzie wyświetlana w trybie pełnoekranowym (Jeśli opcja jest wspierana).",
   "sodium.options.fullscreen_resolution.tooltip": "Rozdzielczość monitora i jego czas odświeżenia, które mają zostać użyte w trybie pełnoekranowym. Zmiana tej opcji może kolidować z innymi aplikacjami i powodować opóźnienie przy przechodzeniu pomiędzy nimi.\n\nTa opcja jest wspierana tylko na systemach operacyjnych Windows lub macOS.",
