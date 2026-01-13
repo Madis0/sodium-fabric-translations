@@ -64,6 +64,7 @@
   "sodium.options.defer_chunk_updates.one_frame": "Včasné",
   "sodium.options.defer_chunk_updates.zero_frames": "Okamžité",
   "sodium.options.quad_splitting.name": "Perfektní průsvitnost",
+  "sodium.options.quad_splitting.tooltip": "Využívá dělení ploch („quad splitting“) k zajištění správného vykreslování průsvitných bloků (netýká se entit ani předmětů) pomocí řazení průsvitnosti. To funguje i v případech, kdy se bloky protínají nebo mají složité tvary, jako například zatopené barevné tabulky skla. V režimu „Bezpečné“ je v extrémních případech omezeno množství generované geometrie, aby se předešlo pádům hry nebo snížení výkonu. V režimu „Neomezené“ je toto omezení vypnuto.",
   "sodium.options.quad_splitting.safe": "Bezpečné",
   "sodium.options.quad_splitting.unlimited": "Neomezené",
   "sodium.options.use_no_error_context.name": "Použít kontext bez chyb",
