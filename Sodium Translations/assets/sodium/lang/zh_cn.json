@@ -33,7 +33,7 @@
   "sodium.options.leaves_quality.tooltip": "控制树叶是要渲染为透明（对应高品质）还是不透明（对应流畅）。",
   "sodium.options.particle_quality.tooltip": "控制可以同时渲染在屏幕上的最大粒子数。",
   "sodium.options.smooth_lighting.tooltip": "启用对世界内区块的平滑光照与着色。这会微量增加区块更新或加载的用时，但不会影响帧率。",
-  "sodium.options.biome_blend.value": "%sx%s格",
+  "sodium.options.biome_blend.value": "%s×%s格",
   "sodium.options.biome_blend.tooltip": "生物群系颜色平滑混合的区域（以方块为单位）。默认值为5x5。使用更高的值将显著增加区块加载或更新的用时，而对画质的提升将逐渐递减。",
   "sodium.options.entity_distance.tooltip": "实体渲染的显示距离倍数。更小的值会减少能被渲染的实体离玩家的最大距离，更大的值则会增加此距离。",
   "sodium.options.entity_shadows.tooltip": "若启用，将在生物和其他实体下方渲染简单的阴影。",
