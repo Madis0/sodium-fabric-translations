@@ -29,7 +29,7 @@
   "sodium.options.leaves_quality.name": "Foglie",
   "sodium.options.leaves_quality.fast": "Semplice",
   "sodium.options.leaves_quality.fancy": "Sofisticata",
-  "sodium.options.leaves_quality.tooltip": "Controls whether leaves will be rendered as transparent (sofisticata) or opaque (semplice).",
+  "sodium.options.leaves_quality.tooltip": "Controlla se le foglie saranno renderizzate come trasparenti (sofisticata) od opache (semplice).",
   "sodium.options.particle_quality.tooltip": "Controlla il numero massimo di particelle che possono essere presenti sullo schermo contemporaneamente.",
   "sodium.options.smooth_lighting.tooltip": "Consente l'illuminazione e l'ombreggiatura fluide dei blocchi nel mondo. Ciò può aumentare leggermente la quantità di tempo necessaria per caricare o aggiornare un chunk, ma non influisce sul frame rate.",
   "sodium.options.biome_blend.value": "%sx%s blocchi",
