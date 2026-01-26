@@ -72,7 +72,7 @@
   "sodium.options.buttons.apply": "Uygula",
   "sodium.options.buttons.donate": "Bize bir kahve al!",
   "sodium.console.game_restart": "Ayarların uygulanması için oyunun yeniden başlatılması gerekir!",
-  "sodium.console.broken_nvidia_driver": "NVIDIA ekran kartı sürücüsü eski!\n  * Sodium varsa performans sorunları ve çökmeler yaşıyabilirsiniz\n  * Lütfen en yeni drivere güncelleyin (sürüm 536.23 ve üstü)",
+  "sodium.console.broken_nvidia_driver": "NVIDIA ekran kartı sürücüsü eski!\n  * Sodium varsa performans sorunları ve çökmeler yaşıyabilirsiniz\n  * Lütfen en yeni sürücüye güncelleyin (sürüm 536.23 ve üstü)",
   "sodium.console.core_shaders_error": "Aşağıdaki kaynak paketleri Sodium ile uyumsuzdur:",
   "sodium.console.core_shaders_warn": "Aşağıdaki kaynak paketleri Sodium ile uyumsuz olabilir:",
   "sodium.console.core_shaders_info": "Ayrıntılı bilgi için oyun günlüğünü kontrol edin.",
