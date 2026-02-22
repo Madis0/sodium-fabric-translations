@@ -27,8 +27,6 @@
   "sodium.options.weather_quality.fast": "Snel",
   "sodium.options.weather_quality.fancy": "Fraai",
   "sodium.options.leaves_quality.name": "Bladeren",
-  "sodium.options.leaves_quality.fast": "Snel",
-  "sodium.options.leaves_quality.fancy": "Fraai",
   "sodium.options.leaves_quality.tooltip": "Hiermee bepaalt u of bladeren worden weergegeven als transparant (fancy) of ondoorzichtig (snel).",
   "sodium.options.particle_quality.tooltip": "Regelt het maximale aantal deeltjes dat op een bepaald moment op het scherm aanwezig kan zijn.",
   "sodium.options.smooth_lighting.tooltip": "Maakt de vloeiende verlichting en schaduw van blokken in de wereld mogelijk. Dit kan de hoeveelheid tijd die nodig is om een segment te laden of bij te werken heel licht verlengen, maar het heeft geen invloed op de framesnelheden.",
