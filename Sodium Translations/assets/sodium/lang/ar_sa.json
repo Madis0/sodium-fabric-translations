@@ -27,8 +27,6 @@
   "sodium.options.weather_quality.fast": "سريع",
   "sodium.options.weather_quality.fancy": "أنيق",
   "sodium.options.leaves_quality.name": "أوراق الشجر",
-  "sodium.options.leaves_quality.fast": "سريع",
-  "sodium.options.leaves_quality.fancy": "أنيق",
   "sodium.options.leaves_quality.tooltip": "يحكم إذا ما كانت الأوراق ستعرض شفافة (فاخر) أو معتمة (سريع).",
   "sodium.options.particle_quality.tooltip": "يتحكم في أعلى عدد من الجسيمات المعروض على الشاشة في نفس اللحظة.",
   "sodium.options.smooth_lighting.tooltip": "يمكن الإضاءة السلسة وتظليل المكعبات في العالم، هذا يزيد من الوقت المطلوب لتحميل القطع أو تحديثها ولكنه لا يؤثر على معدل الإطارات.",
