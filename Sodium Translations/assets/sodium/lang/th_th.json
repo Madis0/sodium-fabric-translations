@@ -25,8 +25,6 @@
   "sodium.options.weather_quality.fast": "รวดเร็ว",
   "sodium.options.weather_quality.fancy": "สวยงาม",
   "sodium.options.leaves_quality.name": "คุณภาพของใบไม้",
-  "sodium.options.leaves_quality.fast": "รวดเร็ว",
-  "sodium.options.leaves_quality.fancy": "สวยงาม",
   "sodium.options.leaves_quality.tooltip": "ควบคุมการเรนเดอร์ของใบไม้ว่าจะทำการเรนเดอร์ออกมาแบบโปร่งใส (สวยงาม) หรือ ทึบแสง (เร็ว)",
   "sodium.options.particle_quality.tooltip": "ควบคุมจำนวนสูงสุดของอนุภาคที่จะแสดงบนจอในช่วง ๆ หนึ่ง",
   "sodium.options.smooth_lighting.tooltip": "เปิดการใช้งานแสงแบบสมูดและเงาตกกระทบบนบล็อกในโลก การเปิดใช้งานการตั้งค่านี้จะทำให้การอัพเดท Chunk ช้าลง แต่จะไม่มีกระทบต่อเฟรมเรต",
