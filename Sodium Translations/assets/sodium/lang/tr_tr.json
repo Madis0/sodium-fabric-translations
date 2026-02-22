@@ -28,7 +28,6 @@
   "sodium.options.weather_quality.fast": "Hızlı",
   "sodium.options.weather_quality.fancy": "Hoş",
   "sodium.options.leaves_quality.name": "Yapraklar",
-  "sodium.options.leaves_quality.fast": "Hızlı",
   "sodium.options.leaves_quality.fancy": "Hoş",
   "sodium.options.leaves_quality.tooltip": "Yaprakların saydam (hoş) olarak mı yoksa opak (hızlı) olarak mı oluşturulacağını kontrol eder.",
   "sodium.options.particle_quality.tooltip": "Aynı anda ekranda bulunabilecek maksimum parçacık sayısını kontrol eder.",
