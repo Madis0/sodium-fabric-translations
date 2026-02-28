@@ -27,7 +27,6 @@
   "sodium.options.weather_quality.fast": "Cepat",
   "sodium.options.weather_quality.fancy": "Mewah",
   "sodium.options.leaves_quality.name": "Daun",
-  "sodium.options.leaves_quality.fast": "Cepat",
   "sodium.options.leaves_quality.fancy": "Mewah",
   "sodium.options.leaves_quality.tooltip": "Kontrol daun apapun yang akan dirender sebagai transparan (bagus) atau tak tembus (cepat).",
   "sodium.options.particle_quality.tooltip": "Mengatur jumlah maksimal partikel yang dapat muncul di layar pada waktu yang sama.",

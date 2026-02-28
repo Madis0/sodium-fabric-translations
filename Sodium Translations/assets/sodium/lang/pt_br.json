@@ -27,8 +27,6 @@
   "sodium.options.weather_quality.fast": "Rápida",
   "sodium.options.weather_quality.fancy": "Detalhada",
   "sodium.options.leaves_quality.name": "Folhas",
-  "sodium.options.leaves_quality.fast": "Rápida",
-  "sodium.options.leaves_quality.fancy": "Detalhada",
   "sodium.options.leaves_quality.tooltip": "Controla se as folhas serão renderizadas como transparentes (chique) ou opacas (rápido).",
   "sodium.options.particle_quality.tooltip": "Define o número máximo de partículas presentes na tela em qualquer momento.",
   "sodium.options.chunk_fade_time.value": "%s Segundos",

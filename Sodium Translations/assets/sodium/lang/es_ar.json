@@ -28,7 +28,7 @@
   "sodium.options.weather_quality.fancy": "Elegante",
   "sodium.options.leaves_quality.name": "Hojas",
   "sodium.options.leaves_quality.fast": "Rápido",
-  "sodium.options.leaves_quality.fancy": "Elegante",
+  "sodium.options.leaves_quality.fancy": "Detallado",
   "sodium.options.leaves_quality.tooltip": "Controla como son renderizadas las hojas, si transparentes (detalladas), u opacas (rápidas).",
   "sodium.options.particle_quality.tooltip": "Controla cuanta cantidad de partículas pueden ser visibles en pantalla a la vez.",
   "sodium.options.smooth_lighting.tooltip": "Activa la iluminación y sombreado suave de los bloques en el mundo. Esta opción puede aumentar significativamente la cantidad de tiempo que toma en renderizar o actualizar un chunk, pero no afecta a los fotogramas.",

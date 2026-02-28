@@ -26,7 +26,6 @@
   "sodium.options.weather_quality.fast": "Швидко",
   "sodium.options.weather_quality.fancy": "Детально",
   "sodium.options.leaves_quality.name": "Листя",
-  "sodium.options.leaves_quality.fast": "Швидко",
   "sodium.options.leaves_quality.fancy": "Детально",
   "sodium.options.leaves_quality.tooltip": "Керує тим, чи буде листя зроблено прозорим (fancy) або непрозорим (fast).",
   "sodium.options.particle_quality.tooltip": "Керує кількістю частинок, які одночасно можуть бути присутніми на екрані.",

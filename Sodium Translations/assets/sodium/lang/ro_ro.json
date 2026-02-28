@@ -28,8 +28,6 @@
   "sodium.options.weather_quality.fast": "Rapidă",
   "sodium.options.weather_quality.fancy": "Detaliată",
   "sodium.options.leaves_quality.name": "Frunze",
-  "sodium.options.leaves_quality.fast": "Rapidă",
-  "sodium.options.leaves_quality.fancy": "Detaliată",
   "sodium.options.leaves_quality.tooltip": "Controlează dacă frunzele vor fi încărcate transparent (detaliat) sau opac (rapid).",
   "sodium.options.particle_quality.tooltip": "Controlează numărul maxim de particule care pot fi prezente pe ecran într-un moment.",
   "sodium.options.chunk_fade_time.value": "%s secunde",
