@@ -1,0 +1,21 @@
+{
+  "modmenu.summaryTranslation.sodium": "Ang pinakamabilis at pinakakatugmang rendering optimization mod para sa Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "Ang Sodium ay isang malakas na rendering engine para sa Minecraft na lubos na nagpapahusay sa mga frame rate at micro-stutter, habang inaayos ang maraming mga graphical na isyu.",
+  "sodium.resource_pack.unofficial": "§7Hindi opisyal na pagsasalin para sa Sodium§r",
+  "sodium.option_impact.low": "Mababa",
+  "sodium.option_impact.medium": "Katamtaman",
+  "sodium.option_impact.high": "Mataas",
+  "sodium.option_impact.extreme": "Matindi",
+  "sodium.option_impact.varies": "Nag-iiba",
+  "sodium.options.pages.general": "Pangkalahatan",
+  "sodium.options.pages.quality": "Kalidad",
+  "sodium.options.pages.performance": "Pagganap",
+  "sodium.options.view_distance.tooltip": "Kinokontrol ng distansya sa pag-render kung gaano kalayo ang ire-render na lupain. Nangangahulugan ang mas maiikling distansya na mas kaunting lupain ang ire-render, na magpapahusay sa mga frame rate.",
+  "sodium.options.simulation_distance.tooltip": "Kinokontrol ng distansya ng simulation kung gaano kalayo ang lupain at mga entidad ang ilo-load at ititik. Maaaring bawasan ng mas maiikling distansya ang pag-load ng panloob na server at maaaring mapabuti ang mga frame rate.",
+  "sodium.options.brightness.tooltip": "Kinokontrol ang pinakamababang liwanag sa mundo. Kapag nadagdagan, magpapakita ng mas maliwanag ang mga madilim na bahagi ng mundo. Hindi nito naaapektuhan ang liwanag ng mga lugar na naiilawan.",
+  "sodium.options.gui_scale.tooltip": "Itinatakda ang pinakamataas na scale factor na gagamitin para sa user interface. Kung ang \"awtomatiko\" ang ginamit, palaging gagamitin ang pinakamalaking scale factor.",
+  "sodium.options.fullscreen.tooltip": "Kung pinagana, ipapakita ang laro sa full-screen (kung sinusuportahan).",
+  "sodium.options.fullscreen_resolution.tooltip": "Ang resolusyon ng monitor at refresh rate na gagamitin kapag nasa fullscreen mode. Ang pagpapalit ng opsyong ito ay maaaring makagambala sa iba pang mga aplikasyon at maging sanhi ng pagkaantala kapag nagpalipat-lipat sa mga aplikasyon. \n\nIto ay sinusuportahan lamang sa Windows o macOS na operating system.",
+  "sodium.options.v_sync.tooltip": "Kung pinagana, isisikronays sa refresh rate ng monitor ang frame rate ng laro, na gagawa para sa pangkalahatang mas maayos na karanasan sa gastos ng pangkalahatang pagkaantala ng input. Maaaring bawasan ng opsyon na ito ang pagganap kung masyadong mabagal ang iyong sistema.",
+  "sodium.options.fps_limit.tooltip": "Nililimitahan ang pinakamataas na bilang ng mga frame bawat segundo. Makakatulong ito na bawasan ang paggamit ng baterya at pag-load ng sistema kapag nakamulti-task. Kung pinagana ang VSync, hindi papansinin ang opsyong ito maliban kung mas mababa ito kaysa sa refresh rate ng iyong display."
+}
