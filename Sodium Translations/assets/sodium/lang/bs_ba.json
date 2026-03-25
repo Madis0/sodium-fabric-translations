@@ -11,7 +11,6 @@
   "sodium.options.view_distance.tooltip": "Udaljenost prikaza terena kontrolira koliko daleko će se prikazivati teren. Kraća udaljenost znači da će manje terena biti prikazano, što poboljšava fps.",
   "sodium.options.simulation_distance.tooltip": "Udaljenost simulacije kontrolira koliko daleko će entiteti, kao npr. životinje biti učitani i aktivni. Kraće udaljenosti mogu smanjiti opterećenje i poboljšati fps.",
   "sodium.options.gui_scale.tooltip": "Postavlja maksimalni faktor skaliranja koji se koristi za korisnički interfejs. Ako je postavljeno na 'auto' koristit će se najveći mogući faktor skaliranja.",
-  "sodium.options.fullscreen.tooltip": "Ako je uključeno, igra će se prikazivati preko cijelog ekrana (ako je podržano).",
   "sodium.options.v_sync.tooltip": "Ako je uključeno, fps će biti sinkroniziran sa brzinom osvježavanja monitora, što dovodi do generalno glađeg iskustva igranja po cijeni malo kašnjenja unosa. Ova opcija može utjecati na performanse na sporijim uređajima.",
   "sodium.options.fps_limit.tooltip": "Ograničava fps. Može pomoći u smanjivanju potrošnje baterije i generalnog opterećenja sistema. Ako je VSync uključen ova opcija se ignorira osim ako je niža od brzine osvježavanja vašeg monitora.",
   "sodium.options.attack_indicator.tooltip": "Kontrolira gdje se na ekranu prikazuje indikator napada.",
