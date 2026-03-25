@@ -14,7 +14,6 @@
   "sodium.options.simulation_distance.tooltip": "Simulerat avstånd kontrollerar hur långt bort terräng och entiteter laddas in. Kortare distanser kan reducera den interna serverns belastning och öka bildfrekvensen.",
   "sodium.options.brightness.tooltip": "Kontrollerar minsta ljusstyrkan i världen. När den är höjd, kommer mörka områden i världen vara ljusare. Det kommer inte påverka ljusstyrkan i områden som redan är upplysta.",
   "sodium.options.gui_scale.tooltip": "Ställer in den maximala skalfaktorn som används för gränssnittet. Om \"auto\" används kommer den största skalan alltid användas.",
-  "sodium.options.fullscreen.tooltip": "Om aktiverad så kommer spelet köras i helskärm.",
   "sodium.options.v_sync.tooltip": "Om aktiverad så kommer spelets bildfrekvens synkas till skärmens uppdateringsfrekvens vilket resulterar i en smidigare spelupplevelse vid kostnaden av ingångslatens. Denna inställning kan minska prestandan om ditt system är för långsamt.",
   "sodium.options.fps_limit.tooltip": "Begränsar det högsta antalet bildrutor per sekund. Detta kan hjälpa till att minska batterianvändning och systembelastning vid multi-tasking. Om VSync är aktiverat kommer denna inställning att ignoreras om inte det är lägre än din skärms uppdateringsfrekvens.",
   "sodium.options.attack_indicator.tooltip": "Kontrollerar var attackmätaren visas på skärmen.",
