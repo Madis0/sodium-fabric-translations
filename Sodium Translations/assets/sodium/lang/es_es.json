@@ -75,7 +75,7 @@
   "sodium.options.hidden_fluid_culling.name": "No renderizar fluidos escondidos",
   "sodium.options.hidden_fluid_culling.tooltip": "Si se activa, no renderiza los fluidos más agresivamente (fluidos escondidos tras una superficie), lo cual puede mejorar el rendimiento en cuevas inundadas y en áreas bajo el agua. Interrupciones en la superficie del fluido se pueden presentar al verlo desde un ángulo muy oblicuo.",
   "sodium.options.improved_fluid_shaping.name": "Forma de fluido mejorada",
-  "sodium.options.improved_fluid_shaping.tooltip": "Cambia como es la forma de los fluidos alrededor de bloques empapados. Esto puede mejorar la consistencia de las superficies de fluidos, al costo de no inclinar el fluido en la dirección de su flujo en algunos casos. Esto no afecta su comportamiento físico de ninguna forma.",
+  "sodium.options.improved_fluid_shaping.tooltip": "Cambia el cómo es la forma de los fluidos alrededor de bloques empapados. Esto puede mejorar la consistencia de las superficies de fluidos, al costo de no inclinar el fluido en la dirección de su flujo en algunos casos. Esto no afecta su comportamiento físico de ninguna forma.",
   "sodium.options.use_no_error_context.name": "Usar contexto sin error",
   "sodium.options.use_no_error_context.tooltip": "Cuando esté activado, el contexto OpenGL se creará con la verificación de errores deshabilitada. Esto mejora ligeramente el rendimiento de renderizado, pero puede dificultar mucho la depuración de fallos repentinos e inexplicables.",
   "sodium.options.buttons.undo": "Deshacer",
