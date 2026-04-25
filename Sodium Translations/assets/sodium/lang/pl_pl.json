@@ -1,6 +1,6 @@
 {
   "modmenu.summaryTranslation.sodium": "Najszybszy i najbardziej kompatybilny mod optymalizujący renderowanie do Minecrafta.",
-  "modmenu.descriptionTranslation.sodium": "Sodium jest potężnym silnikiem renderującym do Minecrafta, który znacząco polepsza klatki na sekundę oraz minimalizuje zacinanie, naprawiając również wiele błędów graficznych.",
+  "modmenu.descriptionTranslation.sodium": "Sodium to potężny silnik renderujący dla gry Minecraft, który znacznie poprawia liczbę klatek na sekundę i eliminuje drobne zacięcia, a jednocześnie rozwiązuje wiele problemów graficznych.",
   "sodium.resource_pack.unofficial": "§7Nieoficjalne tłumaczenia dla Sodium§r",
   "sodium.option_impact.low": "Niski",
   "sodium.option_impact.medium": "Średni",
@@ -68,6 +68,7 @@
   "sodium.options.quad_splitting.tooltip": "Używa podziału czworokątów, aby przezroczyste bloki (nie byty ani przedmioty) były poprawnie wyświetlane podczas sortowania przezroczystości, nawet jeśli się przenikają lub mają nietypowe kształty, takie jak zanurzone w wodzie kolorowe szyby. W trybie „Bezpiecznym” istnieje ograniczenie ilości generowanej geometrii w skrajnych przypadkach, aby zapobiec awariom lub pogorszeniu wydajności. To ograniczenie jest wyłączone w trybie „Nieograniczonym”.",
   "sodium.options.quad_splitting.safe": "Bezpieczne",
   "sodium.options.quad_splitting.unlimited": "Nieograniczone",
+  "sodium.options.improved_fluid_shaping.tooltip": "Zmienia sposób kształtowania się płynów wokół bloków nasiąkniętych wodą. Może to poprawić spójność powierzchni płynów – kosztem braku ich nachylenia w kierunku fizycznego przepływu w niektórych sytuacjach. Nie wpływa to w żaden sposób na fizyczne zachowanie płynów.",
   "sodium.options.use_no_error_context.name": "Używaj braku kontekstu błędu",
   "sodium.options.use_no_error_context.tooltip": "Jeśli włączone, kontekst OpenGL zostanie stworzony z wyłączonym sprawdzaniem błędów. To minimalnie zwiększy szybkość renderowania, ale może sprawić, że debugowanie awarii będzie trudniejsze.",
   "sodium.options.buttons.undo": "Cofnij",

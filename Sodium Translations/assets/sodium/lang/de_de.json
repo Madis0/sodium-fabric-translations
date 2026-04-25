@@ -72,6 +72,7 @@
   "sodium.options.quad_splitting.tooltip": "Verwendet Quad-Splitting, um transparente Blöcke (keine Entitäten oder Gegenstände) mittels Transparenzsortierung korrekt darzustellen, auch wenn sie sich überschneiden oder komische Formen haben, wie z. B. von Wasser umgebene Buntglasfenster. Im „Sicher” Modus gibt es eine Begrenzung, wie viel Geometrie in Extremfällen erzeugt werden kann, um Abstürze oder Leistungseinbußen zu vermeiden. Diese Begrenzung ist im „Unbegrenzten” Modus deaktiviert.",
   "sodium.options.quad_splitting.safe": "Sicher",
   "sodium.options.quad_splitting.unlimited": "Unbegrenzt",
+  "sodium.options.hidden_fluid_culling.name": "Verdeckte Flüssigkeitsauslese",
   "sodium.options.hidden_fluid_culling.tooltip": "Wenn diese Option aktiviert ist, wird das Culling für Flüssigkeiten stärker angewendet, was die Leistung in überfluteten Höhlen und Unterwasser-Gebieten verbessern kann. Bei flachen Blickwinklen können Unregelmäßigkeiten an der Oberfläche von Flüssigkeiten sichtbar werden.",
   "sodium.options.improved_fluid_shaping.name": "Verbesserte Formung von Flüssigkeiten",
   "sodium.options.improved_fluid_shaping.tooltip": "Ändert wie Flüssigkeiten um getränkte Blöcke herum bilden. Dies kann die Konsistenz von Oberflächen von Flüssigkeiten auf Kosten der mangelnden Abschrägung der Flüssigkeiten in die jeweilige physische Fliesrichtung verbessern. Dies beeinflusst jedoch nicht das physische Verhalten von Flüssigkeiten.",
