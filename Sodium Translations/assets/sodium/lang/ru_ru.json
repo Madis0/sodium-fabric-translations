@@ -60,7 +60,7 @@
   "sodium.options.use_persistent_mapping.name": "Постоянный буфер памяти",
   "sodium.options.use_persistent_mapping.tooltip": "Функция отладки, включает использование постоянного буфера для подготовки кадра во избежание излишних операций с памятью. Отключать имеет смысл только при поиске причин графических артефактов.\n\nТребуется OpenGL 4.4 или ARB_buffer_storage.",
   "sodium.options.chunk_update_threads.name": "Поточность сборки",
-  "sodium.options.chunk_update_threads.value": "%s потоков",
+  "sodium.options.chunk_update_threads.value": "%s Потоков",
   "sodium.options.default": "По умолчанию",
   "sodium.options.chunk_update_threads.tooltip": "Задаёт количество потоков для построения и сортировки чанков. Использование большего количества потоков способствует повышению скорости загрузки и обновления чанков, но может негативно влиять на время кадра. Стандартное значение обычно достаточно хорошо подходит для всех ситуаций.",
   "sodium.options.defer_chunk_updates.name": "Сборка чанков",
