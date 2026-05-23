@@ -75,7 +75,7 @@
   "sodium.options.hidden_fluid_culling.name": "流体カリング",
   "sodium.options.hidden_fluid_culling.tooltip": "有効にすると、流体に対してより強力な簡略化を適用します。これにより、浸水した洞窟や水中エリアでのパフォーマンスが向上します。ただし、視点が水平に近い角度になると、水面に不自然な途切れが見える場合があります。",
   "sodium.options.improved_fluid_shaping.name": "流体の改善",
-  "sodium.options.improved_fluid_shaping.tooltip": "排他的フルスクリーンは遅延を改善できる一方で、一部の入力方式が機能しなくなったり、タスクの切り替えが遅くなったりすることがあります。一方で、ボーダーレスフルスクリーンは著しいパフォーマンスの低下を招く可能性があります。",
+  "sodium.options.improved_fluid_shaping.tooltip": "水浸しのブロックの周囲で流体の形状が変化するよう設定します。これにより、流体表面の一貫性が向上しますが、状況によっては物理的な流れの方向に流体が傾かなくなる場合があります。なお、この設定は流体の物理的な挙動には一切影響しません。",
   "sodium.options.pixel_filtering_mode.name": "テクスチャ補間",
   "sodium.options.pixel_filtering_mode.tooltip": "テクスチャ内のピクセル間の境界の見た目を制御します。「最近傍補間」はピクセルの境界をくっきりと表示し、「線形補間」は境界を少しぼかして滑らかにします。「最近傍補間」の方がわずかに動作が速くなる場合があります。",
   "sodium.options.pixel_filtering_mode.nearest": "最近傍補間",
