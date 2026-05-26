@@ -77,6 +77,7 @@
   "sodium.options.improved_fluid_shaping.name": "Ulepszone kształtowanie cieczy",
   "sodium.options.improved_fluid_shaping.tooltip": "Zmienia sposób kształtowania się płynów wokół bloków nasiąkniętych wodą. Może to poprawić spójność powierzchni płynów – kosztem braku ich nachylenia w kierunku fizycznego przepływu w niektórych sytuacjach. Nie wpływa to w żaden sposób na fizyczne zachowanie płynów.",
   "sodium.options.pixel_filtering_mode.name": "Interpolacja tekseli",
+  "sodium.options.pixel_filtering_mode.tooltip": "Kontroluje wygląd krawędzi między pikselami w teksturach. Tryb „Najbliższy” powoduje ostre granice pikseli, podczas gdy tryb „Liniowy” sprawia, że ​​stają się one nieco rozmyte. Tryb „Najbliższy” może być nieco szybszy.",
   "sodium.options.pixel_filtering_mode.nearest": "Najbliższy",
   "sodium.options.pixel_filtering_mode.linear": "Liniowy",
   "sodium.options.use_no_error_context.name": "Używaj braku kontekstu błędu",
