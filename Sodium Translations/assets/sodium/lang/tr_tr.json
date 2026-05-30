@@ -76,6 +76,7 @@
   "sodium.options.hidden_fluid_culling.tooltip": "Etkinleştirildiğinde, sıvılara daha agresif bir ayıklama uygular; bu da su altı alanlarında performansı artırabilir. Çok dar bakış açılarında, sıvı yüzeyinde kopmalar görülebilir.",
   "sodium.options.improved_fluid_shaping.name": "Gelişmiş Sıvı Şekillendirme",
   "sodium.options.improved_fluid_shaping.tooltip": "Sıvıların su içeren bloklar etrafındaki şeklini değiştirir. Yüzey tutarlılığını artırabilir ancak bazı akışlarda eğimlerin kaybolmasına yol açabilir. Fiziksel davranışı etkilemez.",
+  "sodium.options.pixel_filtering_mode.name": "Texel İnterpolasyon",
   "sodium.options.pixel_filtering_mode.tooltip": "Doku içindeki pikseller arasındaki kenarların görünümünü kontrol eder. \"En yakın\" modu keskin piksel sınırları oluştururken, \"Doğrusal\" modu bunları biraz bulanıklaştırır. \"En yakın\" modu biraz daha hızlı olabilir.",
   "sodium.options.pixel_filtering_mode.nearest": "En yakın",
   "sodium.options.pixel_filtering_mode.linear": "Doğrusal",

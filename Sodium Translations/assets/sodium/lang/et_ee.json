@@ -14,7 +14,7 @@
   "sodium.options.view_distance.tooltip": "Nähtavuskaugus määrab, kui kaugele maastikku renderdatakse. Väiksemad kaugused tähendavad vähema maastiku renderdamist, parandades kaadrisagedust.",
   "sodium.options.simulation_distance.tooltip": "Simuleerimiskaugus juhib, kui kaugel olevat maastikku ja olemeid laaditakse ning tikse arvestatakse. Lühemad kaugused võivad parandada siseserveri koormust ning kaadrisagedust.",
   "sodium.options.brightness.tooltip": "Juhib maailma minimaalset heledust. Suurendamisel kuvatakse maailma tumedamad alad eredamalt. See ei muuda juba hästi valgustatud alade heledust.",
-  "sodium.options.gui_scale.tooltip": "Määrab kasutajaliidese maksimaalse mõõtkavateguri. Automaatse valiku korral kasutatakse alati suurimat mõõtkavategurit.",
+  "sodium.options.gui_scale.tooltip": "Määrab kasutajaliidese maksimaalse mastaabiteguri. Automaatse valiku korral kasutatakse alati suurimat mastaabitegurit.",
   "sodium.options.fullscreen_mode.name": "Täisekraanirežiim",
   "sodium.options.fullscreen_mode.off": "väljas",
   "sodium.options.fullscreen_mode.exclusive": "eksklusiivne",
