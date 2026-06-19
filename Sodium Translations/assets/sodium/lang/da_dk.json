@@ -15,7 +15,7 @@
   "sodium.options.simulation_distance.tooltip": "Simuleringsafstanden kontrollerer hvor langt væk terræn & væsner bliver indlæst og ticked. Lavere distancer kan reducere den interne server's belastning, hvilket potentielt forbedrer FPS.",
   "sodium.options.brightness.tooltip": "Kontrollerer minimums lysstyrken i verdenen. Højere værdier får mørkere dele af verdenen til at se lysere ud. Dette ændrer ikke allerede vel-belyste områder.",
   "sodium.options.gui_scale.tooltip": "Indstiller den maksimale skaleringsfaktor, der skal bruges til brugergrænsefladen. Hvis der vælges »auto«, vil den største skaleringsfaktor altid blive anvendt.",
-  "sodium.options.fullscreen_mode.name": "Fuldskærm",
+  "sodium.options.fullscreen_mode.name": "Fuldskærmstilstand",
   "sodium.options.fullscreen_mode.off": "Fra",
   "sodium.options.fullscreen_mode.exclusive": "Eksklusiv",
   "sodium.options.fullscreen_mode.borderless": "Kantfri",
