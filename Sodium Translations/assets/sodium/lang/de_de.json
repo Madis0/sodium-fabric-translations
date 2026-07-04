@@ -69,6 +69,8 @@
   "sodium.options.defer_chunk_updates.zero_frames": "Sofort",
   "sodium.options.quad_splitting.safe": "Sicher",
   "sodium.options.quad_splitting.unlimited": "Unbegrenzt",
+  "sodium.options.hidden_fluid_culling.default": "Standard",
+  "sodium.options.hidden_fluid_culling.optimized": "Optimiert",
   "sodium.options.pixel_filtering_mode.linear": "Linear",
   "sodium.options.use_no_error_context.name": "Keinen Fehlerkontext verwenden",
   "sodium.options.use_no_error_context.tooltip": "Wenn diese Option aktiviert ist, wird der OpenGL-Kontext mit deaktivierter Fehlerprüfung erstellt. Dies verbessert die Rendering-Leistung geringfügig, kann jedoch das Debuggen plötzlicher, unerklärlicher Abstürze erheblich erschweren.",
