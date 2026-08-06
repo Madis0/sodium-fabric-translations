@@ -1,1 +1,13 @@
-{}
+{
+  "modmenu.summaryTranslation.sodium": "Ang pinakamabilis at pinakamaangkuping pambago ng pagpapainam sa pananaw ng Minecraft.",
+  "sodium.resource_pack.unofficial": "§7Ditungkulaning pagsasalin ng Sodium§r",
+  "sodium.option_impact.low": "Mababa",
+  "sodium.option_impact.medium": "Katamtaman",
+  "sodium.option_impact.high": "Mataas",
+  "sodium.option_impact.extreme": "Matindi",
+  "sodium.option_impact.varies": "Nag-iiba",
+  "sodium.options.pages.general": "Pangkalahatan",
+  "sodium.options.pages.quality": "Kahusayan",
+  "sodium.options.pages.performance": "Pangkabilisan",
+  "sodium.options.pages.advanced": "Masalimuot"
+}
