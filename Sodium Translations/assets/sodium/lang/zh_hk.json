@@ -16,7 +16,7 @@
   "sodium.options.brightness.tooltip": "控制世界入面嘅最低光度，調高嘅時候，暗啲嘅地方會變光啲，但已經夠光嘅地方唔會受影響。",
   "sodium.options.gui_scale.tooltip": "設置用戶界面使用嘅最大縮放比例。如果使用「自動」，將會永遠使用最大嘅縮放比例。",
   "sodium.options.fullscreen_mode.name": "全螢幕模式",
-  "sodium.options.fullscreen_mode.off": "關閉",
+  "sodium.options.fullscreen_mode.off": "關",
   "sodium.options.fullscreen_mode.exclusive": "獨佔",
   "sodium.options.fullscreen_mode.borderless": "無邊框",
   "sodium.options.fullscreen_mode.tooltip": "「獨佔全螢幕」可以改善延遲，但係可能會影響一啲輸入法正常運作，同減慢咗切換至其他視窗嘅速度。用「無邊框全螢幕」就可能導致明顯嘅性能下降。",
