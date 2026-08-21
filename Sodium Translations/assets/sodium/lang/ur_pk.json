@@ -1,5 +1,11 @@
 {
   "modmenu.summaryTranslation.sodium": "مائن کرافٹ کے لیے سب سے تیز اور سب سے زیادہ مطابقت پذیر رینڈرنگ آپٹیمائزیشن موڈ.",
   "modmenu.descriptionTranslation.sodium": "سوڈیم مائن کرافٹ کے لیے ایک طاقتور رینڈرنگ انجن ہے جو فریم ریٹ اور مائیکرو سٹٹر کو بہت بہتر بناتا ہے، جبکہ بہت سے گرافیکی مسائل کو حل کرتا ہے۔.",
+  "sodium.resource_pack.unofficial": "§7سوڈیم کے غیر سرکاری تراجم§r",
+  "sodium.option_impact.low": "کم",
+  "sodium.option_impact.medium": "درمیانہ",
+  "sodium.option_impact.high": "زیادہ",
+  "sodium.option_impact.extreme": "انتہائی",
+  "sodium.option_impact.varies": "مختلف",
   "sodium.options.particle_quality.name": "ذرات"
 }
