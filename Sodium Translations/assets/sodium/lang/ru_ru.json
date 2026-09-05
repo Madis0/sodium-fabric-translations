@@ -79,7 +79,7 @@
   "sodium.options.hidden_fluid_culling.optimized": "Оптимизированный",
   "sodium.options.improved_fluid_shaping.name": "Форма воды и лавы",
   "sodium.options.improved_fluid_shaping.tooltip": "Определяет, как жидкости обтекают намоченные блоки. Параметр «альтернативный» может улучшить плавность поверхностей жидкостей, однако в некоторых ситуациях жидкость не будет наклоняться в направлении физического течения. Это никоим образом не влияет на физическое поведение жидкостей.",
-  "sodium.options.improved_fluid_shaping.default": "Обычная",
+  "sodium.options.improved_fluid_shaping.default": "Ванильный",
   "sodium.options.improved_fluid_shaping.alternative": "Альтернативный",
   "sodium.options.closest_point_entity_sort.name": "Сортировка сущностей",
   "sodium.options.closest_point_entity_sort.tooltip": "Определяет порядок сортировки полупрозрачной геометрии объектов. Режим «Расширенный» сортирует объекты по ближайшей к камере точке, что повышает точность рендеринга полупрозрачных четырехугольников разных размеров при незначительной нагрузке на процессор. Режим «По умолчанию» использует стандартную сортировку.",
