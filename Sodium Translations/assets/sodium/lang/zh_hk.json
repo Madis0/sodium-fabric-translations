@@ -81,6 +81,7 @@
   "sodium.options.improved_fluid_shaping.tooltip": "控制流體在含水方塊周圍嘅形狀。「代替」可以提高流體表面嘅一致性，但系會以使流體不沿流動方向傾斜。呢個選項唔會以任何方式影響流體嘅物理行為。",
   "sodium.options.improved_fluid_shaping.default": "原版",
   "sodium.options.improved_fluid_shaping.alternative": "代替",
+  "sodium.options.closest_point_entity_sort.name": "實體排序",
   "sodium.options.closest_point_entity_sort.default": "默認",
   "sodium.options.closest_point_entity_sort.enhanced": "增強",
   "sodium.options.pixel_filtering_mode.nearest": "最近",
