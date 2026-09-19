@@ -30,7 +30,7 @@
   "sodium.options.biome_blend.value": "%sx%s Bloke",
   "sodium.options.vignette.name": "Labunlibot",
   "sodium.options.use_block_face_culling.name": "Gamitin ang Pagtatago ng Gilid ng Bloke",
-  "sodium.options.use_fog_occlusion.name": "Gamitin ang Pagtatago ng Hamog",
+  "sodium.options.use_fog_occlusion.name": "Magtago sa Hamog",
   "sodium.options.use_entity_culling.name": "Gamitin ang Pagtatago ng Lalang",
   "sodium.options.animate_only_visible_textures.name": "Bubuhayin Lamang ang Nakikitang Gisok",
   "sodium.options.cpu_render_ahead_limit.name": "Takda sa Agap na I-re-render ng CPU",
