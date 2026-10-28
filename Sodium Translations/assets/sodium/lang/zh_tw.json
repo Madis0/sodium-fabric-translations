@@ -77,6 +77,7 @@
   "sodium.options.improved_fluid_shaping.default": "原版",
   "sodium.options.closest_point_entity_sort.name": "實體排序",
   "sodium.options.closest_point_entity_sort.default": "預設",
+  "sodium.options.closest_point_entity_sort.enhanced": "增強",
   "sodium.options.pixel_filtering_mode.name": "紋素插補",
   "sodium.options.pixel_filtering_mode.nearest": "最近鄰",
   "sodium.options.pixel_filtering_mode.linear": "線性",
