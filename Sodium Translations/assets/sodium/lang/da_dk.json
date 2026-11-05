@@ -46,6 +46,7 @@
   "sodium.options.use_block_face_culling.name": "Brug blokfladeudvælgelse",
   "sodium.options.use_fog_occlusion.name": "Brug tågeokklusion",
   "sodium.options.use_entity_culling.name": "Brug væsenfrasortering",
+  "sodium.options.animate_only_visible_textures.name": "Animer Kun Synlige Teksturer",
   "sodium.options.cpu_render_ahead_limit.value": "%s billed(er)",
   "sodium.options.performance_impact_string": "Virkning på ydeevnen: %s",
   "sodium.options.use_persistent_mapping.name": "Brug Vedvarende Kortlægning",
