@@ -20,6 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "독점",
   "sodium.options.fullscreen_mode.borderless": "테두리 없는",
   "sodium.options.fullscreen_mode.tooltip": "독점 전체 화면은 레이턴시를 개선할 수 있습니다, 그러나 일부 입력 장치가 느리게 동작할 수 있고 게임 외부로의 화면 전환이 느려질 수 있습니다. 테두리 없는 전체 화면은 중대한 성능 저하를 초래할 수 있습니다.",
+  "sodium.options.fullscreen_resolution.tooltip": "전체 화면 모드에서 사용할 모니터 해상도와 주사율을 설정합니다. 이 옵션을 변경하면 다른 애플리케이션에 영향을 줄 수 있으며, 애플리케이션 간 전환시 지연이 발생할 수 있습니다.",
   "sodium.options.v_sync.tooltip": "활성화하면, 게임의 프레임 속도가 모니터의 주사율과 동기화 되어, 필요없는 입력 지연을 줄여 전반적으로 부드러운 경험을 제공합니다. 다만, 시스템이 너무 느리거나 수직 동기화를 지원하지 않는 경우 성능이 오히려 감소할 수 있습니다.",
   "sodium.options.fps_limit.tooltip": "초당 프레임의 최대값을 설정합니다. 이렇게 하면 배터리 사용량을 줄이고 멀티 태스킹중에 시스템 사용량을 줄일 수 있습니다. 수직 동기화가 활성화 되어 있는 상태에서 해당 설정을 수직 동기화보다 높게 설정하면 수직 동기화가 우선 적용됩니다.",
   "sodium.options.attack_indicator.tooltip": "화면에 표시할 공격 표시기의 위치를 설정합니다.",
