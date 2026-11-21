@@ -20,7 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "Eksklyuziv",
   "sodium.options.fullscreen_mode.borderless": "Hoşiyasiz",
   "sodium.options.fullscreen_mode.tooltip": "Eksklyuziv töliq ekran keçikişni kamaytirişi mumkin, biroq ayrim kiritiş usullariga xaqit berişi va öyindan çiqişni sekinlaştirişi mumkin. Hoşiyasiz töliq ekran esa performansni sezilarli darajada tuşirişi mumkin.",
-  "sodium.options.fullscreen_resolution.tooltip": "Töliq ekran rejimida işlatiladigan monitor rezolyutsiyasi va yangilaniş tezligi. Bu sozlamani özgartiriş boşqa ilovalarga xalaqit berişi va ilovalar örtasida ötişda keçikişga olib kelişi mumkin.\n\nBu faqat Windows va macOS operatsion tizimlarida qöllab-quvvatlanadi.",
+  "sodium.options.fullscreen_resolution.tooltip": "Töliq ekran rejimida işlatiladigan monitor rezolyutsiyasi va yangilaniş tezligi. Bu sozlamani özgartiriş boşqa ilovalarga xalaqit berişi va ilovalar örtasida ötişda keçikişga olib kelişi mumkin.",
   "sodium.options.v_sync.tooltip": "Yoqilsa, öyinning kadrlar çastotasi monitorning yangilaniş tezligiga moslaştiriladi, bu esa kiritiş keçikişi evaziga öyinni silliqroq qiladi. Tizimingiz sekin bölsa, bu sozlama performansni pasaytirişi mumkin.",
   "sodium.options.fps_limit.tooltip": "Sekundiga maksimal kadrlar sonini çeklaydi. Bu köp vazifali rejimda batareya sarfini va tizim yuklamasini kamaytirişga yordam beradi. Agar VSync yoqilgan bölsa, bu parametr displeyning yangilaniş tezligidan past bölmasa, e'tiborsiz qoldiriladi.",
   "sodium.options.attack_indicator.tooltip": "Hujum indikatori ekranning qayerida körinişini boşqaradi.",

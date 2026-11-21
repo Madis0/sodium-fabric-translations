@@ -20,7 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "Eksklusif",
   "sodium.options.fullscreen_mode.borderless": "Tanpa Sempadan",
   "sodium.options.fullscreen_mode.tooltip": "Skrin penuh eksklusif dapat mengurangkan kependaman, namun ia mungkin menghalang sesetengah kaedah input daripada berfungsi dan melambatkan proses beralih keluar daripada permainan. Skrin penuh tanpa sempadan boleh menyebabkan kemerosotan prestasi yang ketara.",
-  "sodium.options.fullscreen_resolution.tooltip": "Resolusi dan kadar segar semula monitor untuk digunakan apabila dalam mod skrin penuh. Menukar pilihan ini mungkin mengganggu aplikasi lain dan menyebabkan kelewatan apabila bertukar antara aplikasi.\n\nPilihan ini hanya disokong pada sistem operasi Windows atau macOS.",
+  "sodium.options.fullscreen_resolution.tooltip": "Resolusi dan kadar segar semula monitor untuk digunakan apabila dalam mod skrin penuh. Menukar pilihan ini mungkin mengganggu aplikasi lain dan menyebabkan kelewatan apabila bertukar antara aplikasi.",
   "sodium.options.v_sync.tooltip": "Jika didayakan, kadar bingkai permainan akan diselaraskan dengan kadar segar semula monitor, yang akan menjadikan pengalaman lebih lancar pada umumnya dengan mengorbankan kependaman input secara keseluruhan. Tetapan ini mungkin boleh mengurangkan prestasi jika sistem anda terlalu perlahan.",
   "sodium.options.fps_limit.tooltip": "Mengehadkan bilangan maksimum bingkai per saat. Ini boleh membantu mengurangkan beban sistem dan penggunaan bateri apabila melakukan pelbagai tugas. Jika VSync didayakan, pilihan ini akan diabaikan melainkan ia lebih rendah daripada kadar segar semula paparan anda.",
   "sodium.options.attack_indicator.tooltip": "Mengawal dimana Penunjuk Serangan akan dipaparkan pada skrin.",
