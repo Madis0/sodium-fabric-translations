@@ -1,7 +1,7 @@
 {
   "modmenu.summaryTranslation.sodium": "Den hurtigste og mest kompatible renderings- og optimeringsmod til Minecraft.",
   "modmenu.descriptionTranslation.sodium": "Sodium er en kraftig rendering kerne for Minecraft, som stærkt forbedrer FPS og mikro-pauser, som også fikser mange grafiske problemer.",
-  "sodium.resource_pack.unofficial": "§7Uofficielle oversættelser for Sodium§r",
+  "sodium.resource_pack.unofficial": "§7Uofficielle oversættelser til Sodium§r",
   "sodium.option_impact.low": "Lav",
   "sodium.option_impact.medium": "Middel",
   "sodium.option_impact.high": "Høj",
@@ -33,7 +33,7 @@
   "sodium.options.weather_quality.fancy": "Flot",
   "sodium.options.leaves_quality.name": "Blade",
   "sodium.options.leaves_quality.fast": "Hurtige",
-  "sodium.options.leaves_quality.fancy": "Flot",
+  "sodium.options.leaves_quality.fancy": "Flotte",
   "sodium.options.leaves_quality.tooltip": "Kontrollerer hvorvidt blade bliver renderet som gennemsigtige (flot) eller uigennemsigtige (hurtig).",
   "sodium.options.particle_quality.tooltip": "Kontrollerer det maksimale antal af partikler der kan ses på skærmen på ethvert givet tidspunkt.",
   "sodium.options.chunk_fade_time.value": "%s sekunder",
@@ -91,7 +91,7 @@
   "sodium.options.buttons.undo": "Fortryd",
   "sodium.options.buttons.apply": "Anvend",
   "sodium.options.buttons.donate": "Køb en kaffe til os!",
-  "sodium.console.game_restart": "Dit spil skal genstartes for at anvende en eller flere video indstillinger!",
+  "sodium.console.game_restart": "Spillet skal genstartes for at anvende en eller flere videoindstillinger!",
   "sodium.console.broken_nvidia_driver": "Dine NVIDIA grafikdrivere er forældede!\n* Dette vil forårsage alvorlige problemer med ydeevnen og nedbrud når Sodium er installeret.\n* Venligst opdater dine grafikdrivere til den seneste version (version 536.23 eller nyere.)",
   "sodium.console.core_shaders_error": "Følgende ressourcepakker er inkompatible med Sodium:",
   "sodium.console.core_shaders_warn": "Følgende ressourcepakker er muligvis inkompatible med Sodium:",
@@ -107,7 +107,7 @@
   "sodium.options.allow_direct_memory_access.name": "Tillad direkte hukommelsesadgang",
   "sodium.options.enable_memory_tracing.name": "Aktiver hukommelsessporing",
   "sodium.options.chunk_memory_allocator.name": "Klods hukommelsestildeler",
-  "sodium.options.chunk_memory_allocator.tooltip": "Vælger hvilken hukommelsestildeler der vil blive brugt til klodsrendering.\n- ASYNC: Hurtigste indstilling som fungerer godt med de fleste moderne grafikdrivere.\n-SWAP: En nødløsning til ældre grafikdrivere. Kan muligvis forårsage en markant stigning i forbruget af hukommelse.",
+  "sodium.options.chunk_memory_allocator.tooltip": "Vælger hvilken hukommelsestildeler der vil blive brugt til klodsrendering.\n- ASYNC: Hurtigste indstilling som fungerer godt med de fleste moderne grafikdrivere.\n- SWAP: En nødløsning til ældre grafikdrivere. Kan muligvis forårsage en markant stigning i forbruget af hukommelse.",
   "sodium.options.chunk_memory_allocator.async": "Async",
   "sodium.options.chunk_memory_allocator.swap": "Swap"
 }
