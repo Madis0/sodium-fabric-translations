@@ -20,7 +20,6 @@
   "sodium.options.fullscreen_mode.exclusive": "Exkluzivní",
   "sodium.options.fullscreen_mode.borderless": "Bez rámečků",
   "sodium.options.fullscreen_mode.tooltip": "Exkluzivní režim celé obrazovky dokáže zlepšit odezvu, ale může zabránit fungování některých metod vstupu a zpomalit přepnutí ze hry. Bezrámečkový režim celé obrazovky může způsobit znatelné zhoršení výkonu.",
-  "sodium.options.fullscreen_resolution.tooltip": "Rozlišení a obnovovací frekvence monitoru, které se použijí v celoobrazovkovém režimu. Změna této volby může narušit činnost ostatních aplikací a způsobit zpoždění při přepínání mezi aplikacemi.\n\nTato funkce je podporována pouze v operačních systémem Windows a macOS.",
   "sodium.options.v_sync.tooltip": "Pokud je povoleno, snímková frekvence hry bude synchronizována s obnovovací frekvencí monitoru, což umožní obecněji plynulejší zážitek za cenu mírného zpoždění vstupu. Toto nastavení může snížit výkon, pokud je váš systém příliš pomalý.",
   "sodium.options.fps_limit.tooltip": "Omezuje maximální počet snímků za vteřinu. Toto může pomoci omezit využití baterie a obecnou zátěž systému při multitaskingu. Pokud je povolen VSync, bude tato možnost ignorována, pokud není nižší než obnovovací frekvence vašeho monitoru.",
   "sodium.options.attack_indicator.tooltip": "Ovládá, kde je na obrazovce zobrazen indikátor útoku.",
