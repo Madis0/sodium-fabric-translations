@@ -20,7 +20,6 @@
   "sodium.options.fullscreen_mode.exclusive": "Eksklusif",
   "sodium.options.fullscreen_mode.borderless": "Mode Tanpa Tepi",
   "sodium.options.fullscreen_mode.tooltip": "Mode layar penuh eksklusif (exclusive fullscreen) dapat memperbaiki latensi, namun bisa menghalangi fungsi metode input tertentu dan memperlambat proses beralih keluar dari permainan. Mode layar penuh tanpa bingkai (borderless fullscreen) dapat menyebabkan penurunan performa yang signifikan.",
-  "sodium.options.fullscreen_resolution.tooltip": "Resolusi dan refresh rate monitor yang akan digunakan saat dalam mode layar penuh. Mengubah opsi ini dapat mengganggu aplikasi lain dan menyebabkan penundaan saat beralih antar aplikasi.\n\nFitur ini hanya didukung pada sistem operasi Windows atau macOS.",
   "sodium.options.v_sync.tooltip": "Jika diaktifkan, frame rate akan di-sinkronisasikan dengan refresh rate monitor, membuat pengalaman yang halus dengan mengorbankan input latency. Pengaturan ini mungkin mengurangi performa jika sistem anda terlalu lambat.",
   "sodium.options.fps_limit.tooltip": "Membatasi jumlah maksimal bingkai per detik. Ini dapat membantu untuk mengurangi penggunaan baterai dan beban sistem ketika multi-tasking. Jika V-Sync diaktifkan, opsi ini akan diabaikan kecuali jika lebih rendah dari kecepatan refresh rate layar anda.",
   "sodium.options.attack_indicator.tooltip": "Menentukan letak dimana indikator serangan ditampilkan di layar.",
