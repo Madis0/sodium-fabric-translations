@@ -20,6 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "獨占",
   "sodium.options.fullscreen_mode.borderless": "無邊框",
   "sodium.options.fullscreen_mode.tooltip": "「獨占全螢幕」可改善延遲，但可能會導致部分輸入法無法運作，並減慢切換遊戲視窗的速度。使用「無邊框全螢幕」則可能導致顯著的效能下降。",
+  "sodium.options.fullscreen_resolution.tooltip": "喺全螢幕模式下嘅顯示器解像度同刷新率。更改呢個設定有機會影響其他應用程式嘅運行，仲會令到應用程式之間切換嘅時候出現延遲。",
   "sodium.options.v_sync.tooltip": "若啟用，遊戲的 FPS 會與顯示器更新率同步，使畫面整體看起來更流暢，但會增加整體的輸入延遲。如果系統效能不足，這項設定可能會降低效能。",
   "sodium.options.fps_limit.tooltip": "限制最高 FPS。這有助於在多工處理時降低耗電量和系統負載。如果啟用了垂直同步，除非設定值低於顯示器的更新率，否則這項選項將被忽略。",
   "sodium.options.attack_indicator.tooltip": "控制攻擊顯示計在畫面上顯示的位置。",
