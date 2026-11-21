@@ -20,7 +20,6 @@
   "sodium.options.fullscreen_mode.exclusive": "Exclusiv",
   "sodium.options.fullscreen_mode.borderless": "Fără margini",
   "sodium.options.fullscreen_mode.tooltip": "Ecranul complet exclusiv poate îmbunătăți latența, dar poate împiedica funcționarea anumitor metode de introducere a datelor și poate încetini ieșirea din joc. Fereastra fără margini poate duce la o scădere semnificativă a performanței.",
-  "sodium.options.fullscreen_resolution.tooltip": "Rezoluția monitorului și rata de reîmprospătare care sunt utilizate atunci când fereastra este în modul ecran complet. Modificarea acestei opțiuni poate cauza o întârziere la comutarea între aplicații.\n\nAcesta este acceptată numai pe sistemele de operare Windows sau macOS.",
   "sodium.options.v_sync.tooltip": "Dacă este activată, FPS-ul jocului va fi sincronizat cu rata de reîmprospătare a monitorului, ceea ce face o experiență în general mai lină în schimbul latenței generale de intrare. Această setare ar putea reduce performanța dacă sistemul dvs. este prea lent.",
   "sodium.options.fps_limit.tooltip": "Limitează numărul maxim de FPS. Aceasta poate ajuta la reducerea consumului de baterie și a încărcării sistemului în timpul multitasking-ului. Dacă Sincronizarea verticală este activată, această opțiune va fi ignorată, cu excepția cazului în care este mai mică decât rata de reîmprospătare a ecranului.",
   "sodium.options.attack_indicator.tooltip": "Controlează poziția indicatorul de atac pe ecran.",
