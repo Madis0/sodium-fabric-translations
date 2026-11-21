@@ -20,6 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "Exklusiv helskärm",
   "sodium.options.fullscreen_mode.borderless": "Kantlös helskärm",
   "sodium.options.fullscreen_mode.tooltip": "Exklusiv helskärm kan förbättra latens, men kan hindra vissa inmatningsmetoder från att fungera och sakta ner växling ut från spelet. Kantlös helskärm kan orsaka betydande prestandaförsämring.",
+  "sodium.options.fullscreen_resolution.tooltip": "Skärmupplösning och uppdateringsfrekvens som används i fullskärmsläge. Att ändra detta alternativ kan störa andra program och orsaka fördröjning vid växling mellan program.",
   "sodium.options.v_sync.tooltip": "Om aktiverad så kommer spelets bildfrekvens synkas till skärmens uppdateringsfrekvens vilket resulterar i en smidigare spelupplevelse vid kostnaden av ingångslatens. Denna inställning kan minska prestandan om ditt system är för långsamt.",
   "sodium.options.fps_limit.tooltip": "Begränsar det högsta antalet bildrutor per sekund. Detta kan hjälpa till att minska batterianvändning och systembelastning vid multitasking. Om VSync är aktiverat kommer denna inställning att ignoreras, såvida den inte är lägre än din skärms uppdateringsfrekvens.",
   "sodium.options.attack_indicator.tooltip": "Kontrollerar vart attackmätaren visas på skärmen.",
