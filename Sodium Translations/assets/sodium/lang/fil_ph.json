@@ -20,7 +20,6 @@
   "sodium.options.fullscreen_mode.exclusive": "Exclusive",
   "sodium.options.fullscreen_mode.borderless": "Borderless",
   "sodium.options.fullscreen_mode.tooltip": "Ang exclusice fullscreen ay makatutulong sa pag-antala, ngunit maaari nitong mapapigil ang iilang input method at mapapabagal ang paglilipat palabas ng laro. Ang borderless fullscreen ay maaaring makapalubha ng performance.",
-  "sodium.options.fullscreen_resolution.tooltip": "Ang resolusyon ng monitor at refresh rate na gagamitin kapag nasa fullscreen mode. Ang pagpapalit ng opsyong ito ay maaaring makagambala sa iba pang mga aplikasyon at maging sanhi ng pagkaantala kapag nagpalipat-lipat sa mga aplikasyon. \n\nIto ay sinusuportahan lamang sa Windows o macOS na operating system.",
   "sodium.options.v_sync.tooltip": "Kung pinagana, isisikronays sa refresh rate ng monitor ang frame rate ng laro, na gagawa para sa pangkalahatang mas maayos na karanasan sa gastos ng pangkalahatang pagkaantala ng input. Maaaring bawasan ng opsyon na ito ang pagganap kung masyadong mabagal ang iyong sistema.",
   "sodium.options.fps_limit.tooltip": "Nililimitahan ang pinakamataas na bilang ng mga frame bawat segundo. Makakatulong ito na bawasan ang paggamit ng baterya at pag-load ng sistema kapag nakamulti-task. Kung pinagana ang VSync, hindi papansinin ang opsyong ito maliban kung mas mababa ito kaysa sa refresh rate ng iyong display.",
   "sodium.options.attack_indicator.tooltip": "Kinokontrol kung saan ipinapakita ang Indikasyon ng Pag-atake sa screen.",
