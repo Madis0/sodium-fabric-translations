@@ -20,6 +20,7 @@
   "sodium.options.fullscreen_mode.exclusive": "Esclusiva",
   "sodium.options.fullscreen_mode.borderless": "Senza bordi",
   "sodium.options.fullscreen_mode.tooltip": "La modalità a schermo intero esclusiva può migliorare la latenza, ma potrebbe impedire il funzionamento di alcuni metodi d'input e rallentare il passaggio a un altra finestra. La modalità a schermo intero senza bordi può causare un significativo peggioramento delle prestazioni.",
+  "sodium.options.fullscreen_resolution.tooltip": "La risoluzione e la frequenza di aggiornamento dello schermo da utilizzare in modalità a schermo intero. Modificare questa opzione potrebbe interferire con altre applicazioni e causare ritardi quando si cambia applicazione.",
   "sodium.options.v_sync.tooltip": "Se abilitato, gli Fps del gioco verranno sincronizzati con la frequenza di aggiornamento del monitor, rendendo l'esperienza generalmente più fluida a discapito della latenza di input complessiva. Questa impostazione potrebbe ridurre le prestazioni se il tuo sistema è troppo lento.",
   "sodium.options.fps_limit.tooltip": "Limita il numero massimo di Fps. Ciò può aiutare a ridurre l'utilizzo della batteria e il carico generale sul sistema durante il multitasking. Se il VSync è abilitato questa opzione verrà ignorata, a meno che non sia inferiore alla frequenza di aggiornamento del display.",
   "sodium.options.attack_indicator.tooltip": "Controlla dove visualizzare l'indicatore di attacco sullo schermo.",
