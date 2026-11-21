@@ -20,7 +20,6 @@
   "sodium.options.fullscreen_mode.exclusive": "Exklusiv",
   "sodium.options.fullscreen_mode.borderless": "Randlos",
   "sodium.options.fullscreen_mode.tooltip": "Exklusives Vollbild kann die Latenz verbessern. Dies hindert allerdings manche Eingabemethoden daran korrekt zu funktionieren. Außerdem kann der Wechsel aus dem Spiel heraus verlangsamt werden. Randloser Vollbild kann signifikante Performanceeinbußen hervorrufen.",
-  "sodium.options.fullscreen_resolution.tooltip": "Die Bildschirmauflösung und Bildwiederholfrequenz, welche im Vollbildmodus benutzt werden soll. Durch das Ändern dieser Einstellung können Probleme mit anderen Anwendungen und eine Verzögerung während des Wechselns zwischen Anwendungen entstehen.\n\nDiese Einstellung wird nur unter Windows und macOS unterstützt.",
   "sodium.options.v_sync.tooltip": "Wenn aktiviert, wird die Bildrate des Spiels mit der Bildwiederholrate des Monitors synchronisiert, was zu einem flüssigeren Spielerlebnis auf Kosten der Eingabelatenz führt. Diese Einstellung kann zu einer Leistungsreduktion führen, sollte dein System zu langsam sein.",
   "sodium.options.fps_limit.tooltip": "Limitiert die maximale Zahl an Bildern pro Sekunde. Dies kann helfen sowohl Strom zu sparen, als auch allgemeine Systemauslastung beim Multitasking zu reduzieren. Wenn VSync aktiviert ist, wird diese Option ignoriert, außer die Einstellung ist niedriger als die Bildwiederholrate deines Monitors.",
   "sodium.options.attack_indicator.tooltip": "Steuert, wo die Angriffsanzeige auf dem Bildschirm angezeigt wird.",
