@@ -49,6 +49,8 @@
   "sodium.options.use_block_face_culling.tooltip": "Lubamisel renderdatakse ainult need plokiküljed, mis on vaatleja poole suunatud. See võib renderdusprotsessi varajases staadiumis eemaldada palju plokikülgi, mis parandab renderdusjõudlust märgatavalt. Teatud ressursipakkidel võib sellega probleeme tekkida - seega, kui näed plokkides auke, proovi see valik keelata.",
   "sodium.options.use_fog_occlusion.name": "Udu tõkestamine",
   "sodium.options.use_fog_occlusion.tooltip": "Lubamisel jäetakse täielikult uduefektidega kaetud kamakad renderdamisel vahele, aidates jõudlust parandada. Parendus võib olla suurem, kui uduefektid on tugevamad (nt vee all), ent see võib mõnel juhul luua taeva ja udu vahele mittesoovitud visuaalseid artifakte.",
+  "sodium.options.use_spherical_render_fog.name": "Kerakujuline renderdusudu",
+  "sodium.options.use_spherical_render_fog.tooltip": "Lubamisel arvutatakse renderduskauguse udu mängija ümber asuva kerana, mitte silindrina. See võib renderdatavate kamakate arvu vähendades jõudlust parandada, kuid muudab maailma serva välimust.",
   "sodium.options.use_entity_culling.name": "Olemite eraldus",
   "sodium.options.use_entity_culling.tooltip": "Lubamisel jäetakse renderdamisel vahele olemid, mis asuvad kaamera vaateaknas, kuid mitte nähtavas kamakas. See optimeering kasutab nähtavuse andmeid, mis on kamakate renderdamisel juba olemas, ning ei lisa seega täiendavat koormust.",
   "sodium.options.animate_only_visible_textures.name": "Animeeri vaid nähtavad tekstuurid",
