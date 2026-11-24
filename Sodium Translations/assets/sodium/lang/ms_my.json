@@ -49,6 +49,8 @@
   "sodium.options.use_block_face_culling.tooltip": "Jika didayakan, hanya muka blok yang menghadap kamera akan diserahkan untuk pemaparan. Ini boleh menghapuskan sejumlah besar muka blok sangat awal dalam proses pemaparan, yang meningkatkan prestasi pemaparan. Sesetengah pek sumber mungkin menghadapi masalah dengan pilihan ini, jadi cuba nyahdayakannya jika anda melihat lubang pada blok.",
   "sodium.options.use_fog_occlusion.name": "Guna Oklusi Kabus",
   "sodium.options.use_fog_occlusion.tooltip": "Jika didayakan, cebisan yang ditentukan untuk disembunyikan sepenuhnya oleh kesan kabus tidak akan dipaparkan, membantu meningkatkan prestasi. Peningkatan boleh menjadi lebih dramatik apabila kesan kabus adalah lebih berat (seperti semasa di dalam air), tetapi ia boleh menyebabkan artifak visual yang tidak diingini antara langit dan kabus dalam beberapa senario.",
+  "sodium.options.use_spherical_render_fog.name": "Gunakan Kabus Pemaparan Sfera",
+  "sodium.options.use_spherical_render_fog.tooltip": "Jika didayakan, kabus jarak pemaparan akan dikira sebagai sfera di sekeliling pemain, dan bukannya silinder. Ini boleh meningkatkan prestasi dengan mengurangkan bilangan cebisan yang perlu dipaparkan, namun ia akan mengubah rupa bentuk pada pinggir dunia.",
   "sodium.options.use_entity_culling.name": "Guna Penyorok Entiti",
   "sodium.options.use_entity_culling.tooltip": "Jika didayakan, entiti yang berada dalam kawasan pandangan kamera, tetapi tidak berada dalam cebisan yang kelihatan, akan dilangkau semasa pemaparan. Pengoptimuman ini menggunakan data keterlihatan yang telah wujud untuk pemaparan cebisan dan tidak menambah overhed.",
   "sodium.options.animate_only_visible_textures.name": "Hanya Animasikan Tekstur yang Terlihat",
